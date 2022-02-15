@@ -1,0 +1,759 @@
+userId,movieId,rating,timestamp,title,genres
+6,2,4.0,845553522,Jumanji (1995),Adventure|Children|Fantasy
+19,2,3.0,965704331,Jumanji (1995),Adventure|Children|Fantasy
+68,2,2.5,1158532776,Jumanji (1995),Adventure|Children|Fantasy
+91,2,3.0,1112713392,Jumanji (1995),Adventure|Children|Fantasy
+117,2,3.0,844163002,Jumanji (1995),Adventure|Children|Fantasy
+217,2,2.0,955942327,Jumanji (1995),Adventure|Children|Fantasy
+274,2,3.5,1171934785,Jumanji (1995),Adventure|Children|Fantasy
+307,2,2.5,1186161482,Jumanji (1995),Adventure|Children|Fantasy
+380,2,5.0,1493420295,Jumanji (1995),Adventure|Children|Fantasy
+414,2,3.0,961594981,Jumanji (1995),Adventure|Children|Fantasy
+470,2,3.0,849224778,Jumanji (1995),Adventure|Children|Fantasy
+474,2,3.0,1046886814,Jumanji (1995),Adventure|Children|Fantasy
+501,2,3.0,844973419,Jumanji (1995),Adventure|Children|Fantasy
+599,2,2.5,1498514085,Jumanji (1995),Adventure|Children|Fantasy
+602,2,4.0,840875851,Jumanji (1995),Adventure|Children|Fantasy
+604,2,5.0,832080293,Jumanji (1995),Adventure|Children|Fantasy
+608,2,2.0,1117490786,Jumanji (1995),Adventure|Children|Fantasy
+6,3,5.0,845554296,Grumpier Old Men (1995),Comedy|Romance
+19,3,3.0,965707636,Grumpier Old Men (1995),Comedy|Romance
+32,3,3.0,856736172,Grumpier Old Men (1995),Comedy|Romance
+68,3,2.0,1158533415,Grumpier Old Men (1995),Comedy|Romance
+91,3,3.0,1112712323,Grumpier Old Men (1995),Comedy|Romance
+117,3,3.0,844163663,Grumpier Old Men (1995),Comedy|Romance
+217,3,1.0,955944713,Grumpier Old Men (1995),Comedy|Romance
+307,3,3.5,1186161652,Grumpier Old Men (1995),Comedy|Romance
+337,3,4.0,860255784,Grumpier Old Men (1995),Comedy|Romance
+414,3,4.0,961439278,Grumpier Old Men (1995),Comedy|Romance
+470,3,3.0,849370396,Grumpier Old Men (1995),Comedy|Romance
+492,3,4.0,863976005,Grumpier Old Men (1995),Comedy|Romance
+501,3,5.0,844973817,Grumpier Old Men (1995),Comedy|Romance
+599,3,1.5,1498505071,Grumpier Old Men (1995),Comedy|Romance
+608,3,2.0,1117504413,Grumpier Old Men (1995),Comedy|Romance
+6,4,3.0,845554349,Waiting to Exhale (1995),Comedy|Drama|Romance
+84,4,3.0,858772461,Waiting to Exhale (1995),Comedy|Drama|Romance
+6,5,5.0,845553938,Father of the Bride Part II (1995),Comedy
+68,5,2.0,1158533624,Father of the Bride Part II (1995),Comedy
+84,5,3.0,857653289,Father of the Bride Part II (1995),Comedy
+117,5,3.0,844163754,Father of the Bride Part II (1995),Comedy
+181,5,3.0,845470124,Father of the Bride Part II (1995),Comedy
+337,5,4.0,860255784,Father of the Bride Part II (1995),Comedy
+414,5,2.0,961437647,Father of the Bride Part II (1995),Comedy
+437,5,2.0,859721015,Father of the Bride Part II (1995),Comedy
+470,5,3.0,849370453,Father of the Bride Part II (1995),Comedy
+474,5,1.5,1053021982,Father of the Bride Part II (1995),Comedy
+492,5,3.0,863976004,Father of the Bride Part II (1995),Comedy
+501,5,3.0,844973535,Father of the Bride Part II (1995),Comedy
+604,5,3.0,832080355,Father of the Bride Part II (1995),Comedy
+6,6,4.0,845553757,Heat (1995),Action|Crime|Thriller
+32,6,3.0,856736172,Heat (1995),Action|Crime|Thriller
+68,6,4.0,1158532058,Heat (1995),Action|Crime|Thriller
+84,6,4.0,857653289,Heat (1995),Action|Crime|Thriller
+91,6,5.0,1112712032,Heat (1995),Action|Crime|Thriller
+109,6,3.0,841108665,Heat (1995),Action|Crime|Thriller
+117,6,3.0,844163102,Heat (1995),Action|Crime|Thriller
+181,6,3.0,845469804,Heat (1995),Action|Crime|Thriller
+182,6,4.5,1054782012,Heat (1995),Action|Crime|Thriller
+191,6,4.0,829759809,Heat (1995),Action|Crime|Thriller
+217,6,2.0,955935939,Heat (1995),Action|Crime|Thriller
+274,6,4.0,1197022122,Heat (1995),Action|Crime|Thriller
+314,6,3.0,842432711,Heat (1995),Action|Crime|Thriller
+337,6,5.0,860255784,Heat (1995),Action|Crime|Thriller
+372,6,5.0,874415865,Heat (1995),Action|Crime|Thriller
+380,6,5.0,1494278663,Heat (1995),Action|Crime|Thriller
+414,6,3.0,961515642,Heat (1995),Action|Crime|Thriller
+437,6,5.0,859721015,Heat (1995),Action|Crime|Thriller
+470,6,3.0,849843318,Heat (1995),Action|Crime|Thriller
+474,6,3.0,1047054565,Heat (1995),Action|Crime|Thriller
+492,6,3.0,863976004,Heat (1995),Action|Crime|Thriller
+501,6,3.0,844973487,Heat (1995),Action|Crime|Thriller
+599,6,4.5,1498539623,Heat (1995),Action|Crime|Thriller
+602,6,3.0,840876055,Heat (1995),Action|Crime|Thriller
+603,6,4.0,963177624,Heat (1995),Action|Crime|Thriller
+604,6,3.0,832080355,Heat (1995),Action|Crime|Thriller
+6,7,4.0,845554264,Sabrina (1995),Comedy|Romance
+19,7,2.0,965706657,Sabrina (1995),Comedy|Romance
+32,7,4.0,856736173,Sabrina (1995),Comedy|Romance
+68,7,2.0,1230498124,Sabrina (1995),Comedy|Romance
+84,7,3.0,857653289,Sabrina (1995),Comedy|Romance
+117,7,4.0,844163615,Sabrina (1995),Comedy|Romance
+181,7,3.0,845470611,Sabrina (1995),Comedy|Romance
+314,7,4.0,834241492,Sabrina (1995),Comedy|Romance
+337,7,3.0,860255784,Sabrina (1995),Comedy|Romance
+414,7,3.0,961439170,Sabrina (1995),Comedy|Romance
+470,7,3.0,849370453,Sabrina (1995),Comedy|Romance
+474,7,3.0,978576381,Sabrina (1995),Comedy|Romance
+492,7,3.0,863976055,Sabrina (1995),Comedy|Romance
+501,7,4.0,844973817,Sabrina (1995),Comedy|Romance
+599,7,2.5,1498514161,Sabrina (1995),Comedy|Romance
+606,7,2.5,1171754710,Sabrina (1995),Comedy|Romance
+6,8,3.0,845555281,Tom and Huck (1995),Adventure|Children
+274,8,3.0,1172030892,Tom and Huck (1995),Adventure|Children
+372,8,2.0,874415441,Tom and Huck (1995),Adventure|Children
+414,8,3.0,961594849,Tom and Huck (1995),Adventure|Children
+501,8,3.0,844974090,Tom and Huck (1995),Adventure|Children
+6,10,3.0,845553253,GoldenEye (1995),Action|Adventure|Thriller
+19,10,2.0,965709556,GoldenEye (1995),Action|Adventure|Thriller
+68,10,4.5,1158531612,GoldenEye (1995),Action|Adventure|Thriller
+84,10,3.0,860397812,GoldenEye (1995),Action|Adventure|Thriller
+91,10,3.5,1112713269,GoldenEye (1995),Action|Adventure|Thriller
+117,10,3.0,844162850,GoldenEye (1995),Action|Adventure|Thriller
+181,10,2.0,845469438,GoldenEye (1995),Action|Adventure|Thriller
+182,10,3.5,1054782216,GoldenEye (1995),Action|Adventure|Thriller
+217,10,4.0,955940584,GoldenEye (1995),Action|Adventure|Thriller
+274,10,4.0,1171428459,GoldenEye (1995),Action|Adventure|Thriller
+307,10,2.5,1186161010,GoldenEye (1995),Action|Adventure|Thriller
+314,10,3.0,834241870,GoldenEye (1995),Action|Adventure|Thriller
+372,10,3.0,874416808,GoldenEye (1995),Action|Adventure|Thriller
+380,10,5.0,1493419787,GoldenEye (1995),Action|Adventure|Thriller
+414,10,3.0,961515863,GoldenEye (1995),Action|Adventure|Thriller
+470,10,3.0,849075144,GoldenEye (1995),Action|Adventure|Thriller
+501,10,4.0,844973340,GoldenEye (1995),Action|Adventure|Thriller
+599,10,3.5,1498500281,GoldenEye (1995),Action|Adventure|Thriller
+602,10,3.0,840875622,GoldenEye (1995),Action|Adventure|Thriller
+608,10,4.0,1117408486,GoldenEye (1995),Action|Adventure|Thriller
+6,11,4.0,845553489,"American President, The (1995)",Comedy|Drama|Romance
+68,11,4.5,1158531050,"American President, The (1995)",Comedy|Drama|Romance
+84,11,4.0,858771861,"American President, The (1995)",Comedy|Drama|Romance
+109,11,4.0,841108045,"American President, The (1995)",Comedy|Drama|Romance
+117,11,4.0,844162970,"American President, The (1995)",Comedy|Drama|Romance
+181,11,5.0,845469653,"American President, The (1995)",Comedy|Drama|Romance
+314,11,5.0,834241810,"American President, The (1995)",Comedy|Drama|Romance
+372,11,4.0,874415285,"American President, The (1995)",Comedy|Drama|Romance
+414,11,5.0,1052148205,"American President, The (1995)",Comedy|Drama|Romance
+474,11,2.5,1053021437,"American President, The (1995)",Comedy|Drama|Romance
+501,11,3.0,844973340,"American President, The (1995)",Comedy|Drama|Romance
+599,11,2.5,1498516445,"American President, The (1995)",Comedy|Drama|Romance
+602,11,3.0,840875825,"American President, The (1995)",Comedy|Drama|Romance
+606,11,2.5,1174349629,"American President, The (1995)",Comedy|Drama|Romance
+6,13,3.0,845555588,Balto (1995),Adventure|Animation|Children
+19,13,3.0,965709102,Balto (1995),Adventure|Animation|Children
+6,15,4.0,845554505,Cutthroat Island (1995),Action|Adventure|Romance
+19,15,2.0,965710039,Cutthroat Island (1995),Action|Adventure|Romance
+314,15,2.0,834428676,Cutthroat Island (1995),Action|Adventure|Romance
+414,15,2.0,961514611,Cutthroat Island (1995),Action|Adventure|Romance
+501,15,1.0,844973980,Cutthroat Island (1995),Action|Adventure|Romance
+599,15,1.5,1519239842,Cutthroat Island (1995),Action|Adventure|Romance
+606,15,3.5,1171839063,Cutthroat Island (1995),Action|Adventure|Romance
+6,16,4.0,845553819,Casino (1995),Crime|Drama
+68,16,3.5,1158533018,Casino (1995),Crime|Drama
+91,16,4.5,1112710867,Casino (1995),Crime|Drama
+109,16,4.0,841108751,Casino (1995),Crime|Drama
+181,16,3.0,845469893,Casino (1995),Crime|Drama
+182,16,5.0,1054783631,Casino (1995),Crime|Drama
+191,16,4.0,829759809,Casino (1995),Crime|Drama
+274,16,4.5,1171493420,Casino (1995),Crime|Drama
+307,16,4.5,1186087665,Casino (1995),Crime|Drama
+337,16,4.0,860256120,Casino (1995),Crime|Drama
+372,16,4.0,874415966,Casino (1995),Crime|Drama
+380,16,3.0,1494803499,Casino (1995),Crime|Drama
+414,16,3.0,961517557,Casino (1995),Crime|Drama
+437,16,5.0,859721743,Casino (1995),Crime|Drama
+474,16,4.0,1088426731,Casino (1995),Crime|Drama
+501,16,3.0,844973535,Casino (1995),Crime|Drama
+599,16,3.0,1498523389,Casino (1995),Crime|Drama
+602,16,3.0,840876085,Casino (1995),Crime|Drama
+603,16,4.0,963179585,Casino (1995),Crime|Drama
+608,16,4.5,1189471181,Casino (1995),Crime|Drama
+6,17,4.0,845553559,Sense and Sensibility (1995),Drama|Romance
+68,17,3.5,1158531987,Sense and Sensibility (1995),Drama|Romance
+84,17,5.0,857653240,Sense and Sensibility (1995),Drama|Romance
+117,17,3.0,844163037,Sense and Sensibility (1995),Drama|Romance
+182,17,4.0,1066428620,Sense and Sensibility (1995),Drama|Romance
+191,17,5.0,829759809,Sense and Sensibility (1995),Drama|Romance
+314,17,4.0,834398442,Sense and Sensibility (1995),Drama|Romance
+337,17,4.0,860255716,Sense and Sensibility (1995),Drama|Romance
+414,17,4.0,961513829,Sense and Sensibility (1995),Drama|Romance
+437,17,4.0,859720978,Sense and Sensibility (1995),Drama|Romance
+474,17,5.0,974668666,Sense and Sensibility (1995),Drama|Romance
+501,17,3.0,844973419,Sense and Sensibility (1995),Drama|Romance
+599,17,3.5,1498501103,Sense and Sensibility (1995),Drama|Romance
+603,17,3.0,954482210,Sense and Sensibility (1995),Drama|Romance
+604,17,4.0,832080092,Sense and Sensibility (1995),Drama|Romance
+606,17,4.0,1171838026,Sense and Sensibility (1995),Drama|Romance
+6,19,2.0,845553382,Ace Ventura: When Nature Calls (1995),Comedy
+19,19,2.0,965708339,Ace Ventura: When Nature Calls (1995),Comedy
+68,19,1.5,1158532448,Ace Ventura: When Nature Calls (1995),Comedy
+91,19,2.0,1112713417,Ace Ventura: When Nature Calls (1995),Comedy
+117,19,2.0,844162892,Ace Ventura: When Nature Calls (1995),Comedy
+217,19,1.0,955945611,Ace Ventura: When Nature Calls (1995),Comedy
+274,19,4.0,1171934796,Ace Ventura: When Nature Calls (1995),Comedy
+307,19,4.0,1186084466,Ace Ventura: When Nature Calls (1995),Comedy
+380,19,5.0,1493667522,Ace Ventura: When Nature Calls (1995),Comedy
+470,19,3.0,849075545,Ace Ventura: When Nature Calls (1995),Comedy
+599,19,3.0,1498524930,Ace Ventura: When Nature Calls (1995),Comedy
+602,19,2.0,840875700,Ace Ventura: When Nature Calls (1995),Comedy
+604,19,1.0,832080050,Ace Ventura: When Nature Calls (1995),Comedy
+606,19,2.0,1171814553,Ace Ventura: When Nature Calls (1995),Comedy
+608,19,2.0,1117504385,Ace Ventura: When Nature Calls (1995),Comedy
+6,21,2.0,845553382,Get Shorty (1995),Comedy|Crime|Thriller
+32,21,4.0,856737002,Get Shorty (1995),Comedy|Crime|Thriller
+84,21,4.0,858772111,Get Shorty (1995),Comedy|Crime|Thriller
+91,21,4.0,1112712052,Get Shorty (1995),Comedy|Crime|Thriller
+109,21,3.0,841107538,Get Shorty (1995),Comedy|Crime|Thriller
+117,21,4.0,844162913,Get Shorty (1995),Comedy|Crime|Thriller
+181,21,2.0,845469555,Get Shorty (1995),Comedy|Crime|Thriller
+182,21,2.5,1054782030,Get Shorty (1995),Comedy|Crime|Thriller
+191,21,4.0,829759809,Get Shorty (1995),Comedy|Crime|Thriller
+307,21,2.5,1189457112,Get Shorty (1995),Comedy|Crime|Thriller
+314,21,3.0,834398026,Get Shorty (1995),Comedy|Crime|Thriller
+372,21,3.0,874416570,Get Shorty (1995),Comedy|Crime|Thriller
+380,21,2.0,1493422718,Get Shorty (1995),Comedy|Crime|Thriller
+414,21,4.0,961438199,Get Shorty (1995),Comedy|Crime|Thriller
+470,21,3.0,849075545,Get Shorty (1995),Comedy|Crime|Thriller
+474,21,4.0,1119232784,Get Shorty (1995),Comedy|Crime|Thriller
+501,21,3.0,844973340,Get Shorty (1995),Comedy|Crime|Thriller
+599,21,4.0,1498499235,Get Shorty (1995),Comedy|Crime|Thriller
+602,21,4.0,840875720,Get Shorty (1995),Comedy|Crime|Thriller
+603,21,5.0,963177624,Get Shorty (1995),Comedy|Crime|Thriller
+608,21,3.5,1147210949,Get Shorty (1995),Comedy|Crime|Thriller
+6,22,5.0,845553875,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+91,22,3.5,1112712292,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+181,22,3.0,845469972,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+217,22,3.0,955943052,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+274,22,3.5,1171759024,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+307,22,2.0,1186162078,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+314,22,3.0,834398622,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+414,22,3.0,961518227,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+474,22,3.0,1046896006,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+602,22,3.0,840876417,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+604,22,3.0,832080546,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+6,24,4.0,845554397,Powder (1995),Drama|Sci-Fi
+32,24,3.0,856737205,Powder (1995),Drama|Sci-Fi
+181,24,3.0,845470571,Powder (1995),Drama|Sci-Fi
+274,24,3.5,1171785219,Powder (1995),Drama|Sci-Fi
+307,24,2.0,1186162409,Powder (1995),Drama|Sci-Fi
+337,24,5.0,860256119,Powder (1995),Drama|Sci-Fi
+414,24,3.0,961436964,Powder (1995),Drama|Sci-Fi
+474,24,3.0,1060105861,Powder (1995),Drama|Sci-Fi
+599,24,2.5,1498517444,Powder (1995),Drama|Sci-Fi
+608,24,2.0,1117504646,Powder (1995),Drama|Sci-Fi
+6,25,3.0,845553695,Leaving Las Vegas (1995),Drama|Romance
+32,25,4.0,856736119,Leaving Las Vegas (1995),Drama|Romance
+68,25,3.5,1158531974,Leaving Las Vegas (1995),Drama|Romance
+84,25,5.0,860396793,Leaving Las Vegas (1995),Drama|Romance
+91,25,2.0,1112713314,Leaving Las Vegas (1995),Drama|Romance
+109,25,5.0,841108589,Leaving Las Vegas (1995),Drama|Romance
+181,25,1.0,845469842,Leaving Las Vegas (1995),Drama|Romance
+182,25,4.5,1054783186,Leaving Las Vegas (1995),Drama|Romance
+191,25,5.0,829759809,Leaving Las Vegas (1995),Drama|Romance
+337,25,4.0,860255716,Leaving Las Vegas (1995),Drama|Romance
+372,25,4.0,874415164,Leaving Las Vegas (1995),Drama|Romance
+414,25,3.0,961517140,Leaving Las Vegas (1995),Drama|Romance
+437,25,4.0,859720978,Leaving Las Vegas (1995),Drama|Romance
+474,25,3.5,1127143175,Leaving Las Vegas (1995),Drama|Romance
+501,25,2.0,844973487,Leaving Las Vegas (1995),Drama|Romance
+602,25,4.0,840875998,Leaving Las Vegas (1995),Drama|Romance
+603,25,4.0,954482181,Leaving Las Vegas (1995),Drama|Romance
+604,25,3.0,832080316,Leaving Las Vegas (1995),Drama|Romance
+6,26,4.0,845555362,Othello (1995),Drama
+32,26,4.0,856736347,Othello (1995),Drama
+68,26,3.0,1158534106,Othello (1995),Drama
+117,26,4.0,844163712,Othello (1995),Drama
+182,26,4.0,1063648819,Othello (1995),Drama
+314,26,4.0,834398961,Othello (1995),Drama
+470,26,3.0,849843245,Othello (1995),Drama
+474,26,3.5,1136942664,Othello (1995),Drama
+599,26,2.5,1498518655,Othello (1995),Drama
+6,27,3.0,845555402,Now and Then (1995),Children|Drama
+307,27,2.5,1186172544,Now and Then (1995),Children|Drama
+337,27,5.0,860256159,Now and Then (1995),Children|Drama
+414,27,2.0,961518812,Now and Then (1995),Children|Drama
+474,27,2.0,1069686414,Now and Then (1995),Children|Drama
+501,27,3.0,844973931,Now and Then (1995),Children|Drama
+6,31,3.0,845553819,Dangerous Minds (1995),Drama
+68,31,3.5,1158535464,Dangerous Minds (1995),Drama
+84,31,3.0,860398679,Dangerous Minds (1995),Drama
+109,31,3.0,841108623,Dangerous Minds (1995),Drama
+117,31,3.0,844163204,Dangerous Minds (1995),Drama
+181,31,3.0,845469893,Dangerous Minds (1995),Drama
+307,31,1.5,1186162274,Dangerous Minds (1995),Drama
+314,31,3.0,834241586,Dangerous Minds (1995),Drama
+337,31,5.0,860256120,Dangerous Minds (1995),Drama
+372,31,2.0,874416808,Dangerous Minds (1995),Drama
+414,31,3.0,961518520,Dangerous Minds (1995),Drama
+437,31,4.0,859721815,Dangerous Minds (1995),Drama
+474,31,3.0,1060105936,Dangerous Minds (1995),Drama
+599,31,2.0,1498511120,Dangerous Minds (1995),Drama
+608,31,3.0,1117504582,Dangerous Minds (1995),Drama
+6,32,4.0,845553426,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+19,32,4.0,965703646,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+32,32,4.0,856736119,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+91,32,4.0,1112711273,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+109,32,4.0,841107643,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+117,32,3.0,844162955,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+182,32,4.0,1054779785,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+191,32,5.0,829759809,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+274,32,4.0,1171409321,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+307,32,3.5,1186160917,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+314,32,3.0,839857723,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+337,32,4.0,860255715,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+372,32,4.0,874415441,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+380,32,5.0,1493494899,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+414,32,5.0,961514667,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+437,32,4.0,859720977,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+470,32,3.0,849075682,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+474,32,4.0,1081177409,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+492,32,3.0,863975946,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+501,32,3.0,844973340,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+599,32,3.0,1498519822,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+602,32,3.0,840875779,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+603,32,3.0,963179615,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+604,32,4.0,832079958,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+606,32,4.0,1173653921,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+608,32,3.5,1117336682,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+6,34,4.0,845553354,Babe (1995),Children|Drama
+19,34,4.0,965705661,Babe (1995),Children|Drama
+68,34,1.0,1158531735,Babe (1995),Children|Drama
+84,34,4.0,858772153,Babe (1995),Children|Drama
+109,34,3.0,841107487,Babe (1995),Children|Drama
+117,34,3.0,844163454,Babe (1995),Children|Drama
+181,34,5.0,845469500,Babe (1995),Children|Drama
+191,34,4.0,829760897,Babe (1995),Children|Drama
+217,34,4.0,955943345,Babe (1995),Children|Drama
+274,34,4.0,1171756208,Babe (1995),Children|Drama
+372,34,4.0,874415934,Babe (1995),Children|Drama
+380,34,4.0,1493420018,Babe (1995),Children|Drama
+414,34,5.0,961438127,Babe (1995),Children|Drama
+470,34,4.0,849075432,Babe (1995),Children|Drama
+474,34,4.5,1081177349,Babe (1995),Children|Drama
+602,34,1.0,840875700,Babe (1995),Children|Drama
+603,34,4.0,963179273,Babe (1995),Children|Drama
+604,34,4.0,832079958,Babe (1995),Children|Drama
+608,34,3.5,1117491662,Babe (1995),Children|Drama
+6,36,5.0,845553726,Dead Man Walking (1995),Crime|Drama
+32,36,4.0,856736172,Dead Man Walking (1995),Crime|Drama
+84,36,5.0,857653289,Dead Man Walking (1995),Crime|Drama
+91,36,3.0,1112712316,Dead Man Walking (1995),Crime|Drama
+109,36,5.0,841143673,Dead Man Walking (1995),Crime|Drama
+117,36,3.0,844163102,Dead Man Walking (1995),Crime|Drama
+182,36,4.5,1063289589,Dead Man Walking (1995),Crime|Drama
+191,36,5.0,829759809,Dead Man Walking (1995),Crime|Drama
+337,36,4.0,860255783,Dead Man Walking (1995),Crime|Drama
+372,36,3.0,874414994,Dead Man Walking (1995),Crime|Drama
+414,36,3.0,961516989,Dead Man Walking (1995),Crime|Drama
+437,36,4.0,859721015,Dead Man Walking (1995),Crime|Drama
+470,36,4.0,849370395,Dead Man Walking (1995),Crime|Drama
+474,36,5.0,979180034,Dead Man Walking (1995),Crime|Drama
+492,36,4.0,863976004,Dead Man Walking (1995),Crime|Drama
+501,36,3.0,844973487,Dead Man Walking (1995),Crime|Drama
+602,36,3.0,840876228,Dead Man Walking (1995),Crime|Drama
+603,36,4.0,953925157,Dead Man Walking (1995),Crime|Drama
+606,36,3.5,1171820699,Dead Man Walking (1995),Crime|Drama
+6,41,4.0,845554962,Richard III (1995),Drama|War
+91,41,4.0,1112716937,Richard III (1995),Drama|War
+117,41,4.0,844163693,Richard III (1995),Drama|War
+182,41,4.5,1054781875,Richard III (1995),Drama|War
+314,41,3.0,834398878,Richard III (1995),Drama|War
+337,41,3.0,860255992,Richard III (1995),Drama|War
+372,41,4.0,874415991,Richard III (1995),Drama|War
+470,41,3.0,849843245,Richard III (1995),Drama|War
+474,41,3.5,1089386983,Richard III (1995),Drama|War
+599,41,2.5,1498518847,Richard III (1995),Drama|War
+6,43,4.0,845555607,Restoration (1995),Drama
+437,43,3.0,859721556,Restoration (1995),Drama
+470,43,3.0,849370292,Restoration (1995),Drama
+474,43,3.5,1081177921,Restoration (1995),Drama
+599,43,3.0,1519347048,Restoration (1995),Drama
+6,45,3.0,845553907,To Die For (1995),Comedy|Drama|Thriller
+84,45,4.0,858772239,To Die For (1995),Comedy|Drama|Thriller
+109,45,3.0,841108914,To Die For (1995),Comedy|Drama|Thriller
+181,45,3.0,845470124,To Die For (1995),Comedy|Drama|Thriller
+182,45,3.0,1075764933,To Die For (1995),Comedy|Drama|Thriller
+217,45,2.0,955943999,To Die For (1995),Comedy|Drama|Thriller
+414,45,3.0,961438476,To Die For (1995),Comedy|Drama|Thriller
+474,45,4.0,1014924369,To Die For (1995),Comedy|Drama|Thriller
+501,45,3.0,844973535,To Die For (1995),Comedy|Drama|Thriller
+599,45,2.5,1498516640,To Die For (1995),Comedy|Drama|Thriller
+602,45,5.0,840876055,To Die For (1995),Comedy|Drama|Thriller
+603,45,4.0,963179538,To Die For (1995),Comedy|Drama|Thriller
+6,46,4.0,845554551,How to Make an American Quilt (1995),Drama|Romance
+84,46,3.0,858771890,How to Make an American Quilt (1995),Drama|Romance
+414,46,2.0,961514407,How to Make an American Quilt (1995),Drama|Romance
+474,46,3.0,1081178156,How to Make an American Quilt (1995),Drama|Romance
+606,46,4.0,1171757334,How to Make an American Quilt (1995),Drama|Romance
+6,47,4.0,845553317,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+19,47,3.0,965710720,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+68,47,4.0,1158531489,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+91,47,4.5,1112712832,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+109,47,3.0,841107393,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+117,47,4.0,844162892,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+181,47,3.0,845469500,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+182,47,4.0,1054781315,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+191,47,4.0,829760898,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+217,47,2.0,955942953,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+274,47,4.0,1171172762,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+307,47,4.0,1186160966,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+314,47,1.0,834398302,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+337,47,5.0,860256118,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+372,47,5.0,874417240,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+380,47,5.0,1493494893,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+414,47,4.0,961681857,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+437,47,4.0,859721361,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+470,47,3.0,849075299,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+474,47,4.0,979180247,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+599,47,4.0,1498499364,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+602,47,5.0,840875668,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+606,47,3.0,1171927423,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+608,47,4.5,1117162426,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+6,50,1.0,845553381,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+32,50,5.0,856737002,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+68,50,3.0,1158531764,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+84,50,4.0,857653594,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+91,50,4.5,1112712816,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+109,50,4.0,841107584,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+117,50,4.0,844162933,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+182,50,4.5,1054781309,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+191,50,5.0,829760898,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+217,50,3.0,955942801,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+274,50,4.0,1171408986,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+307,50,4.5,1186160949,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+314,50,4.0,847175449,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+337,50,3.0,860256158,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+372,50,5.0,874414678,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+380,50,4.0,1493420347,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+414,50,5.0,961681714,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+437,50,4.0,859721362,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+470,50,3.0,849075545,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+474,50,4.0,979179872,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+501,50,3.0,844973340,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+599,50,3.5,1498500777,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+602,50,5.0,840875720,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+606,50,4.5,1171234887,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+608,50,4.5,1117491010,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+6,54,4.0,845555402,"Big Green, The (1995)",Children|Comedy
+19,54,2.0,965702660,"Big Green, The (1995)",Children|Comedy
+414,54,1.0,1027521065,"Big Green, The (1995)",Children|Comedy
+6,60,4.0,845554263,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+117,60,3.0,844163754,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+217,60,2.0,955942221,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+274,60,3.5,1171827419,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+314,60,3.0,834790837,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+380,60,4.0,1494035896,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+599,60,2.0,1519118310,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+604,60,4.0,832080939,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+6,61,4.0,845555454,Eye for an Eye (1996),Drama|Thriller
+181,61,4.0,845472115,Eye for an Eye (1996),Drama|Thriller
+492,61,4.0,863976447,Eye for an Eye (1996),Drama|Thriller
+501,61,3.0,844973980,Eye for an Eye (1996),Drama|Thriller
+599,61,2.5,1519327817,Eye for an Eye (1996),Drama|Thriller
+6,62,4.0,845553660,Mr. Holland's Opus (1995),Drama
+32,62,3.0,856736119,Mr. Holland's Opus (1995),Drama
+68,62,3.5,1158531021,Mr. Holland's Opus (1995),Drama
+84,62,4.0,857653240,Mr. Holland's Opus (1995),Drama
+109,62,5.0,841108564,Mr. Holland's Opus (1995),Drama
+117,62,4.0,844163122,Mr. Holland's Opus (1995),Drama
+181,62,4.0,845469756,Mr. Holland's Opus (1995),Drama
+274,62,3.0,1171492326,Mr. Holland's Opus (1995),Drama
+307,62,3.0,1186161410,Mr. Holland's Opus (1995),Drama
+314,62,4.0,836234560,Mr. Holland's Opus (1995),Drama
+337,62,3.0,860255716,Mr. Holland's Opus (1995),Drama
+372,62,3.0,874415902,Mr. Holland's Opus (1995),Drama
+414,62,4.0,961517885,Mr. Holland's Opus (1995),Drama
+437,62,3.0,859720978,Mr. Holland's Opus (1995),Drama
+470,62,3.0,849224778,Mr. Holland's Opus (1995),Drama
+474,62,2.5,1053021366,Mr. Holland's Opus (1995),Drama
+492,62,4.0,863975954,Mr. Holland's Opus (1995),Drama
+501,62,3.0,844973487,Mr. Holland's Opus (1995),Drama
+603,62,1.0,963180075,Mr. Holland's Opus (1995),Drama
+604,62,4.0,832080293,Mr. Holland's Opus (1995),Drama
+6,65,3.0,845555070,Bio-Dome (1996),Comedy
+19,65,2.0,965708217,Bio-Dome (1996),Comedy
+68,65,1.5,1269123315,Bio-Dome (1996),Comedy
+217,65,1.0,955945452,Bio-Dome (1996),Comedy
+274,65,3.0,1171829616,Bio-Dome (1996),Comedy
+307,65,2.5,1186086548,Bio-Dome (1996),Comedy
+337,65,3.0,860255929,Bio-Dome (1996),Comedy
+414,65,2.0,961439623,Bio-Dome (1996),Comedy
+492,65,5.0,863976248,Bio-Dome (1996),Comedy
+599,65,2.0,1498511235,Bio-Dome (1996),Comedy
+608,65,2.0,1117415653,Bio-Dome (1996),Comedy
+6,66,3.0,845555151,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller
+337,66,4.0,860255992,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller
+492,66,3.0,863976249,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller
+6,76,4.0,845555317,Screamers (1995),Action|Sci-Fi|Thriller
+109,76,3.0,841151480,Screamers (1995),Action|Sci-Fi|Thriller
+182,76,3.5,1055152107,Screamers (1995),Action|Sci-Fi|Thriller
+337,76,5.0,860256043,Screamers (1995),Action|Sci-Fi|Thriller
+380,76,3.0,1494278971,Screamers (1995),Action|Sci-Fi|Thriller
+492,76,5.0,863976409,Screamers (1995),Action|Sci-Fi|Thriller
+599,76,2.5,1498518457,Screamers (1995),Action|Sci-Fi|Thriller
+604,76,4.0,832080615,Screamers (1995),Action|Sci-Fi|Thriller
+6,79,3.0,845554907,"Juror, The (1996)",Drama|Thriller
+181,79,4.0,845470717,"Juror, The (1996)",Drama|Thriller
+337,79,4.0,860255867,"Juror, The (1996)",Drama|Thriller
+437,79,2.0,859721080,"Juror, The (1996)",Drama|Thriller
+492,79,4.0,863976101,"Juror, The (1996)",Drama|Thriller
+599,79,2.0,1519336237,"Juror, The (1996)",Drama|Thriller
+6,86,5.0,845556131,White Squall (1996),Action|Adventure|Drama
+181,86,4.0,845472271,White Squall (1996),Action|Adventure|Drama
+274,86,3.5,1171828191,White Squall (1996),Action|Adventure|Drama
+414,86,3.0,961437096,White Squall (1996),Action|Adventure|Drama
+437,86,3.0,859721170,White Squall (1996),Action|Adventure|Drama
+501,86,3.0,844974037,White Squall (1996),Action|Adventure|Drama
+6,87,3.0,845555300,Dunston Checks In (1996),Children|Comedy
+19,87,2.0,965708059,Dunston Checks In (1996),Children|Comedy
+217,87,3.0,955945423,Dunston Checks In (1996),Children|Comedy
+274,87,3.0,1197272712,Dunston Checks In (1996),Children|Comedy
+599,87,0.5,1519184941,Dunston Checks In (1996),Children|Comedy
+6,88,2.0,845555694,Black Sheep (1996),Comedy
+91,88,3.0,1112716912,Black Sheep (1996),Comedy
+274,88,3.5,1171828649,Black Sheep (1996),Comedy
+307,88,3.5,1186086639,Black Sheep (1996),Comedy
+414,88,2.0,961439433,Black Sheep (1996),Comedy
+492,88,5.0,863976409,Black Sheep (1996),Comedy
+599,88,0.5,1498533540,Black Sheep (1996),Comedy
+608,88,2.5,1117505159,Black Sheep (1996),Comedy
+6,89,4.0,845555124,Nick of Time (1995),Action|Thriller
+182,89,3.0,1055151186,Nick of Time (1995),Action|Thriller
+217,89,4.0,955940533,Nick of Time (1995),Action|Thriller
+414,89,3.0,961515928,Nick of Time (1995),Action|Thriller
+599,89,2.5,1498517086,Nick of Time (1995),Action|Thriller
+6,92,4.0,845555454,Mary Reilly (1996),Drama|Horror|Thriller
+19,92,2.0,965712048,Mary Reilly (1996),Drama|Horror|Thriller
+91,92,2.0,1112716903,Mary Reilly (1996),Drama|Horror|Thriller
+414,92,2.0,961518731,Mary Reilly (1996),Drama|Horror|Thriller
+474,92,3.5,1087832141,Mary Reilly (1996),Drama|Horror|Thriller
+604,92,3.0,832080615,Mary Reilly (1996),Drama|Horror|Thriller
+606,92,3.5,1171365342,Mary Reilly (1996),Drama|Horror|Thriller
+6,93,4.0,845554584,Vampire in Brooklyn (1995),Comedy|Horror|Romance
+274,93,3.5,1172024378,Vampire in Brooklyn (1995),Comedy|Horror|Romance
+501,93,3.0,844974090,Vampire in Brooklyn (1995),Comedy|Horror|Romance
+599,93,1.5,1498504070,Vampire in Brooklyn (1995),Comedy|Horror|Romance
+608,93,2.5,1117506858,Vampire in Brooklyn (1995),Comedy|Horror|Romance
+6,95,4.0,845553559,Broken Arrow (1996),Action|Adventure|Thriller
+32,95,3.0,856736119,Broken Arrow (1996),Action|Adventure|Thriller
+68,95,3.5,1158532180,Broken Arrow (1996),Action|Adventure|Thriller
+84,95,2.0,857653240,Broken Arrow (1996),Action|Adventure|Thriller
+91,95,3.0,1112711260,Broken Arrow (1996),Action|Adventure|Thriller
+191,95,3.0,829759809,Broken Arrow (1996),Action|Adventure|Thriller
+217,95,3.0,955941157,Broken Arrow (1996),Action|Adventure|Thriller
+274,95,2.5,1174524214,Broken Arrow (1996),Action|Adventure|Thriller
+314,95,2.0,834241545,Broken Arrow (1996),Action|Adventure|Thriller
+337,95,5.0,860255716,Broken Arrow (1996),Action|Adventure|Thriller
+380,95,3.0,1493420301,Broken Arrow (1996),Action|Adventure|Thriller
+414,95,2.0,961515958,Broken Arrow (1996),Action|Adventure|Thriller
+437,95,1.0,859720977,Broken Arrow (1996),Action|Adventure|Thriller
+470,95,3.0,849843245,Broken Arrow (1996),Action|Adventure|Thriller
+492,95,3.0,863975954,Broken Arrow (1996),Action|Adventure|Thriller
+501,95,4.0,844973419,Broken Arrow (1996),Action|Adventure|Thriller
+599,95,2.0,1498510588,Broken Arrow (1996),Action|Adventure|Thriller
+602,95,3.0,840875901,Broken Arrow (1996),Action|Adventure|Thriller
+604,95,4.0,832080071,Broken Arrow (1996),Action|Adventure|Thriller
+608,95,2.0,1117490752,Broken Arrow (1996),Action|Adventure|Thriller
+6,100,3.0,845555151,City Hall (1996),Drama|Thriller
+32,100,4.0,856736290,City Hall (1996),Drama|Thriller
+84,100,3.0,860396882,City Hall (1996),Drama|Thriller
+181,100,3.0,845470909,City Hall (1996),Drama|Thriller
+182,100,3.0,1055153511,City Hall (1996),Drama|Thriller
+314,100,3.0,847175533,City Hall (1996),Drama|Thriller
+337,100,3.0,860255992,City Hall (1996),Drama|Thriller
+474,100,2.0,1048710159,City Hall (1996),Drama|Thriller
+492,100,3.0,863976249,City Hall (1996),Drama|Thriller
+599,100,2.0,1498511085,City Hall (1996),Drama|Thriller
+602,100,3.0,840876228,City Hall (1996),Drama|Thriller
+19,1,4.0,965705637,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+32,1,3.0,856736119,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+68,1,2.5,1158531426,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+91,1,4.0,1112713037,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+182,1,4.0,1063289621,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+191,1,4.0,829759809,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+217,1,4.0,955942540,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+274,1,4.0,1171410158,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+307,1,4.0,1186160893,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+314,1,3.0,834398280,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+337,1,4.0,860255715,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+372,1,3.0,874416443,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+380,1,5.0,1493420345,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+414,1,4.0,961438127,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+470,1,4.0,849224825,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+474,1,4.0,978575760,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+492,1,4.0,863975949,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+599,1,3.0,1498524204,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+603,1,4.0,963178147,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+604,1,3.0,832079851,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+606,1,2.5,1349082950,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+608,1,2.5,1117408267,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+19,12,1.0,965705347,Dracula: Dead and Loving It (1995),Comedy|Horror
+217,12,3.0,955945336,Dracula: Dead and Loving It (1995),Comedy|Horror
+274,12,3.5,1171829597,Dracula: Dead and Loving It (1995),Comedy|Horror
+337,12,3.0,860255992,Dracula: Dead and Loving It (1995),Comedy|Horror
+380,12,4.0,1493668065,Dracula: Dead and Loving It (1995),Comedy|Horror
+492,12,3.0,863976249,Dracula: Dead and Loving It (1995),Comedy|Horror
+599,12,1.5,1519181787,Dracula: Dead and Loving It (1995),Comedy|Horror
+19,44,3.0,965710019,Mortal Kombat (1995),Action|Adventure|Fantasy
+68,44,3.0,1158534993,Mortal Kombat (1995),Action|Adventure|Fantasy
+117,44,2.0,844163037,Mortal Kombat (1995),Action|Adventure|Fantasy
+182,44,1.5,1055150820,Mortal Kombat (1995),Action|Adventure|Fantasy
+217,44,2.0,955941505,Mortal Kombat (1995),Action|Adventure|Fantasy
+274,44,4.0,1171759773,Mortal Kombat (1995),Action|Adventure|Fantasy
+314,44,3.0,834398518,Mortal Kombat (1995),Action|Adventure|Fantasy
+380,44,4.0,1493667678,Mortal Kombat (1995),Action|Adventure|Fantasy
+414,44,2.0,961516249,Mortal Kombat (1995),Action|Adventure|Fantasy
+599,44,2.5,1498517161,Mortal Kombat (1995),Action|Adventure|Fantasy
+608,44,0.5,1117504562,Mortal Kombat (1995),Action|Adventure|Fantasy
+19,48,1.0,965709172,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+68,48,4.0,1158533544,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+117,48,3.0,844163082,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+274,48,2.0,1171943719,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+372,48,2.0,874416616,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+380,48,3.0,1493423481,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+414,48,3.0,961437741,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+608,48,0.5,1117161754,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+19,64,2.0,965708037,Two if by Sea (1996),Comedy|Romance
+492,64,3.0,863976525,Two if by Sea (1996),Comedy|Romance
+19,70,2.0,965704974,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+68,70,4.0,1158534541,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+182,70,4.5,1077804802,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+274,70,4.5,1171493880,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+307,70,3.5,1186161936,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+372,70,3.0,874415199,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+380,70,5.0,1493423196,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+599,70,3.5,1498501183,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+603,70,4.0,953925705,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+606,70,4.0,1171733439,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+608,70,3.0,1117415406,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+32,39,3.0,856737205,Clueless (1995),Comedy|Romance
+68,39,4.0,1158532000,Clueless (1995),Comedy|Romance
+91,39,1.5,1112713319,Clueless (1995),Comedy|Romance
+109,39,3.0,841107584,Clueless (1995),Comedy|Romance
+117,39,3.0,844162955,Clueless (1995),Comedy|Romance
+181,39,3.0,845469625,Clueless (1995),Comedy|Romance
+191,39,1.0,829760897,Clueless (1995),Comedy|Romance
+307,39,2.0,1186161053,Clueless (1995),Comedy|Romance
+314,39,3.0,834398364,Clueless (1995),Comedy|Romance
+372,39,3.0,874417086,Clueless (1995),Comedy|Romance
+414,39,4.0,961438265,Clueless (1995),Comedy|Romance
+470,39,3.0,849075682,Clueless (1995),Comedy|Romance
+474,39,3.5,1129579520,Clueless (1995),Comedy|Romance
+599,39,3.0,1498525783,Clueless (1995),Comedy|Romance
+602,39,5.0,840875757,Clueless (1995),Comedy|Romance
+603,39,5.0,954482276,Clueless (1995),Comedy|Romance
+604,39,3.0,832079983,Clueless (1995),Comedy|Romance
+608,39,3.0,1117415401,Clueless (1995),Comedy|Romance
+32,52,3.0,856736227,Mighty Aphrodite (1995),Comedy|Drama|Romance
+84,52,5.0,857653318,Mighty Aphrodite (1995),Comedy|Drama|Romance
+109,52,3.0,841109666,Mighty Aphrodite (1995),Comedy|Drama|Romance
+191,52,5.0,829759809,Mighty Aphrodite (1995),Comedy|Drama|Romance
+314,52,3.0,845285951,Mighty Aphrodite (1995),Comedy|Drama|Romance
+372,52,4.0,874416234,Mighty Aphrodite (1995),Comedy|Drama|Romance
+414,52,3.0,961438413,Mighty Aphrodite (1995),Comedy|Drama|Romance
+437,52,4.0,859721046,Mighty Aphrodite (1995),Comedy|Drama|Romance
+474,52,4.0,1004131663,Mighty Aphrodite (1995),Comedy|Drama|Romance
+492,52,3.0,863976101,Mighty Aphrodite (1995),Comedy|Drama|Romance
+599,52,3.0,1498525392,Mighty Aphrodite (1995),Comedy|Drama|Romance
+602,52,3.0,840876566,Mighty Aphrodite (1995),Comedy|Drama|Romance
+603,52,1.0,963178236,Mighty Aphrodite (1995),Comedy|Drama|Romance
+32,58,5.0,856736227,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+91,58,2.0,1112710933,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+191,58,4.0,829759809,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+474,58,3.5,1126533613,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+603,58,3.0,954482414,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+606,58,3.5,1181771144,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+32,74,4.0,856736316,Bed of Roses (1996),Drama|Romance
+337,74,5.0,860255992,Bed of Roses (1996),Drama|Romance
+474,74,3.0,974669217,Bed of Roses (1996),Drama|Romance
+492,74,4.0,863976249,Bed of Roses (1996),Drama|Romance
+32,78,4.0,856736477,"Crossing Guard, The (1995)",Action|Crime|Drama|Thriller
+414,78,3.0,961518581,"Crossing Guard, The (1995)",Action|Crime|Drama|Thriller
+437,78,3.0,859721693,"Crossing Guard, The (1995)",Action|Crime|Drama|Thriller
+68,18,2.0,1532897231,Four Rooms (1995),Comedy
+109,18,3.0,841109921,Four Rooms (1995),Comedy
+182,18,5.0,1055153282,Four Rooms (1995),Comedy
+307,18,3.0,1186410788,Four Rooms (1995),Comedy
+380,18,4.0,1494278868,Four Rooms (1995),Comedy
+414,18,3.0,961682128,Four Rooms (1995),Comedy
+501,18,5.0,844974006,Four Rooms (1995),Comedy
+599,18,3.0,1498523048,Four Rooms (1995),Comedy
+606,18,4.0,1171327151,Four Rooms (1995),Comedy
+84,14,4.0,857653349,Nixon (1995),Drama
+109,14,4.0,841109326,Nixon (1995),Drama
+182,14,4.0,1063289654,Nixon (1995),Drama
+337,14,3.0,860255866,Nixon (1995),Drama
+372,14,4.0,874416949,Nixon (1995),Drama
+437,14,3.0,859721080,Nixon (1995),Drama
+470,14,4.0,849843318,Nixon (1995),Drama
+474,14,3.0,1120827247,Nixon (1995),Drama
+492,14,3.0,863976101,Nixon (1995),Drama
+602,14,5.0,840875999,Nixon (1995),Drama
+604,14,4.0,832081027,Nixon (1995),Drama
+84,55,4.0,858772543,Georgia (1995),Drama
+84,57,3.0,858771951,Home for the Holidays (1995),Drama
+414,57,3.0,961517912,Home for the Holidays (1995),Drama
+474,57,3.0,1060105374,Home for the Holidays (1995),Drama
+599,57,2.5,1519240604,Home for the Holidays (1995),Drama
+603,57,2.0,963180025,Home for the Holidays (1995),Drama
+84,94,4.0,857653422,Beautiful Girls (1996),Comedy|Drama|Romance
+182,94,4.0,1075765007,Beautiful Girls (1996),Comedy|Drama|Romance
+191,94,4.0,829759809,Beautiful Girls (1996),Comedy|Drama|Romance
+307,94,3.5,1186086089,Beautiful Girls (1996),Comedy|Drama|Romance
+414,94,5.0,961517421,Beautiful Girls (1996),Comedy|Drama|Romance
+91,29,4.0,1112711719,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+182,29,4.0,1054779789,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+274,29,4.0,1238050945,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+474,29,3.5,1053021379,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+599,29,3.5,1498500987,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+602,29,2.0,840876620,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+603,29,2.0,963177361,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+606,29,4.5,1179419005,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+117,73,4.0,844163663,"Misérables, Les (1995)",Drama|War
+501,73,2.0,844974214,"Misérables, Les (1995)",Drama|War
+599,73,3.0,1519421396,"Misérables, Les (1995)",Drama|War
+606,73,4.0,1171410274,"Misérables, Les (1995)",Drama|War
+182,23,3.5,1055153587,Assassins (1995),Action|Crime|Thriller
+274,23,3.5,1171829251,Assassins (1995),Action|Crime|Thriller
+314,23,3.0,834241586,Assassins (1995),Action|Crime|Thriller
+414,23,2.0,961682276,Assassins (1995),Action|Crime|Thriller
+599,23,1.0,1498503332,Assassins (1995),Action|Crime|Thriller
+604,23,4.0,832081042,Assassins (1995),Action|Crime|Thriller
+182,69,3.0,1054784267,Friday (1995),Comedy
+274,69,4.0,1171932360,Friday (1995),Comedy
+599,69,2.5,1498515243,Friday (1995),Comedy
+182,81,3.5,1055154219,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+372,81,2.0,874416280,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+414,81,2.0,961514568,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+437,81,3.0,859721790,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+599,81,2.5,1498517265,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+182,97,4.5,1075764905,"Hate (Haine, La) (1995)",Crime|Drama
+599,97,3.0,1519120150,"Hate (Haine, La) (1995)",Crime|Drama
+603,97,4.0,963179791,"Hate (Haine, La) (1995)",Crime|Drama
+191,72,4.0,829760897,Kicking and Screaming (1995),Comedy|Drama
+307,72,2.0,1186173251,Kicking and Screaming (1995),Comedy|Drama
+414,72,4.0,961438532,Kicking and Screaming (1995),Comedy|Drama
+191,85,5.0,829759809,Angels and Insects (1995),Drama|Romance
+603,85,5.0,953925191,Angels and Insects (1995),Drama|Romance
+191,99,5.0,829759809,Heidi Fleiss: Hollywood Madam (1995),Documentary
+603,99,5.0,954482070,Heidi Fleiss: Hollywood Madam (1995),Documentary
+217,9,3.0,955941157,Sudden Death (1995),Action
+337,9,5.0,860255929,Sudden Death (1995),Action
+437,9,3.0,859721103,Sudden Death (1995),Action
+492,9,5.0,863976201,Sudden Death (1995),Action
+599,9,1.5,1498504960,Sudden Death (1995),Action
+217,20,2.0,955941424,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+274,20,3.5,1171830022,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+501,20,1.0,844974037,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+599,20,1.5,1498504813,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+217,38,2.0,955945548,It Takes Two (1995),Children|Comedy
+474,38,1.0,1089387538,It Takes Two (1995),Children|Comedy
+372,71,2.0,874416544,Fair Game (1995),Action
+414,71,2.0,961515844,Fair Game (1995),Action
+414,42,2.0,961515844,Dead Presidents (1995),Action|Crime|Drama
+599,42,3.0,1498525483,Dead Presidents (1995),Action|Crime|Drama
+414,75,1.0,1027521022,Big Bully (1996),Comedy|Drama
+492,75,3.0,863976878,Big Bully (1996),Comedy|Drama
+599,75,1.0,1519353713,Big Bully (1996),Comedy|Drama
+474,28,4.5,1165540007,Persuasion (1995),Drama|Romance
+603,28,5.0,953925191,Persuasion (1995),Drama|Romance
+606,28,3.5,1173049970,Persuasion (1995),Drama|Romance
+474,82,2.5,1121262740,Antonia's Line (Antonia) (1995),Comedy|Drama
+603,82,1.0,963180075,Antonia's Line (Antonia) (1995),Comedy|Drama
+606,82,4.0,1175637619,Antonia's Line (Antonia) (1995),Comedy|Drama
+474,96,3.5,1053020997,In the Bleak Midwinter (1995),Comedy|Drama
+492,63,3.0,863976526,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Comedy|Crime
+608,63,0.5,1117506926,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Comedy|Crime
+603,30,4.0,963179273,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Crime|Drama
+603,53,5.0,963180003,Lamerica (1994),Adventure|Drama
+603,77,4.0,954482106,Nico Icon (1995),Documentary
+606,68,4.0,1171817003,French Twist (Gazon maudit) (1995),Comedy|Romance
+606,80,4.0,1171409272,"White Balloon, The (Badkonake sefid) (1995)",Children|Drama

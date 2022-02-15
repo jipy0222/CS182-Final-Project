@@ -1,0 +1,8 @@
+{
+  "type": { "_type": "choice", "_value": ["user_based", "item_based"] },
+  "hidden_size": { "_type": "choice", "_value": [125, 250, 500] },
+  "batch_size": { "_type": "choice", "_value": [128, 256, 512] },
+  "beta": { "_type": "choice", "_value": [5e-5, 1e-4, 5e-4, 1e-3] },
+  "alpha": { "_type": "choice", "_value": [1e-4, 5e-4, 1e-3, 5e-3, 1e-2] },
+  "epoches": { "_type": "choice", "_value": [100] }
+}

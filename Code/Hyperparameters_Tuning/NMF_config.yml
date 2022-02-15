@@ -1,0 +1,11 @@
+searchSpaceFile: NMF_search_space.json
+trialCommand: python3 NMF.py
+trialGpuNumber: 0
+trialConcurrency: 8
+maxTrialNumber: 250
+tuner:
+  name: TPE
+  classArgs:
+    optimize_mode: maximize
+trainingService:
+  platform: local

@@ -1,0 +1,7 @@
+{
+  "K": { "_type": "randint", "_value": [5, 20] },
+  "steps": { "_type": "choice", "_value": [100] },
+  "alpha": { "_type": "choice", "_value": [0.003, 0.005, 0.007] },
+  "beta1": { "_type": "choice", "_value": [0.08, 0.1] },
+  "beta2": { "_type": "choice", "_value": [0.08, 0.1] }
+}

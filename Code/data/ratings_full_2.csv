@@ -1,0 +1,2576 @@
+userId,movieId,rating,timestamp,title,genres
+18,1,3.5,1455209816,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+63,1,5.0,1443199669,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+64,1,4.0,1161520134,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+68,1,2.5,1158531426,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+91,1,4.0,1112713037,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+140,1,3.0,942924980,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+177,1,5.0,1435533535,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+182,1,4.0,1063289621,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+219,1,3.5,1194681084,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+239,1,4.0,1221158265,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+249,1,4.0,1347317775,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+274,1,4.0,1171410158,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+288,1,4.5,1054568869,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+307,1,4.0,1186160893,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+330,1,4.0,1285904910,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+380,1,5.0,1493420345,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+414,1,4.0,961438127,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+434,1,4.0,1270604402,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+448,1,5.0,1019126661,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+474,1,4.0,978575760,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+480,1,3.0,1179178004,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+483,1,4.0,1178293130,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+573,1,5.0,1186722182,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+580,1,3.0,1167792349,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+590,1,4.0,1258420408,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+599,1,3.0,1498524204,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+600,1,2.5,1237764347,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+608,1,2.5,1117408267,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+18,32,4.0,1455209840,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+63,32,3.0,1443199999,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+64,32,4.0,1161520763,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+91,32,4.0,1112711273,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+182,32,4.0,1054779785,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+219,32,3.5,1194686177,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+239,32,5.0,1221159452,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+249,32,5.0,1346752537,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+274,32,4.0,1171409321,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+288,32,5.0,975692000,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+307,32,3.5,1186160917,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+330,32,5.0,1285904958,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+380,32,5.0,1493494899,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+414,32,5.0,961514667,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+425,32,4.0,1085477320,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+434,32,3.5,1270604323,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+448,32,2.0,1019132949,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+474,32,4.0,1081177409,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+480,32,4.0,1179177844,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+483,32,5.0,1178213437,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+489,32,3.5,1333023575,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+580,32,5.0,1167790855,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+590,32,3.0,1258420444,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+599,32,3.0,1498519822,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+600,32,4.5,1237858629,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+608,32,3.5,1117336682,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+18,34,2.5,1455617533,Babe (1995),Children|Drama
+63,34,3.0,1443201169,Babe (1995),Children|Drama
+64,34,4.5,1161520212,Babe (1995),Children|Drama
+68,34,1.0,1158531735,Babe (1995),Children|Drama
+140,34,4.0,942910010,Babe (1995),Children|Drama
+274,34,4.0,1171756208,Babe (1995),Children|Drama
+288,34,4.0,975693063,Babe (1995),Children|Drama
+330,34,3.0,1285905096,Babe (1995),Children|Drama
+380,34,4.0,1493420018,Babe (1995),Children|Drama
+414,34,5.0,961438127,Babe (1995),Children|Drama
+425,34,3.5,1114173653,Babe (1995),Children|Drama
+434,34,3.5,1270604933,Babe (1995),Children|Drama
+474,34,4.5,1081177349,Babe (1995),Children|Drama
+480,34,4.0,1179178044,Babe (1995),Children|Drama
+489,34,2.0,1333101391,Babe (1995),Children|Drama
+580,34,2.5,1167673463,Babe (1995),Children|Drama
+600,34,2.0,1237711536,Babe (1995),Children|Drama
+608,34,3.5,1117491662,Babe (1995),Children|Drama
+18,47,4.5,1455050013,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+63,47,4.0,1443201084,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+64,47,4.5,1161520185,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+68,47,4.0,1158531489,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+91,47,4.5,1112712832,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+140,47,4.0,942842215,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+177,47,4.5,1435533571,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+182,47,4.0,1054781315,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+219,47,3.5,1194686017,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+239,47,5.0,1221158250,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+249,47,5.0,1346757700,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+274,47,4.0,1171172762,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+288,47,3.5,1054568985,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+307,47,4.0,1186160966,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+330,47,3.0,1285904519,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+380,47,5.0,1493494893,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+414,47,4.0,961681857,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+425,47,4.5,1085477391,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+434,47,4.0,1270603499,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+448,47,4.0,1019132386,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+474,47,4.0,979180247,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+480,47,4.5,1179177656,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+483,47,3.5,1178215187,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+489,47,3.0,1333101316,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+573,47,5.0,1186589586,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+580,47,5.0,1167791127,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+590,47,3.0,1258420506,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+599,47,4.0,1498499364,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+600,47,4.0,1237852430,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+608,47,4.5,1117162426,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+18,50,5.0,1455049343,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+63,50,5.0,1443199758,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+64,50,3.0,1161528982,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+68,50,3.0,1158531764,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+91,50,4.5,1112712816,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+140,50,3.0,942840991,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+177,50,4.0,1435523529,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+182,50,4.5,1054781309,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+219,50,5.0,1194685882,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+239,50,4.5,1221158083,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+249,50,4.0,1364546154,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+274,50,4.0,1171408986,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+307,50,4.5,1186160949,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+330,50,5.0,1285904637,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+380,50,4.0,1493420347,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+414,50,5.0,961681714,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+425,50,4.5,1085477355,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+448,50,4.0,1064741727,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+474,50,4.0,979179872,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+480,50,3.5,1179160287,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+483,50,4.5,1204405320,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+573,50,5.0,1248841981,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+580,50,5.0,1167789884,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+590,50,4.5,1264910688,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+599,50,3.5,1498500777,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+608,50,4.5,1117491010,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+18,110,4.5,1455050170,Braveheart (1995),Action|Drama|War
+63,110,2.5,1443199850,Braveheart (1995),Action|Drama|War
+64,110,4.0,1161520230,Braveheart (1995),Action|Drama|War
+68,110,2.5,1158531496,Braveheart (1995),Action|Drama|War
+91,110,4.0,1112712339,Braveheart (1995),Action|Drama|War
+140,110,4.0,942903980,Braveheart (1995),Action|Drama|War
+182,110,3.5,1054780923,Braveheart (1995),Action|Drama|War
+239,110,4.5,1221148034,Braveheart (1995),Action|Drama|War
+249,110,5.0,1346841413,Braveheart (1995),Action|Drama|War
+274,110,4.5,1171410141,Braveheart (1995),Action|Drama|War
+288,110,5.0,975691339,Braveheart (1995),Action|Drama|War
+307,110,3.5,1186087165,Braveheart (1995),Action|Drama|War
+330,110,3.5,1285904111,Braveheart (1995),Action|Drama|War
+380,110,4.0,1493419805,Braveheart (1995),Action|Drama|War
+414,110,5.0,961512475,Braveheart (1995),Action|Drama|War
+425,110,4.0,1085477194,Braveheart (1995),Action|Drama|War
+434,110,4.5,1270604574,Braveheart (1995),Action|Drama|War
+474,110,3.0,1137180852,Braveheart (1995),Action|Drama|War
+480,110,5.0,1179160978,Braveheart (1995),Action|Drama|War
+483,110,4.0,1178292986,Braveheart (1995),Action|Drama|War
+489,110,4.5,1332772116,Braveheart (1995),Action|Drama|War
+573,110,5.0,1186589227,Braveheart (1995),Action|Drama|War
+580,110,4.5,1167789859,Braveheart (1995),Action|Drama|War
+590,110,4.0,1258420384,Braveheart (1995),Action|Drama|War
+599,110,3.5,1498501202,Braveheart (1995),Action|Drama|War
+600,110,2.0,1237759135,Braveheart (1995),Action|Drama|War
+608,110,4.0,1117162428,Braveheart (1995),Action|Drama|War
+18,165,4.0,1455209902,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+63,165,4.0,1443201090,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+68,165,3.5,1158531548,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+91,165,3.0,1112713245,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+140,165,4.0,967049233,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+182,165,3.0,1120879588,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+219,165,4.5,1194827009,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+274,165,4.0,1171934621,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+307,165,2.5,1186160959,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+380,165,5.0,1493667390,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+414,165,3.0,961515958,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+425,165,3.5,1085477334,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+448,165,4.0,1019142324,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+480,165,3.0,1179177627,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+483,165,4.5,1226359677,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+489,165,3.0,1333830649,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+573,165,5.0,1186722398,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+590,165,3.0,1266472448,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+599,165,3.0,1498521550,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+600,165,2.5,1237713030,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+18,208,3.0,1455617516,Waterworld (1995),Action|Adventure|Sci-Fi
+63,208,2.0,1443201186,Waterworld (1995),Action|Adventure|Sci-Fi
+68,208,4.0,1158531805,Waterworld (1995),Action|Adventure|Sci-Fi
+91,208,2.5,1112712329,Waterworld (1995),Action|Adventure|Sci-Fi
+140,208,4.0,1085569730,Waterworld (1995),Action|Adventure|Sci-Fi
+219,208,2.0,1194740092,Waterworld (1995),Action|Adventure|Sci-Fi
+239,208,2.5,1221158495,Waterworld (1995),Action|Adventure|Sci-Fi
+249,208,3.5,1353801005,Waterworld (1995),Action|Adventure|Sci-Fi
+274,208,4.0,1171428366,Waterworld (1995),Action|Adventure|Sci-Fi
+307,208,2.5,1186161045,Waterworld (1995),Action|Adventure|Sci-Fi
+330,208,4.0,1285905155,Waterworld (1995),Action|Adventure|Sci-Fi
+380,208,3.0,1493419790,Waterworld (1995),Action|Adventure|Sci-Fi
+414,208,2.0,961516318,Waterworld (1995),Action|Adventure|Sci-Fi
+425,208,4.0,1114173719,Waterworld (1995),Action|Adventure|Sci-Fi
+434,208,2.5,1270606633,Waterworld (1995),Action|Adventure|Sci-Fi
+448,208,2.0,1019124858,Waterworld (1995),Action|Adventure|Sci-Fi
+480,208,3.0,1179177803,Waterworld (1995),Action|Adventure|Sci-Fi
+483,208,3.0,1178293256,Waterworld (1995),Action|Adventure|Sci-Fi
+580,208,4.0,1167792953,Waterworld (1995),Action|Adventure|Sci-Fi
+599,208,2.5,1498516434,Waterworld (1995),Action|Adventure|Sci-Fi
+600,208,2.0,1237852412,Waterworld (1995),Action|Adventure|Sci-Fi
+608,208,3.0,1117504330,Waterworld (1995),Action|Adventure|Sci-Fi
+18,231,2.5,1455748462,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+63,231,3.0,1443201105,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+64,231,4.5,1161520600,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+68,231,3.5,1158532011,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+91,231,3.0,1112713266,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+182,231,0.5,1055155770,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+219,231,1.5,1194740545,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+239,231,3.5,1221158416,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+274,231,4.5,1171934649,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+288,231,3.0,978560031,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+307,231,2.5,1186160994,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+330,231,4.0,1285905050,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+380,231,4.0,1494278654,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+414,231,3.0,961439079,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+425,231,3.5,1085477427,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+434,231,4.0,1270604904,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+448,231,3.0,1019128257,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+480,231,3.0,1179177739,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+483,231,3.0,1178293069,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+489,231,2.5,1333101376,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+573,231,5.0,1186590109,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+580,231,2.5,1167673475,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+590,231,2.0,1258420566,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+599,231,3.5,1498501223,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+600,231,3.5,1237742353,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+608,231,3.0,1117504309,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+18,260,4.0,1455049368,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+63,260,5.0,1443199688,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+64,260,3.5,1161520007,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+68,260,5.0,1158531191,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+91,260,4.5,1112712846,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+140,260,4.0,942842304,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+177,260,2.5,1435524019,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+182,260,3.5,1120879576,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+219,260,5.0,1194685947,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+239,260,5.0,1221148002,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+249,260,5.0,1346757993,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+274,260,3.0,1171409999,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+288,260,5.0,976137780,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+307,260,3.5,1186160883,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+330,260,4.0,1285904564,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+380,260,5.0,1493419753,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+414,260,5.0,961514667,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+425,260,3.0,1085477202,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+434,260,5.0,1270604737,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+448,260,5.0,1019124071,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+474,260,4.0,975173633,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+480,260,4.5,1179160262,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+483,260,4.5,1327276785,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+573,260,5.0,1186589669,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+580,260,4.0,1167860858,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+590,260,5.0,1258416665,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+599,260,5.0,1498533468,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+600,260,4.0,1237714798,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+608,260,3.5,1117162625,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+18,293,4.5,1455050049,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+63,293,3.5,1443199772,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+64,293,4.0,1161521544,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+68,293,4.0,1158532453,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+91,293,4.0,1112711284,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+140,293,5.0,942843185,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+182,293,4.5,1054780295,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+219,293,4.0,1194685979,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+239,293,4.5,1221159154,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+249,293,5.0,1346757717,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+274,293,4.5,1171409188,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+380,293,5.0,1493419784,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+414,293,5.0,961517011,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+425,293,5.0,1114174063,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+434,293,4.5,1270603658,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+474,293,3.5,1079099410,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+480,293,4.5,1179178211,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+483,293,4.0,1181494891,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+489,293,4.5,1332773372,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+573,293,5.0,1186804237,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+580,293,5.0,1167783708,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+599,293,5.0,1498456035,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+608,293,4.0,1117490629,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+18,296,4.0,1455050745,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+63,296,5.0,1443201070,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+64,296,4.5,1161520143,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+68,296,2.0,1180916156,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+91,296,4.5,1112711264,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+140,296,4.0,942843185,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+177,296,5.0,1435530409,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+182,296,5.0,1054781290,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+219,296,4.0,1198522553,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+239,296,5.0,1221158165,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+249,296,4.0,1346757687,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+274,296,5.0,1171493995,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+288,296,5.0,978647227,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+307,296,4.5,1186088034,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+330,296,4.0,1285904473,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+380,296,5.0,1493420341,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+414,296,5.0,961516693,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+425,296,4.0,1085477156,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+434,296,5.0,1270603222,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+448,296,5.0,1019132316,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+474,296,4.0,979179939,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+480,296,4.0,1179177639,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+483,296,5.0,1178213426,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+489,296,4.0,1333101247,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+573,296,5.0,1186589250,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+580,296,5.0,1167789886,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+590,296,4.5,1258420369,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+599,296,5.0,1498456867,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+600,296,4.5,1237712505,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+608,296,5.0,1117162592,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+18,318,5.0,1455049328,"Shawshank Redemption, The (1994)",Crime|Drama
+63,318,5.0,1443199751,"Shawshank Redemption, The (1994)",Crime|Drama
+64,318,5.0,1161520540,"Shawshank Redemption, The (1994)",Crime|Drama
+68,318,3.0,1158531293,"Shawshank Redemption, The (1994)",Crime|Drama
+91,318,2.0,1112712135,"Shawshank Redemption, The (1994)",Crime|Drama
+140,318,4.0,942840891,"Shawshank Redemption, The (1994)",Crime|Drama
+177,318,5.0,1435523517,"Shawshank Redemption, The (1994)",Crime|Drama
+182,318,4.5,1055157293,"Shawshank Redemption, The (1994)",Crime|Drama
+219,318,5.0,1194685877,"Shawshank Redemption, The (1994)",Crime|Drama
+239,318,5.0,1221158260,"Shawshank Redemption, The (1994)",Crime|Drama
+249,318,4.5,1346758076,"Shawshank Redemption, The (1994)",Crime|Drama
+274,318,4.5,1171409194,"Shawshank Redemption, The (1994)",Crime|Drama
+288,318,5.0,976120853,"Shawshank Redemption, The (1994)",Crime|Drama
+307,318,4.5,1186088053,"Shawshank Redemption, The (1994)",Crime|Drama
+330,318,4.5,1285904529,"Shawshank Redemption, The (1994)",Crime|Drama
+380,318,3.0,1493419865,"Shawshank Redemption, The (1994)",Crime|Drama
+414,318,5.0,961516613,"Shawshank Redemption, The (1994)",Crime|Drama
+425,318,5.0,1085477209,"Shawshank Redemption, The (1994)",Crime|Drama
+434,318,4.0,1270603965,"Shawshank Redemption, The (1994)",Crime|Drama
+474,318,5.0,979179840,"Shawshank Redemption, The (1994)",Crime|Drama
+480,318,5.0,1179160238,"Shawshank Redemption, The (1994)",Crime|Drama
+483,318,5.0,1291838563,"Shawshank Redemption, The (1994)",Crime|Drama
+573,318,4.5,1299222415,"Shawshank Redemption, The (1994)",Crime|Drama
+580,318,5.0,1167673438,"Shawshank Redemption, The (1994)",Crime|Drama
+590,318,4.5,1258416487,"Shawshank Redemption, The (1994)",Crime|Drama
+599,318,4.0,1498498867,"Shawshank Redemption, The (1994)",Crime|Drama
+600,318,3.5,1237714787,"Shawshank Redemption, The (1994)",Crime|Drama
+608,318,4.5,1147210910,"Shawshank Redemption, The (1994)",Crime|Drama
+18,344,2.5,1455209869,Ace Ventura: Pet Detective (1994),Comedy
+63,344,5.0,1443201075,Ace Ventura: Pet Detective (1994),Comedy
+64,344,3.5,1161520033,Ace Ventura: Pet Detective (1994),Comedy
+68,344,2.5,1158531367,Ace Ventura: Pet Detective (1994),Comedy
+91,344,3.0,1112713227,Ace Ventura: Pet Detective (1994),Comedy
+177,344,4.0,1435533575,Ace Ventura: Pet Detective (1994),Comedy
+219,344,4.0,1194932232,Ace Ventura: Pet Detective (1994),Comedy
+249,344,3.5,1354107356,Ace Ventura: Pet Detective (1994),Comedy
+274,344,4.5,1171409788,Ace Ventura: Pet Detective (1994),Comedy
+288,344,3.0,978559935,Ace Ventura: Pet Detective (1994),Comedy
+307,344,4.0,1186084464,Ace Ventura: Pet Detective (1994),Comedy
+330,344,0.5,1285904970,Ace Ventura: Pet Detective (1994),Comedy
+380,344,5.0,1493494897,Ace Ventura: Pet Detective (1994),Comedy
+414,344,2.0,961438981,Ace Ventura: Pet Detective (1994),Comedy
+425,344,3.5,1085477337,Ace Ventura: Pet Detective (1994),Comedy
+434,344,3.0,1270604468,Ace Ventura: Pet Detective (1994),Comedy
+448,344,3.0,1019128536,Ace Ventura: Pet Detective (1994),Comedy
+474,344,1.0,1046887677,Ace Ventura: Pet Detective (1994),Comedy
+480,344,3.5,1179177619,Ace Ventura: Pet Detective (1994),Comedy
+483,344,4.0,1178215162,Ace Ventura: Pet Detective (1994),Comedy
+489,344,1.5,1335696138,Ace Ventura: Pet Detective (1994),Comedy
+590,344,3.0,1258420495,Ace Ventura: Pet Detective (1994),Comedy
+599,344,2.5,1498514429,Ace Ventura: Pet Detective (1994),Comedy
+600,344,3.0,1237709122,Ace Ventura: Pet Detective (1994),Comedy
+608,344,3.5,1117504297,Ace Ventura: Pet Detective (1994),Comedy
+18,356,4.5,1455050112,Forrest Gump (1994),Comedy|Drama|Romance|War
+63,356,3.5,1443199681,Forrest Gump (1994),Comedy|Drama|Romance|War
+64,356,4.0,1161520004,Forrest Gump (1994),Comedy|Drama|Romance|War
+68,356,3.5,1158531181,Forrest Gump (1994),Comedy|Drama|Romance|War
+91,356,3.0,1112711237,Forrest Gump (1994),Comedy|Drama|Romance|War
+140,356,4.0,949666898,Forrest Gump (1994),Comedy|Drama|Romance|War
+177,356,5.0,1435523542,Forrest Gump (1994),Comedy|Drama|Romance|War
+182,356,5.0,1054782675,Forrest Gump (1994),Comedy|Drama|Romance|War
+239,356,5.0,1221158139,Forrest Gump (1994),Comedy|Drama|Romance|War
+249,356,4.5,1346841583,Forrest Gump (1994),Comedy|Drama|Romance|War
+274,356,4.5,1171409739,Forrest Gump (1994),Comedy|Drama|Romance|War
+288,356,5.0,976139988,Forrest Gump (1994),Comedy|Drama|Romance|War
+307,356,4.0,1186088040,Forrest Gump (1994),Comedy|Drama|Romance|War
+330,356,5.0,1285904215,Forrest Gump (1994),Comedy|Drama|Romance|War
+380,356,5.0,1493420342,Forrest Gump (1994),Comedy|Drama|Romance|War
+414,356,5.0,961438609,Forrest Gump (1994),Comedy|Drama|Romance|War
+425,356,5.0,1085477166,Forrest Gump (1994),Comedy|Drama|Romance|War
+434,356,4.5,1270604589,Forrest Gump (1994),Comedy|Drama|Romance|War
+448,356,3.0,1019127614,Forrest Gump (1994),Comedy|Drama|Romance|War
+474,356,3.0,1100292489,Forrest Gump (1994),Comedy|Drama|Romance|War
+480,356,5.0,1179161816,Forrest Gump (1994),Comedy|Drama|Romance|War
+483,356,5.0,1415579192,Forrest Gump (1994),Comedy|Drama|Romance|War
+489,356,4.0,1333101250,Forrest Gump (1994),Comedy|Drama|Romance|War
+573,356,4.5,1186589781,Forrest Gump (1994),Comedy|Drama|Romance|War
+580,356,4.0,1167789921,Forrest Gump (1994),Comedy|Drama|Romance|War
+590,356,5.0,1258416659,Forrest Gump (1994),Comedy|Drama|Romance|War
+599,356,3.5,1498797749,Forrest Gump (1994),Comedy|Drama|Romance|War
+600,356,4.0,1237852400,Forrest Gump (1994),Comedy|Drama|Romance|War
+608,356,3.0,1117162603,Forrest Gump (1994),Comedy|Drama|Romance|War
+18,364,3.0,1455209887,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+63,364,4.0,1443200128,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+64,364,4.0,1161520878,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+68,364,4.5,1158531894,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+91,364,3.5,1112711195,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+140,364,4.0,949666898,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+177,364,4.0,1435533586,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+219,364,5.0,1194931867,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+239,364,4.0,1221158102,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+249,364,5.0,1356439489,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+274,364,4.0,1171934641,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+288,364,3.0,978469358,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+307,364,3.0,1186160981,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+330,364,3.0,1285904992,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+380,364,5.0,1493474112,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+414,364,4.0,961519028,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+425,364,3.0,1085477386,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+474,364,4.5,1081177308,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+480,364,3.5,1179162651,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+483,364,4.0,1178215210,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+489,364,4.0,1333101330,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+573,364,4.5,1186722302,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+580,364,3.0,1167673486,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+590,364,4.5,1258417725,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+599,364,3.0,1498521329,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+600,364,2.5,1237760758,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+608,364,3.5,1117408428,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+18,367,2.5,1455618093,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+63,367,4.0,1443201104,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+64,367,3.5,1161520598,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+68,367,3.0,1158531592,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+91,367,3.5,1112713273,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+177,367,3.0,1435890503,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+219,367,3.0,1194681057,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+239,367,3.5,1221158314,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+249,367,4.0,1354107372,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+274,367,4.0,1171934652,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+288,367,2.0,978559595,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+307,367,1.5,1186160996,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+330,367,1.0,1285905056,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+380,367,5.0,1494278653,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+414,367,4.0,961438352,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+425,367,2.5,1085477446,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+434,367,2.0,1270606604,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+448,367,3.0,1019127943,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+474,367,1.0,1046887326,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+480,367,4.0,1179177752,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+483,367,3.0,1178293175,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+489,367,1.5,1334169929,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+573,367,3.0,1186590087,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+580,367,3.5,1167674978,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+590,367,3.0,1258419667,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+599,367,3.0,1498525039,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+600,367,3.0,1237715117,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+608,367,2.0,1117408436,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+18,377,2.5,1455209879,Speed (1994),Action|Romance|Thriller
+63,377,2.5,1443201077,Speed (1994),Action|Romance|Thriller
+64,377,3.0,1161520155,Speed (1994),Action|Romance|Thriller
+68,377,5.0,1158531516,Speed (1994),Action|Romance|Thriller
+91,377,3.0,1112713224,Speed (1994),Action|Romance|Thriller
+140,377,4.0,967048935,Speed (1994),Action|Romance|Thriller
+177,377,3.0,1435533573,Speed (1994),Action|Romance|Thriller
+182,377,2.5,1054780896,Speed (1994),Action|Romance|Thriller
+219,377,3.5,1194827061,Speed (1994),Action|Romance|Thriller
+249,377,4.0,1355366659,Speed (1994),Action|Romance|Thriller
+274,377,3.5,1171934616,Speed (1994),Action|Romance|Thriller
+288,377,3.0,976139931,Speed (1994),Action|Romance|Thriller
+307,377,1.0,1186160946,Speed (1994),Action|Romance|Thriller
+330,377,0.5,1285904976,Speed (1994),Action|Romance|Thriller
+380,377,5.0,1493494896,Speed (1994),Action|Romance|Thriller
+414,377,4.0,961513948,Speed (1994),Action|Romance|Thriller
+425,377,3.5,1085477328,Speed (1994),Action|Romance|Thriller
+448,377,4.0,1019124324,Speed (1994),Action|Romance|Thriller
+474,377,4.0,974667447,Speed (1994),Action|Romance|Thriller
+480,377,3.5,1179177648,Speed (1994),Action|Romance|Thriller
+483,377,1.5,1181496681,Speed (1994),Action|Romance|Thriller
+489,377,3.5,1333101308,Speed (1994),Action|Romance|Thriller
+573,377,5.0,1186722390,Speed (1994),Action|Romance|Thriller
+590,377,3.0,1258420459,Speed (1994),Action|Romance|Thriller
+599,377,3.0,1498523288,Speed (1994),Action|Romance|Thriller
+600,377,2.0,1237714778,Speed (1994),Action|Romance|Thriller
+608,377,2.5,1117415171,Speed (1994),Action|Romance|Thriller
+18,380,2.5,1455209846,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+68,380,3.5,1158531354,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+91,380,3.5,1112713208,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+140,380,4.0,1085569631,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+177,380,3.0,1435533559,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+182,380,3.0,1055155099,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+219,380,3.0,1194740097,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+239,380,3.5,1221158272,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+249,380,4.0,1353800578,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+274,380,4.0,1171409745,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+288,380,3.0,976139964,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+330,380,3.0,1285904951,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+380,380,5.0,1493494895,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+414,380,4.0,961438476,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+425,380,2.5,1085477219,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+434,380,2.5,1270604299,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+448,380,3.0,1019124334,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+474,380,4.0,974667484,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+480,380,2.5,1179177630,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+483,380,4.0,1178217461,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+489,380,3.5,1332772206,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+573,380,4.5,1248841976,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+590,380,3.0,1258420437,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+599,380,3.0,1519122884,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+600,380,3.0,1237712987,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+608,380,3.0,1117408264,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+18,457,3.5,1477432493,"Fugitive, The (1993)",Thriller
+68,457,4.5,1158531542,"Fugitive, The (1993)",Thriller
+91,457,4.0,1112713197,"Fugitive, The (1993)",Thriller
+140,457,4.0,942841471,"Fugitive, The (1993)",Thriller
+182,457,3.5,1054783792,"Fugitive, The (1993)",Thriller
+219,457,4.5,1237239231,"Fugitive, The (1993)",Thriller
+239,457,4.0,1221158489,"Fugitive, The (1993)",Thriller
+249,457,4.5,1355366996,"Fugitive, The (1993)",Thriller
+274,457,3.5,1256145196,"Fugitive, The (1993)",Thriller
+288,457,3.0,985626825,"Fugitive, The (1993)",Thriller
+307,457,3.0,1186160880,"Fugitive, The (1993)",Thriller
+330,457,2.5,1285904218,"Fugitive, The (1993)",Thriller
+380,457,4.0,1493420352,"Fugitive, The (1993)",Thriller
+414,457,5.0,961515643,"Fugitive, The (1993)",Thriller
+425,457,3.5,1114173628,"Fugitive, The (1993)",Thriller
+448,457,4.0,1019142214,"Fugitive, The (1993)",Thriller
+474,457,5.0,974667331,"Fugitive, The (1993)",Thriller
+480,457,3.5,1179161885,"Fugitive, The (1993)",Thriller
+483,457,2.5,1178293346,"Fugitive, The (1993)",Thriller
+573,457,4.5,1186589725,"Fugitive, The (1993)",Thriller
+580,457,3.0,1167791336,"Fugitive, The (1993)",Thriller
+590,457,4.0,1258420419,"Fugitive, The (1993)",Thriller
+599,457,3.0,1498523638,"Fugitive, The (1993)",Thriller
+600,457,3.0,1237712980,"Fugitive, The (1993)",Thriller
+608,457,3.0,1117162610,"Fugitive, The (1993)",Thriller
+18,480,3.5,1455209811,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+63,480,2.5,1443199679,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+64,480,4.0,1161520140,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+68,480,3.5,1158531200,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+91,480,4.5,1112713195,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+140,480,4.0,949667008,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+177,480,3.5,1435533530,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+182,480,3.5,1120879567,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+219,480,4.0,1194932224,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+239,480,4.0,1221158148,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+249,480,4.0,1346847728,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+274,480,3.5,1171410132,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+288,480,2.0,975691429,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+307,480,3.5,1187383664,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+330,480,2.0,1285904878,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+380,480,5.0,1493419900,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+414,480,4.0,961514893,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+425,480,3.5,1085477172,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+434,480,5.0,1270604612,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+448,480,3.0,1019124292,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+474,480,4.5,1100119725,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+480,480,5.0,1179162498,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+483,480,4.0,1178293045,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+489,480,3.5,1333101257,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+573,480,5.0,1186722173,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+580,480,4.0,1167791767,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+590,480,4.0,1258420379,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+599,480,4.0,1498498722,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+600,480,3.0,1237850755,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+608,480,3.0,1117162606,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+18,500,3.5,1455618095,Mrs. Doubtfire (1993),Comedy|Drama
+63,500,3.0,1443201103,Mrs. Doubtfire (1993),Comedy|Drama
+64,500,3.5,1161520572,Mrs. Doubtfire (1993),Comedy|Drama
+68,500,3.0,1158531950,Mrs. Doubtfire (1993),Comedy|Drama
+91,500,2.5,1112711245,Mrs. Doubtfire (1993),Comedy|Drama
+140,500,4.0,1030559180,Mrs. Doubtfire (1993),Comedy|Drama
+177,500,5.0,1435890500,Mrs. Doubtfire (1993),Comedy|Drama
+219,500,2.0,1194827056,Mrs. Doubtfire (1993),Comedy|Drama
+249,500,3.5,1356219014,Mrs. Doubtfire (1993),Comedy|Drama
+274,500,3.0,1171428404,Mrs. Doubtfire (1993),Comedy|Drama
+288,500,3.0,978559881,Mrs. Doubtfire (1993),Comedy|Drama
+307,500,2.0,1186160992,Mrs. Doubtfire (1993),Comedy|Drama
+330,500,3.5,1285905041,Mrs. Doubtfire (1993),Comedy|Drama
+380,500,4.0,1494803423,Mrs. Doubtfire (1993),Comedy|Drama
+414,500,3.0,961438822,Mrs. Doubtfire (1993),Comedy|Drama
+425,500,3.0,1085477431,Mrs. Doubtfire (1993),Comedy|Drama
+434,500,2.0,1270604782,Mrs. Doubtfire (1993),Comedy|Drama
+448,500,4.0,1019128140,Mrs. Doubtfire (1993),Comedy|Drama
+474,500,2.5,1053021883,Mrs. Doubtfire (1993),Comedy|Drama
+480,500,4.0,1179177891,Mrs. Doubtfire (1993),Comedy|Drama
+483,500,3.5,1178293521,Mrs. Doubtfire (1993),Comedy|Drama
+489,500,3.5,1332772454,Mrs. Doubtfire (1993),Comedy|Drama
+573,500,5.0,1186590149,Mrs. Doubtfire (1993),Comedy|Drama
+590,500,2.5,1258420556,Mrs. Doubtfire (1993),Comedy|Drama
+599,500,3.0,1498525707,Mrs. Doubtfire (1993),Comedy|Drama
+600,500,4.0,1237742340,Mrs. Doubtfire (1993),Comedy|Drama
+608,500,2.0,1117408421,Mrs. Doubtfire (1993),Comedy|Drama
+18,527,4.5,1455050006,Schindler's List (1993),Drama|War
+63,527,4.0,1443199764,Schindler's List (1993),Drama|War
+64,527,5.0,1161520178,Schindler's List (1993),Drama|War
+68,527,4.0,1305861414,Schindler's List (1993),Drama|War
+140,527,5.0,942840891,Schindler's List (1993),Drama|War
+177,527,4.5,1435523522,Schindler's List (1993),Drama|War
+182,527,4.0,1054781427,Schindler's List (1993),Drama|War
+249,527,4.5,1346758070,Schindler's List (1993),Drama|War
+274,527,4.0,1171758666,Schindler's List (1993),Drama|War
+288,527,5.0,976120853,Schindler's List (1993),Drama|War
+307,527,4.5,1186160910,Schindler's List (1993),Drama|War
+414,527,4.0,961512311,Schindler's List (1993),Drama|War
+425,527,4.0,1085477314,Schindler's List (1993),Drama|War
+434,527,5.0,1270604461,Schindler's List (1993),Drama|War
+474,527,5.0,979179823,Schindler's List (1993),Drama|War
+480,527,5.0,1179160233,Schindler's List (1993),Drama|War
+483,527,5.0,1415579196,Schindler's List (1993),Drama|War
+580,527,3.0,1167790845,Schindler's List (1993),Drama|War
+590,527,5.0,1258416466,Schindler's List (1993),Drama|War
+600,527,3.0,1237857081,Schindler's List (1993),Drama|War
+608,527,4.0,1117415161,Schindler's List (1993),Drama|War
+18,541,4.0,1456745325,Blade Runner (1982),Action|Sci-Fi|Thriller
+68,541,2.0,1158532190,Blade Runner (1982),Action|Sci-Fi|Thriller
+91,541,5.0,1112711219,Blade Runner (1982),Action|Sci-Fi|Thriller
+140,541,3.0,942841859,Blade Runner (1982),Action|Sci-Fi|Thriller
+182,541,4.0,1054779827,Blade Runner (1982),Action|Sci-Fi|Thriller
+219,541,3.5,1194687801,Blade Runner (1982),Action|Sci-Fi|Thriller
+239,541,4.0,1221158959,Blade Runner (1982),Action|Sci-Fi|Thriller
+249,541,4.0,1507756687,Blade Runner (1982),Action|Sci-Fi|Thriller
+274,541,2.5,1171409458,Blade Runner (1982),Action|Sci-Fi|Thriller
+288,541,4.0,975691813,Blade Runner (1982),Action|Sci-Fi|Thriller
+307,541,3.5,1189455304,Blade Runner (1982),Action|Sci-Fi|Thriller
+330,541,2.0,1285904101,Blade Runner (1982),Action|Sci-Fi|Thriller
+380,541,5.0,1493474355,Blade Runner (1982),Action|Sci-Fi|Thriller
+414,541,5.0,961514667,Blade Runner (1982),Action|Sci-Fi|Thriller
+434,541,5.0,1270605006,Blade Runner (1982),Action|Sci-Fi|Thriller
+448,541,4.0,1019123960,Blade Runner (1982),Action|Sci-Fi|Thriller
+474,541,3.0,1127688948,Blade Runner (1982),Action|Sci-Fi|Thriller
+480,541,4.0,1179160077,Blade Runner (1982),Action|Sci-Fi|Thriller
+489,541,4.0,1333101450,Blade Runner (1982),Action|Sci-Fi|Thriller
+580,541,5.0,1167789987,Blade Runner (1982),Action|Sci-Fi|Thriller
+590,541,4.5,1258416649,Blade Runner (1982),Action|Sci-Fi|Thriller
+599,541,4.5,1498539290,Blade Runner (1982),Action|Sci-Fi|Thriller
+608,541,3.5,1117490759,Blade Runner (1982),Action|Sci-Fi|Thriller
+18,586,3.5,1455748696,Home Alone (1990),Children|Comedy
+63,586,2.5,1443201188,Home Alone (1990),Children|Comedy
+64,586,3.0,1161521273,Home Alone (1990),Children|Comedy
+68,586,1.0,1158532048,Home Alone (1990),Children|Comedy
+91,586,2.0,1112712333,Home Alone (1990),Children|Comedy
+177,586,3.0,1435533702,Home Alone (1990),Children|Comedy
+182,586,3.5,1063289220,Home Alone (1990),Children|Comedy
+219,586,3.0,1194740087,Home Alone (1990),Children|Comedy
+274,586,3.5,1171759271,Home Alone (1990),Children|Comedy
+288,586,3.0,978560086,Home Alone (1990),Children|Comedy
+307,586,2.0,1186161387,Home Alone (1990),Children|Comedy
+330,586,3.5,1285905186,Home Alone (1990),Children|Comedy
+380,586,4.0,1494803432,Home Alone (1990),Children|Comedy
+414,586,3.0,961439170,Home Alone (1990),Children|Comedy
+425,586,2.5,1085477576,Home Alone (1990),Children|Comedy
+434,586,3.0,1270606730,Home Alone (1990),Children|Comedy
+448,586,3.0,1019126928,Home Alone (1990),Children|Comedy
+474,586,2.0,1046886823,Home Alone (1990),Children|Comedy
+480,586,4.0,1179177983,Home Alone (1990),Children|Comedy
+483,586,2.0,1181496723,Home Alone (1990),Children|Comedy
+489,586,1.5,1333101461,Home Alone (1990),Children|Comedy
+573,586,5.0,1186590114,Home Alone (1990),Children|Comedy
+590,586,3.0,1258417720,Home Alone (1990),Children|Comedy
+599,586,3.0,1498525239,Home Alone (1990),Children|Comedy
+608,586,1.0,1117504351,Home Alone (1990),Children|Comedy
+18,588,3.5,1455209912,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+63,588,4.0,1443200252,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+64,588,4.0,1161520247,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+68,588,3.5,1158531766,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+91,588,3.5,1112711205,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+140,588,3.0,942841791,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+177,588,4.0,1435533563,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+219,588,4.5,1194681069,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+239,588,4.0,1221158088,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+249,588,4.0,1353800716,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+274,588,4.0,1171934614,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+288,588,4.0,978469358,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+307,588,4.0,1186084593,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+330,588,3.0,1285904964,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+380,588,5.0,1493474467,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+414,588,4.0,961438199,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+425,588,3.0,1085477310,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+434,588,4.0,1270604764,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+474,588,4.0,978576063,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+480,588,4.0,1179177801,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+483,588,4.0,1178293097,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+489,588,3.5,1333101295,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+573,588,4.5,1186722460,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+580,588,2.0,1167673410,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+590,588,4.0,1258416644,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+599,588,3.0,1498523587,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+600,588,3.5,1237709466,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+608,588,3.0,1117408230,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+18,589,4.5,1455209793,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+63,589,4.0,1443199783,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+64,589,4.0,1161520454,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+68,589,3.5,1158531164,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+91,589,4.0,1112711446,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+182,589,2.0,1066331268,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+219,589,4.5,1194686309,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+239,589,3.5,1221158171,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+249,589,4.0,1346758213,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+274,589,4.5,1171409970,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+288,589,4.0,976139234,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+307,589,2.5,1186160891,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+330,589,3.5,1285904902,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+380,589,5.0,1493473853,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+414,589,5.0,961514698,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+425,589,3.5,1085477224,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+434,589,4.5,1271576437,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+448,589,3.0,1019124194,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+474,589,4.0,1111499815,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+480,589,4.5,1179177674,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+483,589,4.0,1178215130,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+489,589,3.5,1334170029,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+573,589,5.0,1186722180,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+580,589,4.0,1167790721,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+590,589,4.5,1258416631,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+599,589,4.5,1498459510,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+600,589,3.0,1237859381,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+608,589,3.0,1117415154,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+18,590,4.0,1455209837,Dances with Wolves (1990),Adventure|Drama|Western
+64,590,5.0,1161520062,Dances with Wolves (1990),Adventure|Drama|Western
+68,590,4.0,1158531481,Dances with Wolves (1990),Adventure|Drama|Western
+91,590,3.5,1112713201,Dances with Wolves (1990),Adventure|Drama|Western
+140,590,5.0,942842894,Dances with Wolves (1990),Adventure|Drama|Western
+182,590,4.5,1054781599,Dances with Wolves (1990),Adventure|Drama|Western
+239,590,4.0,1221158384,Dances with Wolves (1990),Adventure|Drama|Western
+274,590,4.0,1223263012,Dances with Wolves (1990),Adventure|Drama|Western
+288,590,5.0,978467753,Dances with Wolves (1990),Adventure|Drama|Western
+307,590,3.0,1186160889,Dances with Wolves (1990),Adventure|Drama|Western
+330,590,4.0,1285904939,Dances with Wolves (1990),Adventure|Drama|Western
+414,590,4.0,961513509,Dances with Wolves (1990),Adventure|Drama|Western
+425,590,4.0,1085477182,Dances with Wolves (1990),Adventure|Drama|Western
+448,590,3.0,1019125259,Dances with Wolves (1990),Adventure|Drama|Western
+474,590,3.5,1100292189,Dances with Wolves (1990),Adventure|Drama|Western
+480,590,5.0,1179161349,Dances with Wolves (1990),Adventure|Drama|Western
+489,590,4.0,1333101281,Dances with Wolves (1990),Adventure|Drama|Western
+580,590,4.0,1167862031,Dances with Wolves (1990),Adventure|Drama|Western
+590,590,3.0,1258420432,Dances with Wolves (1990),Adventure|Drama|Western
+608,590,3.0,1117162615,Dances with Wolves (1990),Adventure|Drama|Western
+18,593,4.5,1455050067,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+64,593,5.0,1161520116,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+68,593,3.5,1158531247,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+91,593,4.5,1112712144,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+140,593,4.0,949666792,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+177,593,5.0,1435533526,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+182,593,4.5,1054783612,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+219,593,4.5,1194686039,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+239,593,3.5,1221158095,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+249,593,4.0,1346758020,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+274,593,4.0,1171409513,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+288,593,5.0,976120853,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+307,593,4.5,1186088046,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+330,593,5.0,1285903848,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+380,593,5.0,1493473943,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+414,593,4.0,961516659,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+425,593,4.0,1085477160,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+434,593,4.0,1270604152,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+448,593,5.0,1019132717,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+474,593,4.5,1087831816,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+480,593,4.5,1179160242,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+489,593,4.0,1333101253,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+573,593,4.5,1248842982,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+580,593,4.5,1167790851,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+590,593,3.5,1258420374,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+599,593,3.0,1498519279,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+600,593,4.0,1237858985,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+608,593,4.0,1117162597,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+18,595,3.0,1455209900,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+63,595,3.0,1443201091,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+64,595,3.5,1161520447,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+68,595,4.5,1158531532,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+91,595,3.0,1112711215,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+140,595,5.0,942840991,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+177,595,5.0,1435720619,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+219,595,2.5,1218210249,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+239,595,3.0,1221158220,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+249,595,4.0,1356439499,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+274,595,3.0,1171428391,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+288,595,4.0,978469199,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+307,595,3.0,1186086099,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+330,595,2.5,1285905018,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+380,595,4.0,1494803415,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+414,595,3.0,961518975,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+474,595,5.0,1100119595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+480,595,3.0,1179160788,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+483,595,3.5,1178293242,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+489,595,4.0,1333101333,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+573,595,4.5,1248841986,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+590,595,4.5,1258420518,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+599,595,3.5,1498797790,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+600,595,3.0,1237712468,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+608,595,2.5,1117504304,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+18,608,4.5,1455050069,Fargo (1996),Comedy|Crime|Drama|Thriller
+63,608,4.5,1443199825,Fargo (1996),Comedy|Crime|Drama|Thriller
+64,608,4.0,1161520658,Fargo (1996),Comedy|Crime|Drama|Thriller
+68,608,2.5,1158531452,Fargo (1996),Comedy|Crime|Drama|Thriller
+91,608,3.5,1112713222,Fargo (1996),Comedy|Crime|Drama|Thriller
+140,608,5.0,942842394,Fargo (1996),Comedy|Crime|Drama|Thriller
+177,608,4.0,1435533565,Fargo (1996),Comedy|Crime|Drama|Thriller
+182,608,5.0,1054780385,Fargo (1996),Comedy|Crime|Drama|Thriller
+219,608,3.0,1200977881,Fargo (1996),Comedy|Crime|Drama|Thriller
+239,608,4.5,1221158136,Fargo (1996),Comedy|Crime|Drama|Thriller
+249,608,4.5,1346757613,Fargo (1996),Comedy|Crime|Drama|Thriller
+274,608,3.0,1171409592,Fargo (1996),Comedy|Crime|Drama|Thriller
+288,608,4.0,976120867,Fargo (1996),Comedy|Crime|Drama|Thriller
+307,608,3.0,1186160944,Fargo (1996),Comedy|Crime|Drama|Thriller
+330,608,4.0,1285904204,Fargo (1996),Comedy|Crime|Drama|Thriller
+380,608,4.0,1493494891,Fargo (1996),Comedy|Crime|Drama|Thriller
+414,608,5.0,961516693,Fargo (1996),Comedy|Crime|Drama|Thriller
+425,608,2.5,1085477324,Fargo (1996),Comedy|Crime|Drama|Thriller
+434,608,5.0,1270604590,Fargo (1996),Comedy|Crime|Drama|Thriller
+448,608,4.0,1059899864,Fargo (1996),Comedy|Crime|Drama|Thriller
+474,608,4.0,1137008687,Fargo (1996),Comedy|Crime|Drama|Thriller
+480,608,4.0,1179177667,Fargo (1996),Comedy|Crime|Drama|Thriller
+483,608,4.0,1199992684,Fargo (1996),Comedy|Crime|Drama|Thriller
+489,608,4.5,1332772289,Fargo (1996),Comedy|Crime|Drama|Thriller
+580,608,4.0,1167789994,Fargo (1996),Comedy|Crime|Drama|Thriller
+590,608,4.0,1258420449,Fargo (1996),Comedy|Crime|Drama|Thriller
+599,608,3.5,1498798016,Fargo (1996),Comedy|Crime|Drama|Thriller
+600,608,4.0,1237858332,Fargo (1996),Comedy|Crime|Drama|Thriller
+608,608,3.0,1117415165,Fargo (1996),Comedy|Crime|Drama|Thriller
+18,648,3.0,1455209873,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+63,648,4.0,1443201073,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+68,648,4.0,1158531681,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+91,648,4.0,1112713238,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+140,648,4.0,949667466,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+177,648,4.0,1435533580,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+182,648,4.0,1054782276,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+219,648,4.5,1194681052,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+239,648,4.0,1221159031,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+249,648,3.5,1355366438,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+274,648,3.5,1171409741,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+288,648,1.0,975691508,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+307,648,2.0,1186160954,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+330,648,2.5,1285905003,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+380,648,4.0,1493667391,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+414,648,4.0,961515889,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+425,648,3.5,1085477348,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+434,648,4.0,1270604662,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+448,648,3.0,1019125129,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+474,648,3.5,1053021262,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+480,648,3.0,1179177792,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+483,648,2.0,1178293442,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+489,648,3.0,1333101322,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+573,648,4.5,1341798453,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+590,648,3.5,1258419662,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+599,648,3.0,1498521434,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+600,648,3.0,1237742329,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+608,648,3.5,1117415371,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+18,780,4.0,1455209824,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+63,780,3.0,1443201081,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+64,780,3.0,1161520462,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+68,780,4.0,1158531402,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+91,780,3.5,1112713211,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+140,780,4.0,1008776130,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+177,780,3.5,1435533546,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+182,780,1.5,1054780010,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+219,780,4.0,1198782269,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+239,780,4.0,1221158240,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+249,780,4.0,1353801108,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+274,780,3.5,1171409792,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+288,780,1.0,974759525,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+307,780,2.0,1186411440,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+330,780,2.5,1285904918,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+380,780,4.0,1493420350,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+414,780,4.0,961512595,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+425,780,3.5,1085477305,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+434,780,2.5,1270604303,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+448,780,3.0,1019133014,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+474,780,4.0,974667743,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+480,780,3.0,1179177680,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+483,780,3.0,1178294810,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+489,780,2.5,1333101277,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+573,780,5.0,1186722183,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+580,780,3.0,1167792634,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+590,780,4.0,1258417707,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+599,780,3.5,1498542387,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+600,780,2.0,1237760690,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+608,780,3.0,1117408246,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+18,858,4.0,1455050024,"Godfather, The (1972)",Crime|Drama
+63,858,4.0,1443199776,"Godfather, The (1972)",Crime|Drama
+64,858,5.0,1161520037,"Godfather, The (1972)",Crime|Drama
+68,858,4.0,1268848984,"Godfather, The (1972)",Crime|Drama
+91,858,5.0,1112711140,"Godfather, The (1972)",Crime|Drama
+140,858,5.0,942842394,"Godfather, The (1972)",Crime|Drama
+177,858,5.0,1435533567,"Godfather, The (1972)",Crime|Drama
+182,858,4.5,1054781812,"Godfather, The (1972)",Crime|Drama
+219,858,4.5,1194686790,"Godfather, The (1972)",Crime|Drama
+239,858,5.0,1221158130,"Godfather, The (1972)",Crime|Drama
+249,858,4.5,1346757706,"Godfather, The (1972)",Crime|Drama
+274,858,3.5,1171409113,"Godfather, The (1972)",Crime|Drama
+307,858,4.5,1186160985,"Godfather, The (1972)",Crime|Drama
+330,858,4.0,1285904229,"Godfather, The (1972)",Crime|Drama
+380,858,4.0,1493419869,"Godfather, The (1972)",Crime|Drama
+414,858,5.0,961515566,"Godfather, The (1972)",Crime|Drama
+425,858,3.5,1085477411,"Godfather, The (1972)",Crime|Drama
+434,858,5.0,1270603341,"Godfather, The (1972)",Crime|Drama
+448,858,5.0,1019124147,"Godfather, The (1972)",Crime|Drama
+474,858,5.0,983033120,"Godfather, The (1972)",Crime|Drama
+480,858,5.0,1179160125,"Godfather, The (1972)",Crime|Drama
+483,858,4.0,1178213656,"Godfather, The (1972)",Crime|Drama
+573,858,5.0,1415676012,"Godfather, The (1972)",Crime|Drama
+580,858,4.5,1167789986,"Godfather, The (1972)",Crime|Drama
+590,858,5.0,1258416477,"Godfather, The (1972)",Crime|Drama
+599,858,4.0,1498499662,"Godfather, The (1972)",Crime|Drama
+600,858,4.0,1237712965,"Godfather, The (1972)",Crime|Drama
+608,858,5.0,1117408367,"Godfather, The (1972)",Crime|Drama
+18,1036,4.0,1455618103,Die Hard (1988),Action|Crime|Thriller
+63,1036,4.0,1443199792,Die Hard (1988),Action|Crime|Thriller
+64,1036,3.0,1161520494,Die Hard (1988),Action|Crime|Thriller
+68,1036,3.0,1158531885,Die Hard (1988),Action|Crime|Thriller
+91,1036,4.0,1112713347,Die Hard (1988),Action|Crime|Thriller
+140,1036,4.0,942841715,Die Hard (1988),Action|Crime|Thriller
+177,1036,4.0,1435533617,Die Hard (1988),Action|Crime|Thriller
+182,1036,4.0,1055158318,Die Hard (1988),Action|Crime|Thriller
+219,1036,5.0,1194686082,Die Hard (1988),Action|Crime|Thriller
+239,1036,4.0,1221158283,Die Hard (1988),Action|Crime|Thriller
+249,1036,4.0,1346757908,Die Hard (1988),Action|Crime|Thriller
+274,1036,4.0,1171934710,Die Hard (1988),Action|Crime|Thriller
+288,1036,3.0,976138177,Die Hard (1988),Action|Crime|Thriller
+307,1036,3.0,1189456334,Die Hard (1988),Action|Crime|Thriller
+380,1036,5.0,1493474088,Die Hard (1988),Action|Crime|Thriller
+414,1036,5.0,961515684,Die Hard (1988),Action|Crime|Thriller
+425,1036,3.5,1085477594,Die Hard (1988),Action|Crime|Thriller
+434,1036,4.5,1270606799,Die Hard (1988),Action|Crime|Thriller
+448,1036,5.0,1019124211,Die Hard (1988),Action|Crime|Thriller
+474,1036,3.0,983034060,Die Hard (1988),Action|Crime|Thriller
+480,1036,3.5,1179161463,Die Hard (1988),Action|Crime|Thriller
+483,1036,3.5,1178293072,Die Hard (1988),Action|Crime|Thriller
+489,1036,3.0,1333101447,Die Hard (1988),Action|Crime|Thriller
+573,1036,5.0,1186589677,Die Hard (1988),Action|Crime|Thriller
+580,1036,4.0,1167673418,Die Hard (1988),Action|Crime|Thriller
+590,1036,4.0,1258420659,Die Hard (1988),Action|Crime|Thriller
+599,1036,4.0,1498498596,Die Hard (1988),Action|Crime|Thriller
+600,1036,3.0,1237859371,Die Hard (1988),Action|Crime|Thriller
+608,1036,3.0,1117415358,Die Hard (1988),Action|Crime|Thriller
+18,1089,4.0,1455051391,Reservoir Dogs (1992),Crime|Mystery|Thriller
+63,1089,3.0,1443201184,Reservoir Dogs (1992),Crime|Mystery|Thriller
+64,1089,4.0,1161520988,Reservoir Dogs (1992),Crime|Mystery|Thriller
+68,1089,3.5,1158532755,Reservoir Dogs (1992),Crime|Mystery|Thriller
+91,1089,4.0,1112711148,Reservoir Dogs (1992),Crime|Mystery|Thriller
+140,1089,3.0,949666815,Reservoir Dogs (1992),Crime|Mystery|Thriller
+177,1089,4.0,1435533711,Reservoir Dogs (1992),Crime|Mystery|Thriller
+182,1089,5.0,1054781289,Reservoir Dogs (1992),Crime|Mystery|Thriller
+219,1089,4.0,1194685989,Reservoir Dogs (1992),Crime|Mystery|Thriller
+239,1089,5.0,1221158521,Reservoir Dogs (1992),Crime|Mystery|Thriller
+249,1089,4.0,1346757745,Reservoir Dogs (1992),Crime|Mystery|Thriller
+274,1089,4.5,1171408966,Reservoir Dogs (1992),Crime|Mystery|Thriller
+307,1089,4.0,1186161465,Reservoir Dogs (1992),Crime|Mystery|Thriller
+330,1089,2.5,1285904497,Reservoir Dogs (1992),Crime|Mystery|Thriller
+380,1089,4.0,1493419782,Reservoir Dogs (1992),Crime|Mystery|Thriller
+414,1089,5.0,961681753,Reservoir Dogs (1992),Crime|Mystery|Thriller
+425,1089,3.5,1085477821,Reservoir Dogs (1992),Crime|Mystery|Thriller
+434,1089,4.0,1270603496,Reservoir Dogs (1992),Crime|Mystery|Thriller
+448,1089,5.0,1019132326,Reservoir Dogs (1992),Crime|Mystery|Thriller
+474,1089,4.0,1109690419,Reservoir Dogs (1992),Crime|Mystery|Thriller
+480,1089,4.0,1179178001,Reservoir Dogs (1992),Crime|Mystery|Thriller
+489,1089,3.5,1385823465,Reservoir Dogs (1992),Crime|Mystery|Thriller
+573,1089,4.5,1186589585,Reservoir Dogs (1992),Crime|Mystery|Thriller
+580,1089,5.0,1167789893,Reservoir Dogs (1992),Crime|Mystery|Thriller
+590,1089,4.0,1258416629,Reservoir Dogs (1992),Crime|Mystery|Thriller
+599,1089,5.0,1498533764,Reservoir Dogs (1992),Crime|Mystery|Thriller
+608,1089,4.0,1117407755,Reservoir Dogs (1992),Crime|Mystery|Thriller
+18,1136,4.5,1455210625,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+63,1136,5.0,1443199789,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+64,1136,4.0,1161520638,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+68,1136,3.5,1158532161,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+91,1136,5.0,1112711175,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+177,1136,4.5,1435890536,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+182,1136,4.0,1054784002,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+219,1136,3.5,1194686049,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+239,1136,5.0,1221158237,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+274,1136,3.5,1171409305,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+288,1136,5.0,976120146,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+307,1136,3.5,1186161067,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+330,1136,4.5,1285904378,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+380,1136,5.0,1493473845,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+414,1136,5.0,961595286,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+425,1136,3.5,1085477611,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+434,1136,5.0,1270605004,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+448,1136,5.0,1019130885,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+474,1136,4.5,1081177312,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+480,1136,5.0,1179160187,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+483,1136,4.5,1277996223,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+489,1136,3.5,1333101417,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+573,1136,4.5,1186589741,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+580,1136,5.0,1167673425,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+590,1136,3.5,1258419551,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+599,1136,4.5,1498539536,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+600,1136,4.5,1237850747,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+608,1136,3.0,1117491522,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+18,1193,4.5,1517686025,One Flew Over the Cuckoo's Nest (1975),Drama
+63,1193,4.0,1443201170,One Flew Over the Cuckoo's Nest (1975),Drama
+64,1193,5.0,1161528996,One Flew Over the Cuckoo's Nest (1975),Drama
+68,1193,3.0,1240092977,One Flew Over the Cuckoo's Nest (1975),Drama
+91,1193,4.0,1112711128,One Flew Over the Cuckoo's Nest (1975),Drama
+140,1193,3.0,942842304,One Flew Over the Cuckoo's Nest (1975),Drama
+177,1193,4.0,1435533599,One Flew Over the Cuckoo's Nest (1975),Drama
+182,1193,4.0,1054780366,One Flew Over the Cuckoo's Nest (1975),Drama
+239,1193,4.0,1221158192,One Flew Over the Cuckoo's Nest (1975),Drama
+249,1193,4.5,1453079305,One Flew Over the Cuckoo's Nest (1975),Drama
+274,1193,4.5,1186728753,One Flew Over the Cuckoo's Nest (1975),Drama
+288,1193,5.0,979163450,One Flew Over the Cuckoo's Nest (1975),Drama
+307,1193,3.5,1186161061,One Flew Over the Cuckoo's Nest (1975),Drama
+330,1193,4.0,1285904427,One Flew Over the Cuckoo's Nest (1975),Drama
+380,1193,4.0,1494803420,One Flew Over the Cuckoo's Nest (1975),Drama
+414,1193,4.0,961516716,One Flew Over the Cuckoo's Nest (1975),Drama
+434,1193,4.5,1270606755,One Flew Over the Cuckoo's Nest (1975),Drama
+448,1193,5.0,1019123928,One Flew Over the Cuckoo's Nest (1975),Drama
+474,1193,3.5,1053021005,One Flew Over the Cuckoo's Nest (1975),Drama
+480,1193,3.5,1179160200,One Flew Over the Cuckoo's Nest (1975),Drama
+483,1193,3.0,1178293569,One Flew Over the Cuckoo's Nest (1975),Drama
+573,1193,4.0,1248842434,One Flew Over the Cuckoo's Nest (1975),Drama
+580,1193,4.0,1167789891,One Flew Over the Cuckoo's Nest (1975),Drama
+590,1193,4.5,1258416482,One Flew Over the Cuckoo's Nest (1975),Drama
+608,1193,3.5,1117503152,One Flew Over the Cuckoo's Nest (1975),Drama
+18,1196,4.0,1455209805,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+63,1196,5.0,1443199754,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+64,1196,3.5,1161520897,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+68,1196,5.0,1158531361,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+91,1196,4.5,1112711436,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+140,1196,3.0,942842265,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+177,1196,3.0,1435523533,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+182,1196,3.0,1054779803,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+219,1196,4.5,1194685932,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+239,1196,5.0,1221158579,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+249,1196,5.0,1346757817,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+274,1196,4.5,1171409426,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+288,1196,4.5,1079984551,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+307,1196,3.0,1186411459,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+330,1196,5.0,1285904568,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+380,1196,5.0,1493419755,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+414,1196,5.0,961512311,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+425,1196,3.0,1085477383,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+434,1196,5.0,1270604157,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+448,1196,5.0,1019124147,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+474,1196,5.0,983034060,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+480,1196,5.0,1179160264,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+483,1196,4.5,1327276799,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+573,1196,5.0,1186589671,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+580,1196,4.0,1167673444,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+590,1196,5.0,1258420454,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+599,1196,5.0,1519029372,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+600,1196,4.0,1237760638,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+608,1196,4.0,1117491243,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+18,1198,4.0,1455049377,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+63,1198,5.0,1443199755,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+68,1198,5.0,1158531882,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+91,1198,5.0,1112712826,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+140,1198,4.0,942841170,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+177,1198,3.5,1435523538,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+182,1198,3.5,1054781077,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+219,1198,4.5,1194685892,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+239,1198,4.0,1221158245,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+249,1198,5.0,1346758006,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+274,1198,4.0,1212003426,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+288,1198,5.0,976138178,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+307,1198,4.0,1226946657,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+330,1198,3.5,1285904477,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+380,1198,5.0,1493419758,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+414,1198,5.0,961515566,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+425,1198,4.0,1085477395,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+448,1198,5.0,1019124147,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+474,1198,4.0,983034022,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+480,1198,5.0,1179160219,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+483,1198,4.0,1178292917,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+489,1198,4.0,1333101305,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+573,1198,5.0,1186589562,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+580,1198,4.5,1167673435,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+590,1198,5.0,1258416451,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+599,1198,3.5,1498500961,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+600,1198,4.0,1237850738,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+18,1206,4.5,1455050357,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+68,1206,3.0,1252727946,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+91,1206,5.0,1112713440,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+177,1206,1.0,1435533733,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+182,1206,5.0,1054779822,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+239,1206,5.0,1221158632,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+249,1206,4.0,1390729931,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+274,1206,4.5,1171409259,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+288,1206,4.0,976139234,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+307,1206,3.5,1186161521,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+330,1206,4.0,1285903996,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+414,1206,5.0,961514724,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+425,1206,3.0,1085477836,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+434,1206,4.5,1271039384,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+448,1206,4.0,1034616598,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+474,1206,3.5,1115044104,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+480,1206,4.0,1179161220,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+580,1206,4.0,1167790316,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+590,1206,3.0,1258420840,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+599,1206,4.5,1498539520,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+600,1206,5.0,1237712957,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+608,1206,3.5,1147212290,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+18,1210,4.5,1455209798,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+63,1210,4.5,1443199768,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+64,1210,3.5,1161520048,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+68,1210,5.0,1158531261,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+91,1210,4.0,1112711157,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+140,1210,3.5,1117729537,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+177,1210,3.0,1435533540,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+182,1210,2.5,1054779829,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+219,1210,4.0,1194686138,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+239,1210,5.0,1221158189,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+249,1210,4.5,1346757895,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+274,1210,4.0,1171409967,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+288,1210,4.5,1066059692,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+307,1210,3.0,1186411468,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+330,1210,5.0,1285904933,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+380,1210,5.0,1493419767,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+414,1210,5.0,961436248,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+425,1210,3.0,1085477285,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+434,1210,4.5,1270604436,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+448,1210,5.0,1019123866,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+474,1210,4.0,1002928633,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+480,1210,3.5,1179177713,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+483,1210,4.5,1327276791,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+573,1210,5.0,1186589710,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+580,1210,4.0,1167673442,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+590,1210,4.5,1258420427,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+599,1210,5.0,1498533608,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+600,1210,4.5,1237743471,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+608,1210,4.0,1117408257,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+18,1213,4.5,1455050000,Goodfellas (1990),Crime|Drama
+63,1213,4.0,1443201226,Goodfellas (1990),Crime|Drama
+64,1213,5.0,1161520853,Goodfellas (1990),Crime|Drama
+68,1213,3.5,1240093011,Goodfellas (1990),Crime|Drama
+91,1213,4.0,1112712318,Goodfellas (1990),Crime|Drama
+140,1213,3.0,942843185,Goodfellas (1990),Crime|Drama
+177,1213,4.0,1435536859,Goodfellas (1990),Crime|Drama
+182,1213,5.0,1055153970,Goodfellas (1990),Crime|Drama
+219,1213,2.5,1194685974,Goodfellas (1990),Crime|Drama
+239,1213,5.0,1221158601,Goodfellas (1990),Crime|Drama
+249,1213,4.0,1346757707,Goodfellas (1990),Crime|Drama
+274,1213,4.0,1171409055,Goodfellas (1990),Crime|Drama
+288,1213,4.0,976120925,Goodfellas (1990),Crime|Drama
+307,1213,4.0,1186161459,Goodfellas (1990),Crime|Drama
+330,1213,3.5,1285904239,Goodfellas (1990),Crime|Drama
+380,1213,5.0,1493474014,Goodfellas (1990),Crime|Drama
+414,1213,5.0,961516639,Goodfellas (1990),Crime|Drama
+434,1213,4.5,1270604002,Goodfellas (1990),Crime|Drama
+448,1213,5.0,1019132316,Goodfellas (1990),Crime|Drama
+474,1213,3.5,1053021608,Goodfellas (1990),Crime|Drama
+480,1213,4.0,1179160131,Goodfellas (1990),Crime|Drama
+573,1213,4.5,1186589246,Goodfellas (1990),Crime|Drama
+580,1213,4.0,1167790635,Goodfellas (1990),Crime|Drama
+590,1213,4.0,1258420771,Goodfellas (1990),Crime|Drama
+599,1213,4.0,1498500397,Goodfellas (1990),Crime|Drama
+600,1213,2.0,1237742323,Goodfellas (1990),Crime|Drama
+608,1213,4.5,1189471142,Goodfellas (1990),Crime|Drama
+18,1214,4.0,1455050629,Alien (1979),Horror|Sci-Fi
+63,1214,2.5,1443199787,Alien (1979),Horror|Sci-Fi
+64,1214,4.0,1161520595,Alien (1979),Horror|Sci-Fi
+68,1214,2.0,1158531713,Alien (1979),Horror|Sci-Fi
+91,1214,5.0,1112713343,Alien (1979),Horror|Sci-Fi
+140,1214,4.0,1080845712,Alien (1979),Horror|Sci-Fi
+177,1214,2.5,1435533611,Alien (1979),Horror|Sci-Fi
+182,1214,4.5,1066151134,Alien (1979),Horror|Sci-Fi
+239,1214,4.0,1221158308,Alien (1979),Horror|Sci-Fi
+249,1214,4.5,1346754258,Alien (1979),Horror|Sci-Fi
+274,1214,4.0,1171409571,Alien (1979),Horror|Sci-Fi
+288,1214,3.0,976137780,Alien (1979),Horror|Sci-Fi
+307,1214,2.0,1227538416,Alien (1979),Horror|Sci-Fi
+330,1214,4.0,1285904024,Alien (1979),Horror|Sci-Fi
+380,1214,5.0,1493474048,Alien (1979),Horror|Sci-Fi
+414,1214,5.0,961514668,Alien (1979),Horror|Sci-Fi
+425,1214,4.0,1085477582,Alien (1979),Horror|Sci-Fi
+434,1214,5.0,1270605001,Alien (1979),Horror|Sci-Fi
+448,1214,3.0,1019124174,Alien (1979),Horror|Sci-Fi
+474,1214,4.0,1103379434,Alien (1979),Horror|Sci-Fi
+480,1214,5.0,1179160557,Alien (1979),Horror|Sci-Fi
+483,1214,4.0,1178293094,Alien (1979),Horror|Sci-Fi
+489,1214,4.0,1332772871,Alien (1979),Horror|Sci-Fi
+573,1214,4.5,1248842008,Alien (1979),Horror|Sci-Fi
+580,1214,4.0,1167792663,Alien (1979),Horror|Sci-Fi
+590,1214,4.5,1258420654,Alien (1979),Horror|Sci-Fi
+599,1214,5.0,1519029442,Alien (1979),Horror|Sci-Fi
+600,1214,2.5,1237709566,Alien (1979),Horror|Sci-Fi
+608,1214,4.0,1117491494,Alien (1979),Horror|Sci-Fi
+18,1221,5.0,1460242083,"Godfather: Part II, The (1974)",Crime|Drama
+63,1221,4.0,1443201175,"Godfather: Part II, The (1974)",Crime|Drama
+64,1221,5.0,1161528995,"Godfather: Part II, The (1974)",Crime|Drama
+68,1221,3.0,1158531015,"Godfather: Part II, The (1974)",Crime|Drama
+91,1221,4.0,1112712986,"Godfather: Part II, The (1974)",Crime|Drama
+140,1221,3.0,942840891,"Godfather: Part II, The (1974)",Crime|Drama
+177,1221,4.0,1435533674,"Godfather: Part II, The (1974)",Crime|Drama
+182,1221,4.5,1054781955,"Godfather: Part II, The (1974)",Crime|Drama
+219,1221,4.0,1214043291,"Godfather: Part II, The (1974)",Crime|Drama
+239,1221,5.0,1221158628,"Godfather: Part II, The (1974)",Crime|Drama
+249,1221,4.0,1347317381,"Godfather: Part II, The (1974)",Crime|Drama
+274,1221,3.5,1186728678,"Godfather: Part II, The (1974)",Crime|Drama
+307,1221,4.5,1186161428,"Godfather: Part II, The (1974)",Crime|Drama
+380,1221,5.0,1493474216,"Godfather: Part II, The (1974)",Crime|Drama
+414,1221,5.0,961515566,"Godfather: Part II, The (1974)",Crime|Drama
+425,1221,3.5,1085477639,"Godfather: Part II, The (1974)",Crime|Drama
+448,1221,5.0,1019124147,"Godfather: Part II, The (1974)",Crime|Drama
+474,1221,5.0,983033120,"Godfather: Part II, The (1974)",Crime|Drama
+480,1221,5.0,1179160127,"Godfather: Part II, The (1974)",Crime|Drama
+483,1221,3.5,1181494841,"Godfather: Part II, The (1974)",Crime|Drama
+573,1221,3.0,1248842030,"Godfather: Part II, The (1974)",Crime|Drama
+580,1221,4.0,1167790632,"Godfather: Part II, The (1974)",Crime|Drama
+590,1221,5.0,1258416472,"Godfather: Part II, The (1974)",Crime|Drama
+599,1221,4.0,1498499670,"Godfather: Part II, The (1974)",Crime|Drama
+608,1221,4.5,1117503038,"Godfather: Part II, The (1974)",Crime|Drama
+18,1240,4.0,1455618100,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+64,1240,3.5,1161520175,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+68,1240,4.0,1158531602,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+91,1240,4.5,1112711461,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+140,1240,3.0,942841243,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+182,1240,2.0,1066331265,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+219,1240,4.0,1194686346,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+239,1240,4.0,1221158296,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+249,1240,4.0,1346757874,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+274,1240,4.0,1171491755,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+288,1240,3.0,975691813,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+307,1240,2.5,1186161032,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+330,1240,2.5,1285905102,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+380,1240,5.0,1493473846,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+414,1240,5.0,961514698,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+425,1240,3.0,1085477562,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+434,1240,3.5,1270606545,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+448,1240,3.0,1019124194,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+474,1240,4.0,1111412847,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+480,1240,4.0,1179177903,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+483,1240,3.5,1178215275,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+489,1240,3.5,1333101394,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+573,1240,4.5,1186722390,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+580,1240,3.5,1167790561,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+590,1240,4.5,1258420596,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+599,1240,3.5,1498501551,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+600,1240,3.0,1237715083,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+608,1240,3.5,1117491402,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+18,1270,4.0,1455748627,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+63,1270,5.0,1443199663,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+68,1270,3.0,1271544201,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+91,1270,3.5,1112713112,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+140,1270,3.0,942841859,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+177,1270,5.0,1435533569,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+182,1270,3.0,1077804659,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+219,1270,3.5,1194827014,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+249,1270,4.5,1346756374,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+274,1270,3.5,1171409961,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+288,1270,5.0,975691813,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+307,1270,4.0,1186085735,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+330,1270,4.0,1285904985,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+380,1270,5.0,1493473813,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+414,1270,5.0,961514698,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+434,1270,3.5,1271314126,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+448,1270,5.0,1019127202,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+474,1270,4.5,1081177274,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+480,1270,5.0,1179160718,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+483,1270,4.5,1178215197,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+489,1270,3.5,1333101319,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+573,1270,4.5,1186590311,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+580,1270,3.5,1167792864,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+590,1270,4.5,1258420500,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+599,1270,3.5,1498501586,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+600,1270,4.5,1237711743,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+608,1270,2.0,1117162329,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+18,1291,4.0,1455059809,Indiana Jones and the Last Crusade (1989),Action|Adventure
+63,1291,4.0,1443199779,Indiana Jones and the Last Crusade (1989),Action|Adventure
+68,1291,5.0,1158531732,Indiana Jones and the Last Crusade (1989),Action|Adventure
+91,1291,4.0,1112712858,Indiana Jones and the Last Crusade (1989),Action|Adventure
+140,1291,3.0,942841859,Indiana Jones and the Last Crusade (1989),Action|Adventure
+177,1291,3.0,1435533606,Indiana Jones and the Last Crusade (1989),Action|Adventure
+182,1291,3.5,1054783760,Indiana Jones and the Last Crusade (1989),Action|Adventure
+219,1291,4.5,1194681042,Indiana Jones and the Last Crusade (1989),Action|Adventure
+239,1291,4.5,1221158200,Indiana Jones and the Last Crusade (1989),Action|Adventure
+249,1291,4.5,1346757806,Indiana Jones and the Last Crusade (1989),Action|Adventure
+274,1291,3.5,1212003442,Indiana Jones and the Last Crusade (1989),Action|Adventure
+288,1291,5.0,1052234887,Indiana Jones and the Last Crusade (1989),Action|Adventure
+307,1291,3.5,1186161065,Indiana Jones and the Last Crusade (1989),Action|Adventure
+330,1291,3.5,1285905152,Indiana Jones and the Last Crusade (1989),Action|Adventure
+380,1291,5.0,1493419770,Indiana Jones and the Last Crusade (1989),Action|Adventure
+414,1291,4.0,961515643,Indiana Jones and the Last Crusade (1989),Action|Adventure
+425,1291,4.0,1085477620,Indiana Jones and the Last Crusade (1989),Action|Adventure
+434,1291,4.5,1270604119,Indiana Jones and the Last Crusade (1989),Action|Adventure
+448,1291,4.0,1019124231,Indiana Jones and the Last Crusade (1989),Action|Adventure
+474,1291,4.0,983034060,Indiana Jones and the Last Crusade (1989),Action|Adventure
+480,1291,5.0,1179162388,Indiana Jones and the Last Crusade (1989),Action|Adventure
+483,1291,5.0,1415579027,Indiana Jones and the Last Crusade (1989),Action|Adventure
+489,1291,4.0,1333101440,Indiana Jones and the Last Crusade (1989),Action|Adventure
+573,1291,5.0,1186589585,Indiana Jones and the Last Crusade (1989),Action|Adventure
+580,1291,4.0,1167792469,Indiana Jones and the Last Crusade (1989),Action|Adventure
+590,1291,4.0,1258420639,Indiana Jones and the Last Crusade (1989),Action|Adventure
+599,1291,4.0,1498498683,Indiana Jones and the Last Crusade (1989),Action|Adventure
+600,1291,4.0,1237859361,Indiana Jones and the Last Crusade (1989),Action|Adventure
+608,1291,4.0,1117491212,Indiana Jones and the Last Crusade (1989),Action|Adventure
+18,1527,3.5,1455050095,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+63,1527,3.5,1443200201,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+64,1527,3.5,1161520360,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+68,1527,3.0,1158531651,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+91,1527,4.0,1112712045,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+177,1527,2.5,1435533706,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+182,1527,4.5,1054779948,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+219,1527,5.0,1194932129,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+239,1527,4.5,1221158292,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+249,1527,4.0,1437525508,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+274,1527,4.0,1171428348,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+288,1527,4.0,975692044,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+330,1527,4.0,1285905204,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+380,1527,4.0,1493420020,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+414,1527,5.0,961514893,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+425,1527,4.5,1106483398,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+434,1527,5.0,1270604845,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+448,1527,3.0,1019132995,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+480,1527,3.5,1179161759,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+483,1527,3.5,1178293067,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+489,1527,4.5,1332772549,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+573,1527,4.5,1248842035,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+580,1527,4.5,1167791482,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+590,1527,3.0,1258416593,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+599,1527,4.0,1498498913,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+608,1527,4.0,1117162143,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+18,1580,3.5,1455748435,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+63,1580,2.0,1443201093,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+64,1580,3.5,1161520051,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+68,1580,4.0,1158531346,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+91,1580,3.5,1112711168,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+140,1580,3.0,1024051464,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+177,1580,3.5,1435890494,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+182,1580,2.5,1054779951,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+219,1580,3.0,1194740518,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+239,1580,4.0,1221158099,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+249,1580,4.5,1353792037,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+274,1580,3.0,1171428362,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+288,1580,4.0,975691479,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+307,1580,2.0,1186161017,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+330,1580,4.0,1285905069,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+380,1580,5.0,1493473986,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+414,1580,4.0,961438437,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+425,1580,3.5,1085477551,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+434,1580,3.5,1270604388,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+448,1580,4.0,1019124455,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+474,1580,4.5,1100119838,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+480,1580,3.5,1179177734,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+483,1580,2.0,1178293293,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+489,1580,3.0,1334170377,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+573,1580,4.5,1187044783,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+580,1580,4.0,1167792444,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+590,1580,3.5,1258420589,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+599,1580,3.0,1498525900,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+608,1580,3.5,1117490704,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+18,1682,3.0,1455231395,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+63,1682,3.5,1443201256,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+64,1682,4.0,1161520745,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+68,1682,4.5,1158531979,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+91,1682,4.0,1112713540,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+140,1682,4.0,942841471,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+177,1682,3.5,1435533734,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+182,1682,3.0,1054779656,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+219,1682,3.5,1194686433,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+239,1682,4.0,1221158451,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+249,1682,3.5,1346757637,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+274,1682,4.5,1171492701,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+288,1682,4.0,976121063,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+307,1682,4.0,1186161568,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+330,1682,3.5,1285905289,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+380,1682,4.0,1493473812,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+414,1682,4.0,961517327,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+425,1682,3.0,1085492471,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+448,1682,3.0,1019137845,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+474,1682,4.5,1100119638,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+480,1682,4.5,1179178013,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+483,1682,3.5,1178293741,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+489,1682,2.5,1332772783,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+580,1682,4.5,1167791409,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+599,1682,4.0,1498498834,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+600,1682,3.5,1237712926,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+608,1682,4.5,1117162316,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+18,1704,4.0,1455050003,Good Will Hunting (1997),Drama|Romance
+63,1704,3.5,1443199847,Good Will Hunting (1997),Drama|Romance
+64,1704,4.5,1161520428,Good Will Hunting (1997),Drama|Romance
+68,1704,4.5,1158531769,Good Will Hunting (1997),Drama|Romance
+91,1704,3.0,1112713388,Good Will Hunting (1997),Drama|Romance
+140,1704,4.0,1055092969,Good Will Hunting (1997),Drama|Romance
+177,1704,5.0,1435533692,Good Will Hunting (1997),Drama|Romance
+182,1704,4.0,1055157251,Good Will Hunting (1997),Drama|Romance
+219,1704,4.0,1194686124,Good Will Hunting (1997),Drama|Romance
+239,1704,5.0,1221158311,Good Will Hunting (1997),Drama|Romance
+249,1704,4.0,1360979865,Good Will Hunting (1997),Drama|Romance
+274,1704,4.0,1171934742,Good Will Hunting (1997),Drama|Romance
+288,1704,3.5,1054569184,Good Will Hunting (1997),Drama|Romance
+307,1704,3.0,1186161433,Good Will Hunting (1997),Drama|Romance
+414,1704,5.0,961517035,Good Will Hunting (1997),Drama|Romance
+425,1704,4.0,1085477714,Good Will Hunting (1997),Drama|Romance
+434,1704,4.5,1270606614,Good Will Hunting (1997),Drama|Romance
+448,1704,4.0,1081171097,Good Will Hunting (1997),Drama|Romance
+474,1704,3.5,1129579341,Good Will Hunting (1997),Drama|Romance
+480,1704,5.0,1179161993,Good Will Hunting (1997),Drama|Romance
+483,1704,4.5,1178215676,Good Will Hunting (1997),Drama|Romance
+489,1704,3.5,1334170230,Good Will Hunting (1997),Drama|Romance
+580,1704,4.5,1167673423,Good Will Hunting (1997),Drama|Romance
+599,1704,4.5,1498762601,Good Will Hunting (1997),Drama|Romance
+608,1704,4.5,1189471145,Good Will Hunting (1997),Drama|Romance
+18,1721,4.0,1455748443,Titanic (1997),Drama|Romance
+68,1721,3.0,1158531226,Titanic (1997),Drama|Romance
+140,1721,4.0,942841219,Titanic (1997),Drama|Romance
+177,1721,5.0,1435890496,Titanic (1997),Drama|Romance
+219,1721,0.5,1214043346,Titanic (1997),Drama|Romance
+249,1721,2.0,1347318423,Titanic (1997),Drama|Romance
+274,1721,3.5,1171492429,Titanic (1997),Drama|Romance
+288,1721,3.0,976121266,Titanic (1997),Drama|Romance
+307,1721,2.0,1186161016,Titanic (1997),Drama|Romance
+330,1721,3.5,1285905078,Titanic (1997),Drama|Romance
+380,1721,2.0,1493667395,Titanic (1997),Drama|Romance
+414,1721,4.0,961514186,Titanic (1997),Drama|Romance
+425,1721,3.5,1085477546,Titanic (1997),Drama|Romance
+434,1721,3.0,1270604832,Titanic (1997),Drama|Romance
+474,1721,4.0,974668977,Titanic (1997),Drama|Romance
+480,1721,4.0,1179178328,Titanic (1997),Drama|Romance
+483,1721,2.0,1181496542,Titanic (1997),Drama|Romance
+489,1721,3.5,1333101365,Titanic (1997),Drama|Romance
+573,1721,1.5,1186722299,Titanic (1997),Drama|Romance
+580,1721,4.0,1167790146,Titanic (1997),Drama|Romance
+590,1721,3.5,1258416578,Titanic (1997),Drama|Romance
+599,1721,3.0,1498524231,Titanic (1997),Drama|Romance
+600,1721,3.0,1237742320,Titanic (1997),Drama|Romance
+608,1721,2.0,1117408294,Titanic (1997),Drama|Romance
+18,2028,4.0,1455209855,Saving Private Ryan (1998),Action|Drama|War
+63,2028,3.5,1443199838,Saving Private Ryan (1998),Action|Drama|War
+64,2028,4.0,1161520159,Saving Private Ryan (1998),Action|Drama|War
+68,2028,4.0,1158531283,Saving Private Ryan (1998),Action|Drama|War
+91,2028,4.5,1112713067,Saving Private Ryan (1998),Action|Drama|War
+140,2028,5.0,942841170,Saving Private Ryan (1998),Action|Drama|War
+182,2028,3.0,1054780925,Saving Private Ryan (1998),Action|Drama|War
+219,2028,4.5,1194686164,Saving Private Ryan (1998),Action|Drama|War
+239,2028,5.0,1221158235,Saving Private Ryan (1998),Action|Drama|War
+249,2028,4.5,1346758267,Saving Private Ryan (1998),Action|Drama|War
+274,2028,4.0,1171758796,Saving Private Ryan (1998),Action|Drama|War
+288,2028,3.5,1054569131,Saving Private Ryan (1998),Action|Drama|War
+330,2028,3.5,1285904512,Saving Private Ryan (1998),Action|Drama|War
+380,2028,5.0,1493473912,Saving Private Ryan (1998),Action|Drama|War
+414,2028,5.0,961512341,Saving Private Ryan (1998),Action|Drama|War
+425,2028,4.0,1085477467,Saving Private Ryan (1998),Action|Drama|War
+434,2028,5.0,1270606647,Saving Private Ryan (1998),Action|Drama|War
+474,2028,3.0,974667301,Saving Private Ryan (1998),Action|Drama|War
+480,2028,4.5,1179177682,Saving Private Ryan (1998),Action|Drama|War
+483,2028,4.0,1178293027,Saving Private Ryan (1998),Action|Drama|War
+489,2028,3.0,1333101345,Saving Private Ryan (1998),Action|Drama|War
+573,2028,5.0,1186589564,Saving Private Ryan (1998),Action|Drama|War
+580,2028,5.0,1167673436,Saving Private Ryan (1998),Action|Drama|War
+590,2028,4.0,1258420540,Saving Private Ryan (1998),Action|Drama|War
+599,2028,3.5,1498537662,Saving Private Ryan (1998),Action|Drama|War
+608,2028,4.5,1117415309,Saving Private Ryan (1998),Action|Drama|War
+18,2329,4.0,1455209651,American History X (1998),Crime|Drama
+63,2329,4.0,1443199801,American History X (1998),Crime|Drama
+64,2329,4.0,1161519962,American History X (1998),Crime|Drama
+68,2329,2.5,1158532441,American History X (1998),Crime|Drama
+182,2329,4.5,1055157265,American History X (1998),Crime|Drama
+219,2329,3.5,1194685912,American History X (1998),Crime|Drama
+239,2329,5.0,1221158984,American History X (1998),Crime|Drama
+249,2329,4.5,1346754930,American History X (1998),Crime|Drama
+274,2329,4.5,1171408968,American History X (1998),Crime|Drama
+288,2329,4.5,1103647817,American History X (1998),Crime|Drama
+307,2329,5.0,1186084864,American History X (1998),Crime|Drama
+330,2329,4.0,1285904038,American History X (1998),Crime|Drama
+414,2329,5.0,961516921,American History X (1998),Crime|Drama
+425,2329,4.0,1085492359,American History X (1998),Crime|Drama
+434,2329,5.0,1270603477,American History X (1998),Crime|Drama
+474,2329,4.0,979180103,American History X (1998),Crime|Drama
+480,2329,5.0,1179160064,American History X (1998),Crime|Drama
+483,2329,3.0,1181496656,American History X (1998),Crime|Drama
+573,2329,5.0,1186589533,American History X (1998),Crime|Drama
+580,2329,4.0,1167789610,American History X (1998),Crime|Drama
+590,2329,3.0,1258418095,American History X (1998),Crime|Drama
+599,2329,4.0,1498499284,American History X (1998),Crime|Drama
+600,2329,4.0,1237743404,American History X (1998),Crime|Drama
+608,2329,4.0,1117162555,American History X (1998),Crime|Drama
+18,2571,4.5,1455209654,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+63,2571,3.5,1443199667,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+64,2571,4.0,1161519966,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+68,2571,4.5,1158531187,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+91,2571,5.0,1112712839,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+140,2571,4.0,967048185,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+177,2571,3.0,1435523707,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+182,2571,5.0,1054779786,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+219,2571,5.0,1194686044,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+239,2571,5.0,1221158121,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+249,2571,5.0,1346757773,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+274,2571,4.0,1171409506,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+288,2571,3.0,975692000,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+307,2571,3.5,1189455492,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+330,2571,3.5,1285904357,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+380,2571,4.5,1493419763,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+414,2571,5.0,961514761,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+425,2571,3.5,1085477519,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+434,2571,5.0,1270603946,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+448,2571,2.0,1162753923,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+474,2571,4.5,1053020932,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+480,2571,5.0,1179160175,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+483,2571,4.5,1215548672,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+489,2571,4.0,1332772362,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+573,2571,5.0,1186589585,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+580,2571,5.0,1167783678,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+590,2571,4.0,1258419539,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+599,2571,5.0,1519029461,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+600,2571,3.0,1237712912,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+608,2571,5.0,1117162423,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+18,2683,2.5,1455231399,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+63,2683,3.0,1443201238,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+64,2683,4.0,1161520354,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+68,2683,3.5,1158531052,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+91,2683,3.5,1112713396,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+140,2683,0.5,1075154511,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+177,2683,1.0,1435890576,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+182,2683,4.0,1055155129,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+219,2683,4.0,1194931889,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+239,2683,3.5,1221158347,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+249,2683,3.0,1395827260,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+274,2683,4.0,1171491551,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+307,2683,3.5,1186085444,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+330,2683,3.5,1285905222,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+380,2683,3.0,1494803445,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+414,2683,4.0,961436515,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+425,2683,3.0,1085477779,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+434,2683,3.5,1270604873,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+448,2683,4.5,1092562805,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+474,2683,3.0,1046870775,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+480,2683,4.5,1179177769,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+483,2683,3.5,1327276878,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+489,2683,1.5,1385823488,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+573,2683,4.0,1248839896,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+580,2683,3.0,1167673458,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+590,2683,2.5,1258416583,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+599,2683,3.5,1498501803,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+600,2683,2.5,1237711290,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+608,2683,3.0,1117504374,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+18,2762,4.5,1455209891,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+64,2762,4.5,1161520995,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+68,2762,2.5,1158531219,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+91,2762,4.0,1112712914,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+182,2762,4.0,1126561639,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+219,2762,2.0,1194686702,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+249,2762,4.0,1346757730,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+274,2762,4.0,1171409964,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+288,2762,3.0,985626767,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+307,2762,2.5,1186161005,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+330,2762,4.0,1285904541,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+380,2762,5.0,1493473932,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+414,2762,3.0,961437029,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+425,2762,3.5,1085477566,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+434,2762,5.0,1270604701,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+448,2762,4.0,1019142152,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+474,2762,5.0,979179872,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+480,2762,4.0,1179160250,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+483,2762,3.5,1178292994,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+489,2762,3.0,1333101341,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+573,2762,4.0,1248842677,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+580,2762,4.5,1167791226,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+590,2762,3.5,1258420545,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+599,2762,3.5,1498501147,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+600,2762,3.5,1237857060,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+608,2762,4.5,1189471095,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+18,2959,4.5,1455049351,Fight Club (1999),Action|Crime|Drama|Thriller
+63,2959,5.0,1443200442,Fight Club (1999),Action|Crime|Drama|Thriller
+64,2959,4.5,1161520542,Fight Club (1999),Action|Crime|Drama|Thriller
+68,2959,2.5,1158531333,Fight Club (1999),Action|Crime|Drama|Thriller
+91,2959,4.5,1112711473,Fight Club (1999),Action|Crime|Drama|Thriller
+177,2959,4.0,1435523771,Fight Club (1999),Action|Crime|Drama|Thriller
+182,2959,5.0,1054780289,Fight Club (1999),Action|Crime|Drama|Thriller
+219,2959,4.5,1194681032,Fight Club (1999),Action|Crime|Drama|Thriller
+239,2959,5.0,1221148027,Fight Club (1999),Action|Crime|Drama|Thriller
+249,2959,5.0,1346757736,Fight Club (1999),Action|Crime|Drama|Thriller
+274,2959,5.0,1171172709,Fight Club (1999),Action|Crime|Drama|Thriller
+288,2959,3.5,1054569349,Fight Club (1999),Action|Crime|Drama|Thriller
+307,2959,4.0,1186161397,Fight Club (1999),Action|Crime|Drama|Thriller
+330,2959,4.0,1285904207,Fight Club (1999),Action|Crime|Drama|Thriller
+380,2959,4.0,1494803410,Fight Club (1999),Action|Crime|Drama|Thriller
+414,2959,5.0,961437188,Fight Club (1999),Action|Crime|Drama|Thriller
+425,2959,4.5,1085492394,Fight Club (1999),Action|Crime|Drama|Thriller
+434,2959,5.0,1270603481,Fight Club (1999),Action|Crime|Drama|Thriller
+448,2959,4.0,1019137594,Fight Club (1999),Action|Crime|Drama|Thriller
+474,2959,4.0,1100291874,Fight Club (1999),Action|Crime|Drama|Thriller
+480,2959,4.5,1179160120,Fight Club (1999),Action|Crime|Drama|Thriller
+483,2959,4.5,1215871698,Fight Club (1999),Action|Crime|Drama|Thriller
+489,2959,4.5,1332772151,Fight Club (1999),Action|Crime|Drama|Thriller
+573,2959,5.0,1186589334,Fight Club (1999),Action|Crime|Drama|Thriller
+580,2959,5.0,1167783675,Fight Club (1999),Action|Crime|Drama|Thriller
+590,2959,3.5,1258416553,Fight Club (1999),Action|Crime|Drama|Thriller
+599,2959,5.0,1498456882,Fight Club (1999),Action|Crime|Drama|Thriller
+600,2959,4.5,1237743321,Fight Club (1999),Action|Crime|Drama|Thriller
+608,2959,5.0,1117336631,Fight Club (1999),Action|Crime|Drama|Thriller
+18,3578,4.5,1455209857,Gladiator (2000),Action|Adventure|Drama
+63,3578,3.0,1443199923,Gladiator (2000),Action|Adventure|Drama
+68,3578,4.0,1158531236,Gladiator (2000),Action|Adventure|Drama
+91,3578,3.5,1112713384,Gladiator (2000),Action|Adventure|Drama
+140,3578,4.0,973265043,Gladiator (2000),Action|Adventure|Drama
+182,3578,3.5,1054782084,Gladiator (2000),Action|Adventure|Drama
+219,3578,4.5,1194932059,Gladiator (2000),Action|Adventure|Drama
+239,3578,4.5,1221158588,Gladiator (2000),Action|Adventure|Drama
+249,3578,4.0,1346758030,Gladiator (2000),Action|Adventure|Drama
+274,3578,3.5,1171428468,Gladiator (2000),Action|Adventure|Drama
+288,3578,2.0,984416988,Gladiator (2000),Action|Adventure|Drama
+307,3578,3.5,1186161400,Gladiator (2000),Action|Adventure|Drama
+330,3578,4.0,1285905144,Gladiator (2000),Action|Adventure|Drama
+380,3578,4.0,1493474154,Gladiator (2000),Action|Adventure|Drama
+414,3578,5.0,961436763,Gladiator (2000),Action|Adventure|Drama
+425,3578,4.5,1106483355,Gladiator (2000),Action|Adventure|Drama
+434,3578,3.5,1270604400,Gladiator (2000),Action|Adventure|Drama
+448,3578,4.0,1019124292,Gladiator (2000),Action|Adventure|Drama
+474,3578,3.0,974667165,Gladiator (2000),Action|Adventure|Drama
+480,3578,4.5,1179161959,Gladiator (2000),Action|Adventure|Drama
+483,3578,3.5,1178293197,Gladiator (2000),Action|Adventure|Drama
+489,3578,0.5,1332772197,Gladiator (2000),Action|Adventure|Drama
+573,3578,3.5,1186589637,Gladiator (2000),Action|Adventure|Drama
+580,3578,4.0,1167674171,Gladiator (2000),Action|Adventure|Drama
+590,3578,4.5,1258416547,Gladiator (2000),Action|Adventure|Drama
+599,3578,3.5,1498501113,Gladiator (2000),Action|Adventure|Drama
+608,3578,4.0,1117162075,Gladiator (2000),Action|Adventure|Drama
+18,3793,4.0,1464994762,X-Men (2000),Action|Adventure|Sci-Fi
+63,3793,3.5,1443200551,X-Men (2000),Action|Adventure|Sci-Fi
+64,3793,3.5,1161520586,X-Men (2000),Action|Adventure|Sci-Fi
+68,3793,4.5,1158531375,X-Men (2000),Action|Adventure|Sci-Fi
+91,3793,4.0,1112713489,X-Men (2000),Action|Adventure|Sci-Fi
+177,3793,4.5,1435524208,X-Men (2000),Action|Adventure|Sci-Fi
+182,3793,2.5,1054779940,X-Men (2000),Action|Adventure|Sci-Fi
+219,3793,3.0,1194931897,X-Men (2000),Action|Adventure|Sci-Fi
+239,3793,4.5,1221158206,X-Men (2000),Action|Adventure|Sci-Fi
+249,3793,4.0,1346841365,X-Men (2000),Action|Adventure|Sci-Fi
+274,3793,3.0,1171493883,X-Men (2000),Action|Adventure|Sci-Fi
+288,3793,3.5,1054569529,X-Men (2000),Action|Adventure|Sci-Fi
+307,3793,3.5,1242822587,X-Men (2000),Action|Adventure|Sci-Fi
+330,3793,4.0,1285905219,X-Men (2000),Action|Adventure|Sci-Fi
+380,3793,5.0,1494613078,X-Men (2000),Action|Adventure|Sci-Fi
+414,3793,4.0,963840900,X-Men (2000),Action|Adventure|Sci-Fi
+434,3793,4.5,1270604654,X-Men (2000),Action|Adventure|Sci-Fi
+448,3793,4.0,1019125762,X-Men (2000),Action|Adventure|Sci-Fi
+474,3793,4.5,1081177383,X-Men (2000),Action|Adventure|Sci-Fi
+480,3793,4.0,1179163791,X-Men (2000),Action|Adventure|Sci-Fi
+483,3793,3.0,1181494884,X-Men (2000),Action|Adventure|Sci-Fi
+489,3793,3.5,1333101480,X-Men (2000),Action|Adventure|Sci-Fi
+573,3793,4.5,1186721991,X-Men (2000),Action|Adventure|Sci-Fi
+580,3793,4.5,1167674398,X-Men (2000),Action|Adventure|Sci-Fi
+590,3793,3.0,1258419642,X-Men (2000),Action|Adventure|Sci-Fi
+599,3793,3.5,1498500859,X-Men (2000),Action|Adventure|Sci-Fi
+600,3793,3.0,1237742311,X-Men (2000),Action|Adventure|Sci-Fi
+608,3793,4.0,1117161991,X-Men (2000),Action|Adventure|Sci-Fi
+18,4226,4.5,1455231390,Memento (2000),Mystery|Thriller
+63,4226,3.5,1443200550,Memento (2000),Mystery|Thriller
+64,4226,4.5,1161520122,Memento (2000),Mystery|Thriller
+68,4226,4.0,1158531458,Memento (2000),Mystery|Thriller
+91,4226,4.5,1112712170,Memento (2000),Mystery|Thriller
+140,4226,3.0,1020883962,Memento (2000),Mystery|Thriller
+182,4226,4.5,1054780286,Memento (2000),Mystery|Thriller
+219,4226,5.0,1194685887,Memento (2000),Mystery|Thriller
+249,4226,5.0,1437146248,Memento (2000),Mystery|Thriller
+274,4226,4.5,1171408958,Memento (2000),Mystery|Thriller
+288,4226,4.5,1054568289,Memento (2000),Mystery|Thriller
+307,4226,4.0,1211305247,Memento (2000),Mystery|Thriller
+330,4226,5.0,1285904361,Memento (2000),Mystery|Thriller
+380,4226,5.0,1493419802,Memento (2000),Mystery|Thriller
+414,4226,5.0,991750128,Memento (2000),Mystery|Thriller
+425,4226,3.5,1085476666,Memento (2000),Mystery|Thriller
+434,4226,5.0,1270603948,Memento (2000),Mystery|Thriller
+448,4226,4.0,1026978102,Memento (2000),Mystery|Thriller
+474,4226,5.0,990751680,Memento (2000),Mystery|Thriller
+480,4226,4.0,1179160178,Memento (2000),Mystery|Thriller
+483,4226,4.0,1178293035,Memento (2000),Mystery|Thriller
+489,4226,4.5,1332772278,Memento (2000),Mystery|Thriller
+573,4226,5.0,1186589556,Memento (2000),Mystery|Thriller
+580,4226,5.0,1167783666,Memento (2000),Mystery|Thriller
+590,4226,3.5,1266472486,Memento (2000),Mystery|Thriller
+599,4226,4.5,1498762577,Memento (2000),Mystery|Thriller
+600,4226,4.0,1237742307,Memento (2000),Mystery|Thriller
+608,4226,4.5,1147794895,Memento (2000),Mystery|Thriller
+18,4306,4.0,1455209697,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+63,4306,2.5,1443200549,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+64,4306,3.5,1161520021,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+68,4306,5.0,1158531222,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+91,4306,5.0,1112713468,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+140,4306,3.0,1010775654,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+177,4306,4.0,1435524183,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+182,4306,4.0,1054780155,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+219,4306,4.5,1194931848,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+239,4306,4.0,1221158396,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+249,4306,3.5,1346757652,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+274,4306,3.5,1171494063,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+288,4306,4.0,1010510803,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+307,4306,2.5,1186161417,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+330,4306,4.5,1285905149,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+380,4306,5.0,1493473936,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+414,4306,4.0,990713929,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+425,4306,4.0,1085476559,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+434,4306,3.0,1270604393,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+474,4306,4.5,1081177366,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+480,4306,3.5,1179163506,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+483,4306,4.0,1178292998,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+489,4306,4.0,1333101413,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+573,4306,4.5,1248842418,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+580,4306,4.0,1176756045,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+590,4306,4.0,1258419637,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+599,4306,2.5,1498516815,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+600,4306,3.5,1237712656,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+608,4306,4.5,1117491236,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+18,4886,4.0,1455209685,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+63,4886,3.5,1443200554,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+64,4886,4.0,1161520043,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+68,4886,4.5,1158531462,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+91,4886,4.0,1112712128,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+140,4886,4.0,1039547738,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+177,4886,5.0,1435524210,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+182,4886,4.5,1054781119,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+219,4886,3.5,1214043303,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+239,4886,4.5,1221158912,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+249,4886,4.0,1346757932,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+274,4886,3.5,1171409974,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+288,4886,4.5,1198509989,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+307,4886,3.0,1186161623,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+330,4886,5.0,1285905314,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+380,4886,5.0,1493473866,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+414,4886,4.0,1006186497,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+425,4886,4.0,1085492374,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+434,4886,4.5,1270604658,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+448,4886,4.0,1071935179,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+474,4886,3.0,1046871268,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+480,4886,2.5,1179163392,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+483,4886,4.5,1178293841,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+573,4886,4.0,1186590247,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+599,4886,2.5,1498515011,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+600,4886,3.0,1237761503,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+608,4886,4.0,1117162255,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+18,4963,4.0,1455209694,Ocean's Eleven (2001),Crime|Thriller
+63,4963,4.0,1443200556,Ocean's Eleven (2001),Crime|Thriller
+68,4963,3.5,1158531698,Ocean's Eleven (2001),Crime|Thriller
+91,4963,3.5,1112712364,Ocean's Eleven (2001),Crime|Thriller
+140,4963,3.0,1030558935,Ocean's Eleven (2001),Crime|Thriller
+177,4963,4.0,1435524217,Ocean's Eleven (2001),Crime|Thriller
+182,4963,4.0,1054780933,Ocean's Eleven (2001),Crime|Thriller
+219,4963,5.0,1194686334,Ocean's Eleven (2001),Crime|Thriller
+239,4963,4.0,1221159528,Ocean's Eleven (2001),Crime|Thriller
+249,4963,4.0,1346757985,Ocean's Eleven (2001),Crime|Thriller
+274,4963,4.0,1171943576,Ocean's Eleven (2001),Crime|Thriller
+288,4963,3.5,1054569123,Ocean's Eleven (2001),Crime|Thriller
+330,4963,3.5,1285905340,Ocean's Eleven (2001),Crime|Thriller
+380,4963,3.0,1494528161,Ocean's Eleven (2001),Crime|Thriller
+414,4963,4.0,1008690868,Ocean's Eleven (2001),Crime|Thriller
+425,4963,4.0,1085492400,Ocean's Eleven (2001),Crime|Thriller
+434,4963,4.0,1270604560,Ocean's Eleven (2001),Crime|Thriller
+448,4963,4.0,1019124380,Ocean's Eleven (2001),Crime|Thriller
+474,4963,4.0,1046871225,Ocean's Eleven (2001),Crime|Thriller
+480,4963,3.5,1179163588,Ocean's Eleven (2001),Crime|Thriller
+483,4963,4.0,1178215672,Ocean's Eleven (2001),Crime|Thriller
+489,4963,3.5,1333101608,Ocean's Eleven (2001),Crime|Thriller
+580,4963,4.0,1167791407,Ocean's Eleven (2001),Crime|Thriller
+590,4963,3.5,1258417935,Ocean's Eleven (2001),Crime|Thriller
+599,4963,4.0,1498499728,Ocean's Eleven (2001),Crime|Thriller
+600,4963,1.0,1237759148,Ocean's Eleven (2001),Crime|Thriller
+608,4963,4.5,1117162382,Ocean's Eleven (2001),Crime|Thriller
+18,4973,4.0,1455209683,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+64,4973,5.0,1161520450,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+68,4973,2.0,1158531456,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+182,4973,4.5,1066639510,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+414,4973,5.0,1027519001,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+425,4973,4.0,1163190819,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+474,4973,5.0,1046811889,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+480,4973,4.5,1179160059,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+483,4973,5.0,1178211491,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+489,4973,5.0,1332773263,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+580,4973,4.5,1167790644,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+599,4973,5.0,1498533410,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+600,4973,4.0,1237709789,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+18,4993,4.5,1455209675,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+63,4993,4.0,1443199786,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+64,4993,4.5,1161519956,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+68,4993,4.5,1158531063,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+91,4993,4.5,1112711439,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+140,4993,3.0,1030558904,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+177,4993,2.0,1435523692,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+182,4993,3.0,1054780153,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+219,4993,3.5,1194681037,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+239,4993,5.0,1221158212,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+249,4993,5.0,1346757869,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+274,4993,3.0,1171409651,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+288,4993,5.0,1034954746,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+307,4993,3.0,1186161407,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+330,4993,3.5,1285904328,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+380,4993,5.0,1493423199,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+414,4993,5.0,1010588118,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+425,4993,4.5,1085490522,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+434,4993,5.0,1270604133,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+448,4993,4.0,1041438979,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+474,4993,5.0,1013367179,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+480,4993,3.5,1179160162,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+483,4993,4.5,1178292943,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+489,4993,4.0,1332772158,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+573,4993,5.0,1248840083,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+580,4993,4.5,1167673962,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+590,4993,4.5,1258420625,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+599,4993,4.0,1498499417,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+600,4993,5.0,1237714397,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+608,4993,4.5,1117407739,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+18,4995,4.5,1455209718,"Beautiful Mind, A (2001)",Drama|Romance
+63,4995,4.0,1443200558,"Beautiful Mind, A (2001)",Drama|Romance
+68,4995,3.5,1158531267,"Beautiful Mind, A (2001)",Drama|Romance
+140,4995,5.0,1012506009,"Beautiful Mind, A (2001)",Drama|Romance
+177,4995,4.0,1435524227,"Beautiful Mind, A (2001)",Drama|Romance
+182,4995,4.0,1055157215,"Beautiful Mind, A (2001)",Drama|Romance
+219,4995,4.0,1217436309,"Beautiful Mind, A (2001)",Drama|Romance
+274,4995,4.0,1228303165,"Beautiful Mind, A (2001)",Drama|Romance
+288,4995,3.0,1026822457,"Beautiful Mind, A (2001)",Drama|Romance
+307,4995,3.0,1186086093,"Beautiful Mind, A (2001)",Drama|Romance
+414,4995,4.0,1017669769,"Beautiful Mind, A (2001)",Drama|Romance
+425,4995,4.0,1085492438,"Beautiful Mind, A (2001)",Drama|Romance
+434,4995,4.0,1270604908,"Beautiful Mind, A (2001)",Drama|Romance
+474,4995,3.5,1087832443,"Beautiful Mind, A (2001)",Drama|Romance
+480,4995,4.0,1179160783,"Beautiful Mind, A (2001)",Drama|Romance
+483,4995,4.5,1415579293,"Beautiful Mind, A (2001)",Drama|Romance
+489,4995,4.0,1333101658,"Beautiful Mind, A (2001)",Drama|Romance
+580,4995,3.5,1167861744,"Beautiful Mind, A (2001)",Drama|Romance
+590,4995,4.0,1258416711,"Beautiful Mind, A (2001)",Drama|Romance
+599,4995,2.5,1498518536,"Beautiful Mind, A (2001)",Drama|Romance
+600,4995,3.0,1237711025,"Beautiful Mind, A (2001)",Drama|Romance
+608,4995,4.5,1189471185,"Beautiful Mind, A (2001)",Drama|Romance
+18,5349,4.0,1456923908,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+63,5349,0.5,1443200379,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+68,5349,4.5,1158531619,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+91,5349,5.0,1112712351,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+140,5349,3.5,1115290565,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+177,5349,3.5,1435524223,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+182,5349,3.0,1055151103,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+219,5349,3.5,1194740109,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+239,5349,4.5,1221158178,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+249,5349,4.0,1346847829,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+274,5349,3.0,1171409959,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+288,5349,4.0,1101506959,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+307,5349,4.0,1242822663,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+330,5349,3.0,1285905323,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+380,5349,4.0,1494528163,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+414,5349,5.0,1020450091,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+425,5349,3.0,1106482551,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+434,5349,3.5,1270604360,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+448,5349,4.0,1026288001,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+474,5349,4.5,1100291637,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+480,5349,4.0,1179163739,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+483,5349,4.5,1178293961,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+489,5349,3.0,1333101600,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+573,5349,5.0,1186589361,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+580,5349,3.5,1167793008,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+590,5349,3.0,1258420945,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+599,5349,3.5,1498501062,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+600,5349,3.5,1237715185,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+608,5349,3.0,1117408260,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+18,5445,4.0,1455209691,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+63,5445,4.0,1443200261,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+64,5445,4.0,1161519691,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+68,5445,3.0,1158531331,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+91,5445,3.5,1112712361,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+140,5445,3.0,1055092997,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+177,5445,5.0,1435524214,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+182,5445,3.0,1054779798,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+219,5445,3.5,1194740102,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+239,5445,4.0,1221148020,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+249,5445,4.0,1346847731,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+274,5445,3.5,1171934907,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+288,5445,4.0,1069088466,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+307,5445,3.0,1186161600,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+330,5445,3.5,1285905295,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+380,5445,4.0,1494528159,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+414,5445,5.0,1024928368,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+425,5445,4.0,1085492413,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+434,5445,3.0,1270604305,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+448,5445,4.0,1026715888,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+474,5445,4.5,1053021105,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+483,5445,4.5,1178293786,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+489,5445,4.0,1333101549,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+573,5445,4.5,1186722529,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+580,5445,4.5,1167674258,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+590,5445,3.0,1258420859,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+599,5445,2.5,1498517900,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+608,5445,4.5,1147794899,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+18,5952,3.5,1455209677,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+63,5952,3.5,1443200469,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+64,5952,4.5,1161519958,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+68,5952,4.0,1158531245,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+91,5952,4.0,1112713695,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+140,5952,4.0,1079472379,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+177,5952,2.0,1435523704,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+182,5952,3.0,1054780151,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+219,5952,3.5,1194681162,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+239,5952,5.0,1221147996,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+249,5952,4.5,1346757871,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+274,5952,3.5,1171409985,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+288,5952,3.5,1054568854,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+307,5952,3.0,1186161442,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+330,5952,4.0,1285904333,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+380,5952,5.0,1493423201,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+414,5952,5.0,1040398879,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+425,5952,4.5,1085490982,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+434,5952,5.0,1270604127,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+448,5952,4.0,1042547681,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+474,5952,5.0,1046809381,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+480,5952,4.5,1179160168,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+483,5952,4.5,1181494857,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+489,5952,4.0,1332772103,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+573,5952,4.5,1248840084,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+580,5952,4.5,1167673966,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+590,5952,5.0,1258416542,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+599,5952,3.0,1498523254,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+600,5952,5.0,1237764306,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+608,5952,4.5,1117407736,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+18,5989,4.0,1455209729,Catch Me If You Can (2002),Crime|Drama
+63,5989,4.0,1443200569,Catch Me If You Can (2002),Crime|Drama
+68,5989,3.5,1158531389,Catch Me If You Can (2002),Crime|Drama
+91,5989,2.5,1112713128,Catch Me If You Can (2002),Crime|Drama
+140,5989,4.0,1055896017,Catch Me If You Can (2002),Crime|Drama
+177,5989,4.5,1435524309,Catch Me If You Can (2002),Crime|Drama
+219,5989,3.5,1194686282,Catch Me If You Can (2002),Crime|Drama
+239,5989,4.0,1221158364,Catch Me If You Can (2002),Crime|Drama
+249,5989,3.5,1346757924,Catch Me If You Can (2002),Crime|Drama
+274,5989,4.0,1171409954,Catch Me If You Can (2002),Crime|Drama
+288,5989,3.5,1071523192,Catch Me If You Can (2002),Crime|Drama
+307,5989,3.5,1186087717,Catch Me If You Can (2002),Crime|Drama
+330,5989,4.0,1285905623,Catch Me If You Can (2002),Crime|Drama
+380,5989,4.0,1494528180,Catch Me If You Can (2002),Crime|Drama
+414,5989,4.0,1057178061,Catch Me If You Can (2002),Crime|Drama
+425,5989,3.5,1085491094,Catch Me If You Can (2002),Crime|Drama
+434,5989,3.5,1270606691,Catch Me If You Can (2002),Crime|Drama
+448,5989,4.0,1071155545,Catch Me If You Can (2002),Crime|Drama
+474,5989,4.0,1087831605,Catch Me If You Can (2002),Crime|Drama
+480,5989,5.0,1179161120,Catch Me If You Can (2002),Crime|Drama
+483,5989,4.5,1415579308,Catch Me If You Can (2002),Crime|Drama
+489,5989,3.5,1333101797,Catch Me If You Can (2002),Crime|Drama
+573,5989,4.0,1186589235,Catch Me If You Can (2002),Crime|Drama
+590,5989,3.5,1258417855,Catch Me If You Can (2002),Crime|Drama
+599,5989,3.0,1498523331,Catch Me If You Can (2002),Crime|Drama
+608,5989,4.0,1189471178,Catch Me If You Can (2002),Crime|Drama
+18,6377,4.0,1455049810,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+64,6377,5.0,1161520313,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+68,6377,4.5,1271544881,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+140,6377,4.0,1079472354,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+177,6377,4.0,1435523573,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+219,6377,3.5,1194686087,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+239,6377,4.5,1221159464,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+249,6377,4.0,1346757834,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+274,6377,4.0,1171943773,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+288,6377,3.5,1056387066,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+307,6377,3.0,1186161783,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+330,6377,4.5,1285905371,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+380,6377,4.0,1493473848,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+414,6377,4.5,1055777981,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+425,6377,4.0,1085492381,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+434,6377,4.0,1270604376,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+448,6377,3.5,1104061834,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+474,6377,4.0,1070397403,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+480,6377,3.0,1179161764,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+483,6377,4.5,1178294172,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+489,6377,4.0,1332772170,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+573,6377,4.0,1186589779,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+580,6377,4.5,1167792346,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+590,6377,3.5,1258420970,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+600,6377,4.0,1237858799,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+608,6377,4.0,1117162293,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+18,6539,4.5,1455049808,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+63,6539,4.0,1443200039,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+64,6539,4.0,1161520011,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+68,6539,5.0,1158531197,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+91,6539,5.0,1112712353,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+140,6539,3.5,1079472360,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+177,6539,5.0,1435523568,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+182,6539,2.5,1063274328,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+219,6539,4.5,1194686217,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+239,6539,4.0,1221158445,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+249,6539,4.0,1346757892,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+274,6539,4.0,1171491579,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+288,6539,4.0,1083091556,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+307,6539,3.0,1186161691,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+380,6539,5.0,1493419904,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+414,6539,4.5,1058630859,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+425,6539,3.5,1085492366,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+448,6539,3.5,1066291868,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+474,6539,3.5,1075129578,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+480,6539,3.0,1179163366,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+483,6539,4.0,1178213524,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+489,6539,2.0,1333101545,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+573,6539,5.0,1186589649,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+580,6539,4.0,1167673988,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+590,6539,4.0,1258420924,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+599,6539,2.5,1498516218,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+608,6539,4.0,1117162561,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+18,6874,3.5,1455049814,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+63,6874,3.5,1443199987,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+64,6874,4.0,1161520239,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+68,6874,3.0,1158531535,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+91,6874,4.0,1112711490,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+140,6874,2.0,1115290612,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+177,6874,3.5,1435523582,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+182,6874,4.0,1067829786,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+219,6874,4.5,1194686182,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+239,6874,4.0,1221148017,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+249,6874,4.5,1388792807,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+274,6874,5.0,1171172658,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+288,6874,4.0,1091633972,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+307,6874,3.5,1186161944,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+330,6874,5.0,1285905443,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+380,6874,4.0,1494071216,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+414,6874,4.0,1067202569,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+425,6874,3.5,1085492398,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+434,6874,4.0,1270603509,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+448,6874,4.0,1067427681,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+474,6874,4.0,1082256514,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+480,6874,4.0,1179162511,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+483,6874,5.0,1415579179,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+489,6874,5.0,1332772384,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+573,6874,4.5,1186589696,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+580,6874,5.0,1167673986,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+590,6874,4.0,1258421062,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+599,6874,5.0,1498457174,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+600,6874,4.5,1237859423,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+608,6874,4.0,1189471139,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+18,7153,4.5,1455049801,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+63,7153,4.0,1443199780,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+64,7153,4.5,1161519718,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+68,7153,4.5,1158531337,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+91,7153,4.5,1112711441,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+140,7153,5.0,1075154234,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+177,7153,2.0,1435523564,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+182,7153,1.0,1073397287,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+219,7153,3.5,1194686077,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+239,7153,5.0,1221159305,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+249,7153,5.0,1346757887,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+274,7153,3.0,1171409647,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+288,7153,4.0,1073671327,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+307,7153,3.0,1186174295,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+330,7153,4.0,1285904330,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+380,7153,5.0,1493419769,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+414,7153,4.0,1072123275,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+425,7153,4.0,1085492350,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+434,7153,5.0,1270604125,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+448,7153,4.5,1074121330,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+474,7153,5.0,1072654131,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+480,7153,4.0,1179160166,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+483,7153,4.0,1204277340,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+489,7153,4.0,1332772253,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+573,7153,5.0,1248841816,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+580,7153,4.0,1167673964,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+590,7153,4.5,1258420756,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+599,7153,3.0,1498526223,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+600,7153,5.0,1237759080,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+608,7153,4.0,1117162552,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+18,7361,4.0,1456924036,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+63,7361,5.0,1443200470,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+64,7361,4.5,1161519997,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+68,7361,4.5,1158531395,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+177,7361,4.0,1435523578,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+182,7361,4.5,1090326671,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+219,7361,4.5,1194686824,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+249,7361,4.0,1346757646,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+274,7361,5.0,1171172409,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+288,7361,4.5,1110812056,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+307,7361,5.0,1186162117,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+330,7361,3.5,1285905464,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+414,7361,4.5,1081911295,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+425,7361,3.0,1106482657,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+434,7361,4.0,1270604385,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+474,7361,4.5,1080568420,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+480,7361,4.5,1179160117,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+483,7361,5.0,1178211487,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+489,7361,4.5,1332772373,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+580,7361,4.0,1167790261,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+599,7361,3.0,1498519103,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+600,7361,5.0,1237712524,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+608,7361,4.5,1147794846,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+18,8961,3.5,1455209724,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+64,8961,3.5,1161520721,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+68,8961,3.5,1158531177,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+91,8961,4.5,1112712003,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+140,8961,4.5,1115290248,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+177,8961,4.0,1435523585,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+219,8961,4.0,1194685997,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+239,8961,4.5,1221158510,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+249,8961,4.0,1426988948,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+274,8961,3.5,1171409781,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+288,8961,4.0,1112209455,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+307,8961,3.0,1186162113,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+330,8961,4.5,1285905516,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+380,8961,4.0,1493423255,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+414,8961,4.0,1103609459,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+425,8961,4.0,1112288582,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+434,8961,4.5,1270606502,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+448,8961,4.5,1148466855,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+474,8961,4.0,1111151849,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+480,8961,3.5,1179162375,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+483,8961,4.0,1178213548,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+489,8961,3.5,1334170069,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+573,8961,4.5,1186589698,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+580,8961,4.5,1167674561,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+590,8961,4.0,1258416706,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+599,8961,2.5,1498518350,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+608,8961,4.0,1117162564,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+18,33794,4.5,1455050618,Batman Begins (2005),Action|Crime|IMAX
+63,33794,3.5,1443199905,Batman Begins (2005),Action|Crime|IMAX
+64,33794,4.0,1161520706,Batman Begins (2005),Action|Crime|IMAX
+68,33794,2.5,1158531231,Batman Begins (2005),Action|Crime|IMAX
+177,33794,4.0,1435523588,Batman Begins (2005),Action|Crime|IMAX
+182,33794,3.5,1120879664,Batman Begins (2005),Action|Crime|IMAX
+219,33794,4.5,1194685957,Batman Begins (2005),Action|Crime|IMAX
+239,33794,4.5,1221158338,Batman Begins (2005),Action|Crime|IMAX
+249,33794,4.0,1346756618,Batman Begins (2005),Action|Crime|IMAX
+274,33794,3.5,1171172779,Batman Begins (2005),Action|Crime|IMAX
+288,33794,4.5,1145817438,Batman Begins (2005),Action|Crime|IMAX
+307,33794,4.0,1242822641,Batman Begins (2005),Action|Crime|IMAX
+330,33794,3.0,1285905634,Batman Begins (2005),Action|Crime|IMAX
+380,33794,5.0,1493423255,Batman Begins (2005),Action|Crime|IMAX
+414,33794,4.5,1118949162,Batman Begins (2005),Action|Crime|IMAX
+434,33794,4.5,1270604456,Batman Begins (2005),Action|Crime|IMAX
+448,33794,3.5,1119106052,Batman Begins (2005),Action|Crime|IMAX
+474,33794,3.5,1130961759,Batman Begins (2005),Action|Crime|IMAX
+480,33794,4.0,1179160764,Batman Begins (2005),Action|Crime|IMAX
+483,33794,4.0,1178293086,Batman Begins (2005),Action|Crime|IMAX
+489,33794,3.5,1334170022,Batman Begins (2005),Action|Crime|IMAX
+573,33794,4.5,1186589567,Batman Begins (2005),Action|Crime|IMAX
+580,33794,5.0,1167673968,Batman Begins (2005),Action|Crime|IMAX
+590,33794,4.0,1266472415,Batman Begins (2005),Action|Crime|IMAX
+599,33794,3.0,1498521865,Batman Begins (2005),Action|Crime|IMAX
+600,33794,2.5,1237760993,Batman Begins (2005),Action|Crime|IMAX
+18,58559,4.0,1455049372,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+63,58559,5.0,1443199770,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+68,58559,5.0,1218679006,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+177,58559,5.0,1435523703,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+219,58559,5.0,1217436398,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+239,58559,4.5,1221158269,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+249,58559,5.0,1346757831,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+274,58559,4.5,1217212975,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+288,58559,4.5,1231857010,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+307,58559,4.5,1218117699,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+330,58559,5.0,1285904154,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+380,58559,5.0,1493419875,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+414,58559,4.0,1251142393,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+434,58559,5.0,1270603331,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+448,58559,3.5,1232881338,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+483,58559,4.0,1226359425,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+489,58559,4.0,1334170125,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+573,58559,5.0,1248839758,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+590,58559,4.5,1258422583,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+599,58559,3.5,1498798185,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+600,58559,3.5,1237851393,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+18,79132,4.5,1455050059,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+63,79132,3.5,1443200448,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+68,79132,5.0,1305861331,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+177,79132,5.0,1435523764,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+249,79132,5.0,1346757880,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+274,79132,5.0,1284685228,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+330,79132,5.0,1285904281,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+380,79132,5.0,1493420401,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+414,79132,5.0,1281973850,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+425,79132,4.5,1281209161,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+448,79132,4.0,1316888022,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+483,79132,5.0,1281384288,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+489,79132,4.5,1332772468,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+573,79132,5.0,1299222424,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+599,79132,3.0,1498521715,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+63,10,3.0,1443201199,GoldenEye (1995),Action|Adventure|Thriller
+68,10,4.5,1158531612,GoldenEye (1995),Action|Adventure|Thriller
+91,10,3.5,1112713269,GoldenEye (1995),Action|Adventure|Thriller
+182,10,3.5,1054782216,GoldenEye (1995),Action|Adventure|Thriller
+219,10,4.5,1194932162,GoldenEye (1995),Action|Adventure|Thriller
+274,10,4.0,1171428459,GoldenEye (1995),Action|Adventure|Thriller
+288,10,3.0,978465794,GoldenEye (1995),Action|Adventure|Thriller
+307,10,2.5,1186161010,GoldenEye (1995),Action|Adventure|Thriller
+380,10,5.0,1493419787,GoldenEye (1995),Action|Adventure|Thriller
+414,10,3.0,961515863,GoldenEye (1995),Action|Adventure|Thriller
+425,10,3.0,1085477406,GoldenEye (1995),Action|Adventure|Thriller
+434,10,3.5,1270606683,GoldenEye (1995),Action|Adventure|Thriller
+448,10,4.0,1019124400,GoldenEye (1995),Action|Adventure|Thriller
+480,10,4.0,1179177922,GoldenEye (1995),Action|Adventure|Thriller
+483,10,2.0,1178293444,GoldenEye (1995),Action|Adventure|Thriller
+489,10,2.5,1333101410,GoldenEye (1995),Action|Adventure|Thriller
+573,10,4.5,1186722464,GoldenEye (1995),Action|Adventure|Thriller
+580,10,3.5,1167792602,GoldenEye (1995),Action|Adventure|Thriller
+590,10,3.5,1258420600,GoldenEye (1995),Action|Adventure|Thriller
+599,10,3.5,1498500281,GoldenEye (1995),Action|Adventure|Thriller
+608,10,4.0,1117408486,GoldenEye (1995),Action|Adventure|Thriller
+63,150,3.0,1443201072,Apollo 13 (1995),Adventure|Drama|IMAX
+68,150,3.0,1158531364,Apollo 13 (1995),Adventure|Drama|IMAX
+91,150,3.5,1112712023,Apollo 13 (1995),Adventure|Drama|IMAX
+140,150,5.0,942842394,Apollo 13 (1995),Adventure|Drama|IMAX
+177,150,4.0,1435533543,Apollo 13 (1995),Adventure|Drama|IMAX
+182,150,2.5,1055157599,Apollo 13 (1995),Adventure|Drama|IMAX
+219,150,4.0,1194932007,Apollo 13 (1995),Adventure|Drama|IMAX
+249,150,2.5,1346755246,Apollo 13 (1995),Adventure|Drama|IMAX
+288,150,3.0,976120962,Apollo 13 (1995),Adventure|Drama|IMAX
+307,150,2.0,1186411488,Apollo 13 (1995),Adventure|Drama|IMAX
+330,150,3.0,1285904887,Apollo 13 (1995),Adventure|Drama|IMAX
+414,150,4.0,961517162,Apollo 13 (1995),Adventure|Drama|IMAX
+425,150,3.0,1085477188,Apollo 13 (1995),Adventure|Drama|IMAX
+434,150,5.0,1270604631,Apollo 13 (1995),Adventure|Drama|IMAX
+448,150,3.0,1019137611,Apollo 13 (1995),Adventure|Drama|IMAX
+474,150,4.5,1100119714,Apollo 13 (1995),Adventure|Drama|IMAX
+480,150,3.5,1179160667,Apollo 13 (1995),Adventure|Drama|IMAX
+483,150,2.0,1178293393,Apollo 13 (1995),Adventure|Drama|IMAX
+489,150,3.5,1333023417,Apollo 13 (1995),Adventure|Drama|IMAX
+573,150,3.0,1186722115,Apollo 13 (1995),Adventure|Drama|IMAX
+590,150,4.5,1258416681,Apollo 13 (1995),Adventure|Drama|IMAX
+599,150,2.5,1498518425,Apollo 13 (1995),Adventure|Drama|IMAX
+600,150,2.0,1237710443,Apollo 13 (1995),Adventure|Drama|IMAX
+608,150,2.0,1117162618,Apollo 13 (1995),Adventure|Drama|IMAX
+63,153,1.0,1443201088,Batman Forever (1995),Action|Adventure|Comedy|Crime
+64,153,2.5,1161520389,Batman Forever (1995),Action|Adventure|Comedy|Crime
+68,153,3.0,1158531596,Batman Forever (1995),Action|Adventure|Comedy|Crime
+91,153,2.0,1112711306,Batman Forever (1995),Action|Adventure|Comedy|Crime
+177,153,3.0,1435890489,Batman Forever (1995),Action|Adventure|Comedy|Crime
+182,153,3.5,1055150878,Batman Forever (1995),Action|Adventure|Comedy|Crime
+219,153,2.5,1194931838,Batman Forever (1995),Action|Adventure|Comedy|Crime
+274,153,3.5,1171934629,Batman Forever (1995),Action|Adventure|Comedy|Crime
+288,153,2.0,978466567,Batman Forever (1995),Action|Adventure|Comedy|Crime
+307,153,2.0,1186411478,Batman Forever (1995),Action|Adventure|Comedy|Crime
+330,153,3.0,1285905011,Batman Forever (1995),Action|Adventure|Comedy|Crime
+380,153,3.0,1493667398,Batman Forever (1995),Action|Adventure|Comedy|Crime
+414,153,2.0,961439358,Batman Forever (1995),Action|Adventure|Comedy|Crime
+448,153,2.5,1118166852,Batman Forever (1995),Action|Adventure|Comedy|Crime
+474,153,3.0,1046881303,Batman Forever (1995),Action|Adventure|Comedy|Crime
+480,153,1.0,1179177736,Batman Forever (1995),Action|Adventure|Comedy|Crime
+483,153,2.0,1181494702,Batman Forever (1995),Action|Adventure|Comedy|Crime
+489,153,3.0,1334169992,Batman Forever (1995),Action|Adventure|Comedy|Crime
+573,153,1.5,1186722291,Batman Forever (1995),Action|Adventure|Comedy|Crime
+580,153,2.0,1167674840,Batman Forever (1995),Action|Adventure|Comedy|Crime
+590,153,2.5,1258416677,Batman Forever (1995),Action|Adventure|Comedy|Crime
+599,153,2.0,1498511246,Batman Forever (1995),Action|Adventure|Comedy|Crime
+608,153,2.5,1117408484,Batman Forever (1995),Action|Adventure|Comedy|Crime
+63,592,4.0,1443201079,Batman (1989),Action|Crime|Thriller
+68,592,4.0,1158531159,Batman (1989),Action|Crime|Thriller
+91,592,5.0,1112713199,Batman (1989),Action|Crime|Thriller
+177,592,3.0,1435533554,Batman (1989),Action|Crime|Thriller
+182,592,3.5,1054781098,Batman (1989),Action|Crime|Thriller
+219,592,3.5,1199581514,Batman (1989),Action|Crime|Thriller
+274,592,3.0,1177260697,Batman (1989),Action|Crime|Thriller
+288,592,3.0,976138271,Batman (1989),Action|Crime|Thriller
+307,592,4.0,1186085959,Batman (1989),Action|Crime|Thriller
+330,592,4.0,1285904895,Batman (1989),Action|Crime|Thriller
+380,592,3.0,1494803413,Batman (1989),Action|Crime|Thriller
+414,592,4.0,961515727,Batman (1989),Action|Crime|Thriller
+425,592,3.5,1085477178,Batman (1989),Action|Crime|Thriller
+448,592,3.0,1118166857,Batman (1989),Action|Crime|Thriller
+474,592,4.0,1002928730,Batman (1989),Action|Crime|Thriller
+480,592,4.5,1179177615,Batman (1989),Action|Crime|Thriller
+483,592,3.5,1178215116,Batman (1989),Action|Crime|Thriller
+489,592,4.0,1334170003,Batman (1989),Action|Crime|Thriller
+573,592,4.5,1186722177,Batman (1989),Action|Crime|Thriller
+580,592,3.0,1167674576,Batman (1989),Action|Crime|Thriller
+590,592,3.5,1258420402,Batman (1989),Action|Crime|Thriller
+599,592,3.5,1498501127,Batman (1989),Action|Crime|Thriller
+600,592,2.5,1237760730,Batman (1989),Action|Crime|Thriller
+608,592,3.0,1117162346,Batman (1989),Action|Crime|Thriller
+63,1073,3.0,1443201192,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+64,1073,4.0,1161520607,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+68,1073,0.5,1158531588,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+91,1073,3.0,1112713298,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+140,1073,4.0,1012506531,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+177,1073,5.0,1435533672,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+182,1073,4.0,1127208740,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+219,1073,2.5,1194681047,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+274,1073,3.5,1171493897,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+288,1073,4.0,1079984414,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+307,1073,4.0,1186161025,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+330,1073,5.0,1285905135,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+380,1073,4.0,1493473982,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+414,1073,4.0,991327876,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+434,1073,4.5,1270604778,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+448,1073,4.0,1019125228,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+474,1073,3.5,1075404141,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+480,1073,3.5,1179177700,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+483,1073,3.0,1178293546,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+489,1073,3.5,1333101432,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+573,1073,4.5,1186722412,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+590,1073,3.0,1258420632,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+599,1073,3.0,1498532211,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+600,1073,5.0,1237764267,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+608,1073,3.5,1117502866,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+63,1097,2.5,1443201101,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+64,1097,4.5,1161520129,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+68,1097,1.5,1158531418,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+91,1097,3.0,1112713281,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+140,1097,4.0,942841866,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+177,1097,3.0,1435890498,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+182,1097,2.0,1054779923,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+219,1097,2.5,1218210265,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+249,1097,3.0,1346841356,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+288,1097,5.0,975691813,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+307,1097,3.0,1186161008,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+330,1097,4.0,1285905090,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+380,1097,4.0,1493419978,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+414,1097,4.0,961514832,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+425,1097,3.5,1085477461,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+448,1097,4.0,1019123941,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+474,1097,4.0,1137521202,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+480,1097,5.0,1179161568,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+483,1097,3.0,1178293533,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+489,1097,4.0,1333101385,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+580,1097,3.0,1167860946,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+590,1097,4.5,1258420584,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+599,1097,4.0,1498498804,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+600,1097,2.0,1237764434,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+608,1097,2.5,1117504315,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+63,1200,2.5,1443199762,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+68,1200,2.5,1158531997,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+91,1200,5.0,1112711448,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+140,1200,4.5,1080845650,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+182,1200,4.5,1064782813,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+239,1200,4.0,1221158430,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+249,1200,3.5,1346754274,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+274,1200,4.0,1171491997,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+288,1200,3.0,975691813,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+330,1200,4.0,1285904027,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+380,1200,5.0,1493423198,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+414,1200,5.0,961512403,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+425,1200,3.5,1085477630,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+434,1200,5.0,1270604026,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+448,1200,2.0,1113129252,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+474,1200,3.5,1116853629,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+480,1200,4.0,1179160559,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+483,1200,4.5,1181494833,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+489,1200,4.0,1332772670,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+573,1200,4.0,1248842041,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+580,1200,4.5,1167789904,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+590,1200,4.5,1258420736,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+599,1200,5.0,1498533615,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+600,1200,2.0,1237759117,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+608,1200,4.5,1117491293,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+63,1265,3.0,1443201196,Groundhog Day (1993),Comedy|Fantasy|Romance
+64,1265,4.0,1161520350,Groundhog Day (1993),Comedy|Fantasy|Romance
+68,1265,2.5,1158531759,Groundhog Day (1993),Comedy|Fantasy|Romance
+91,1265,4.0,1112713330,Groundhog Day (1993),Comedy|Fantasy|Romance
+140,1265,3.0,949666815,Groundhog Day (1993),Comedy|Fantasy|Romance
+177,1265,4.0,1435533604,Groundhog Day (1993),Comedy|Fantasy|Romance
+182,1265,4.5,1054783243,Groundhog Day (1993),Comedy|Fantasy|Romance
+219,1265,3.5,1194686292,Groundhog Day (1993),Comedy|Fantasy|Romance
+239,1265,2.5,1221158465,Groundhog Day (1993),Comedy|Fantasy|Romance
+249,1265,4.5,1410392531,Groundhog Day (1993),Comedy|Fantasy|Romance
+274,1265,4.5,1171934694,Groundhog Day (1993),Comedy|Fantasy|Romance
+288,1265,4.5,1054568242,Groundhog Day (1993),Comedy|Fantasy|Romance
+307,1265,3.0,1186161049,Groundhog Day (1993),Comedy|Fantasy|Romance
+330,1265,4.5,1285905129,Groundhog Day (1993),Comedy|Fantasy|Romance
+380,1265,5.0,1493420459,Groundhog Day (1993),Comedy|Fantasy|Romance
+414,1265,4.0,961438175,Groundhog Day (1993),Comedy|Fantasy|Romance
+434,1265,5.0,1270604901,Groundhog Day (1993),Comedy|Fantasy|Romance
+448,1265,4.0,1164622262,Groundhog Day (1993),Comedy|Fantasy|Romance
+474,1265,3.0,974668666,Groundhog Day (1993),Comedy|Fantasy|Romance
+480,1265,3.0,1179162064,Groundhog Day (1993),Comedy|Fantasy|Romance
+483,1265,5.0,1215894912,Groundhog Day (1993),Comedy|Fantasy|Romance
+489,1265,3.5,1333101421,Groundhog Day (1993),Comedy|Fantasy|Romance
+590,1265,4.0,1258416614,Groundhog Day (1993),Comedy|Fantasy|Romance
+599,1265,4.0,1498499477,Groundhog Day (1993),Comedy|Fantasy|Romance
+600,1265,4.0,1237858421,Groundhog Day (1993),Comedy|Fantasy|Romance
+608,1265,3.5,1117491561,Groundhog Day (1993),Comedy|Fantasy|Romance
+63,1968,4.0,1443200066,"Breakfast Club, The (1985)",Comedy|Drama
+64,1968,3.5,1161520955,"Breakfast Club, The (1985)",Comedy|Drama
+68,1968,3.0,1158531622,"Breakfast Club, The (1985)",Comedy|Drama
+91,1968,3.0,1112713409,"Breakfast Club, The (1985)",Comedy|Drama
+177,1968,3.5,1435534080,"Breakfast Club, The (1985)",Comedy|Drama
+182,1968,5.0,1126561591,"Breakfast Club, The (1985)",Comedy|Drama
+219,1968,3.0,1194931899,"Breakfast Club, The (1985)",Comedy|Drama
+274,1968,4.0,1186729108,"Breakfast Club, The (1985)",Comedy|Drama
+288,1968,3.0,975692503,"Breakfast Club, The (1985)",Comedy|Drama
+307,1968,4.5,1186087183,"Breakfast Club, The (1985)",Comedy|Drama
+330,1968,5.0,1285905304,"Breakfast Club, The (1985)",Comedy|Drama
+414,1968,5.0,961517252,"Breakfast Club, The (1985)",Comedy|Drama
+425,1968,3.5,1085477725,"Breakfast Club, The (1985)",Comedy|Drama
+448,1968,3.0,1019127229,"Breakfast Club, The (1985)",Comedy|Drama
+474,1968,3.5,1087832687,"Breakfast Club, The (1985)",Comedy|Drama
+480,1968,3.5,1179177782,"Breakfast Club, The (1985)",Comedy|Drama
+483,1968,3.5,1204277310,"Breakfast Club, The (1985)",Comedy|Drama
+489,1968,4.0,1333023145,"Breakfast Club, The (1985)",Comedy|Drama
+599,1968,3.5,1498501664,"Breakfast Club, The (1985)",Comedy|Drama
+608,1968,4.0,1117415321,"Breakfast Club, The (1985)",Comedy|Drama
+63,2716,5.0,1443201173,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+68,2716,2.0,1158531017,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+91,2716,4.5,1112711100,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+140,2716,4.0,1085569775,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+177,2716,4.0,1435533681,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+219,2716,4.0,1194686375,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+239,2716,4.0,1221158649,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+249,2716,4.0,1346758100,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+274,2716,3.5,1171934718,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+288,2716,3.0,975692448,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+307,2716,3.0,1186161394,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+330,2716,4.0,1285905183,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+380,2716,5.0,1493473858,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+414,2716,5.0,961436763,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+425,2716,2.5,1085477634,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+434,2716,5.0,1270604567,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+448,2716,5.0,1019127163,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+474,2716,4.5,1053020930,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+480,2716,4.0,1179161944,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+483,2716,3.0,1178293341,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+489,2716,4.0,1333101458,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+580,2716,4.0,1167861590,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+590,2716,4.0,1258419647,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+599,2716,4.5,1498539244,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+600,2716,4.5,1237714602,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+608,2716,3.0,1117490697,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+63,2858,5.0,1443199797,American Beauty (1999),Drama|Romance
+64,2858,2.5,1161520054,American Beauty (1999),Drama|Romance
+68,2858,5.0,1158531519,American Beauty (1999),Drama|Romance
+140,2858,4.0,1055092164,American Beauty (1999),Drama|Romance
+177,2858,4.0,1435523796,American Beauty (1999),Drama|Romance
+182,2858,5.0,1054780327,American Beauty (1999),Drama|Romance
+219,2858,5.0,1194686027,American Beauty (1999),Drama|Romance
+239,2858,5.0,1221158155,American Beauty (1999),Drama|Romance
+249,2858,4.5,1349221011,American Beauty (1999),Drama|Romance
+274,2858,5.0,1171409201,American Beauty (1999),Drama|Romance
+307,2858,4.0,1186084840,American Beauty (1999),Drama|Romance
+330,2858,4.5,1285904035,American Beauty (1999),Drama|Romance
+414,2858,5.0,961436469,American Beauty (1999),Drama|Romance
+425,2858,3.0,1085477422,American Beauty (1999),Drama|Romance
+434,2858,5.0,1270604165,American Beauty (1999),Drama|Romance
+448,2858,4.0,1043776610,American Beauty (1999),Drama|Romance
+474,2858,3.5,1087831985,American Beauty (1999),Drama|Romance
+480,2858,4.0,1179160061,American Beauty (1999),Drama|Romance
+483,2858,4.0,1178215201,American Beauty (1999),Drama|Romance
+489,2858,4.0,1333101301,American Beauty (1999),Drama|Romance
+573,2858,2.0,1186590377,American Beauty (1999),Drama|Romance
+580,2858,5.0,1167789898,American Beauty (1999),Drama|Romance
+590,2858,3.0,1258420464,American Beauty (1999),Drama|Romance
+599,2858,5.0,1498533774,American Beauty (1999),Drama|Romance
+600,2858,4.5,1237710044,American Beauty (1999),Drama|Romance
+608,2858,5.0,1117336673,American Beauty (1999),Drama|Romance
+64,185,3.0,1161520635,"Net, The (1995)",Action|Crime|Thriller
+68,185,3.0,1158532023,"Net, The (1995)",Action|Crime|Thriller
+91,185,2.0,1112713300,"Net, The (1995)",Action|Crime|Thriller
+140,185,3.0,1085569703,"Net, The (1995)",Action|Crime|Thriller
+177,185,2.5,1435533725,"Net, The (1995)",Action|Crime|Thriller
+182,185,3.0,1126562322,"Net, The (1995)",Action|Crime|Thriller
+219,185,2.0,1237238892,"Net, The (1995)",Action|Crime|Thriller
+274,185,3.0,1171428455,"Net, The (1995)",Action|Crime|Thriller
+307,185,2.5,1227538428,"Net, The (1995)",Action|Crime|Thriller
+380,185,3.0,1493420292,"Net, The (1995)",Action|Crime|Thriller
+414,185,2.0,961515354,"Net, The (1995)",Action|Crime|Thriller
+448,185,2.5,1206217384,"Net, The (1995)",Action|Crime|Thriller
+474,185,3.0,1069686436,"Net, The (1995)",Action|Crime|Thriller
+480,185,1.0,1179177954,"Net, The (1995)",Action|Crime|Thriller
+489,185,0.5,1334170387,"Net, The (1995)",Action|Crime|Thriller
+573,185,3.5,1186722546,"Net, The (1995)",Action|Crime|Thriller
+599,185,2.5,1498514270,"Net, The (1995)",Action|Crime|Thriller
+600,185,2.5,1237713026,"Net, The (1995)",Action|Crime|Thriller
+608,185,3.0,1117415385,"Net, The (1995)",Action|Crime|Thriller
+64,316,3.0,1161520309,Stargate (1994),Action|Adventure|Sci-Fi
+68,316,3.5,1158531378,Stargate (1994),Action|Adventure|Sci-Fi
+91,316,4.0,1112713249,Stargate (1994),Action|Adventure|Sci-Fi
+182,316,2.5,1120879601,Stargate (1994),Action|Adventure|Sci-Fi
+219,316,2.5,1200977858,Stargate (1994),Action|Adventure|Sci-Fi
+239,316,4.0,1221158141,Stargate (1994),Action|Adventure|Sci-Fi
+274,316,3.5,1171934639,Stargate (1994),Action|Adventure|Sci-Fi
+330,316,4.5,1285905025,Stargate (1994),Action|Adventure|Sci-Fi
+380,316,5.0,1494278656,Stargate (1994),Action|Adventure|Sci-Fi
+414,316,3.0,961515271,Stargate (1994),Action|Adventure|Sci-Fi
+425,316,3.5,1085477351,Stargate (1994),Action|Adventure|Sci-Fi
+434,316,3.5,1270604886,Stargate (1994),Action|Adventure|Sci-Fi
+448,316,3.0,1028110820,Stargate (1994),Action|Adventure|Sci-Fi
+474,316,3.5,1053021158,Stargate (1994),Action|Adventure|Sci-Fi
+480,316,4.0,1179177651,Stargate (1994),Action|Adventure|Sci-Fi
+489,316,3.0,1333101362,Stargate (1994),Action|Adventure|Sci-Fi
+573,316,4.0,1186722532,Stargate (1994),Action|Adventure|Sci-Fi
+580,316,4.0,1167792723,Stargate (1994),Action|Adventure|Sci-Fi
+599,316,3.0,1498521582,Stargate (1994),Action|Adventure|Sci-Fi
+608,316,3.0,1117415383,Stargate (1994),Action|Adventure|Sci-Fi
+64,587,4.0,1161520501,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+68,587,2.0,1158532304,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+91,587,2.5,1112713284,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+140,587,3.5,1085569696,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+177,587,3.5,1435533683,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+239,587,3.5,1221158946,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+288,587,3.0,976139854,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+307,587,2.0,1186161012,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+330,587,3.5,1285905132,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+380,587,3.0,1494803428,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+414,587,3.0,961438762,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+434,587,3.0,1270606790,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+448,587,3.0,1019127900,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+474,587,3.0,979180575,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+480,587,3.5,1179177880,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+483,587,3.0,1178293343,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+489,587,4.0,1333101434,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+580,587,1.5,1167790100,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+599,587,2.5,1498514478,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+600,587,3.0,1237715109,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+608,587,2.5,1117504319,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+64,597,3.5,1161520504,Pretty Woman (1990),Comedy|Romance
+68,597,4.5,1158532014,Pretty Woman (1990),Comedy|Romance
+91,597,2.5,1112711248,Pretty Woman (1990),Comedy|Romance
+140,597,5.0,949667232,Pretty Woman (1990),Comedy|Romance
+177,597,4.5,1435890508,Pretty Woman (1990),Comedy|Romance
+182,597,3.5,1120879611,Pretty Woman (1990),Comedy|Romance
+239,597,4.0,1221158197,Pretty Woman (1990),Comedy|Romance
+288,597,3.0,976140083,Pretty Woman (1990),Comedy|Romance
+307,597,3.0,1186160989,Pretty Woman (1990),Comedy|Romance
+330,597,4.0,1285905063,Pretty Woman (1990),Comedy|Romance
+414,597,3.0,961438502,Pretty Woman (1990),Comedy|Romance
+425,597,3.5,1085477415,Pretty Woman (1990),Comedy|Romance
+448,597,3.0,1019127874,Pretty Woman (1990),Comedy|Romance
+474,597,4.0,974669033,Pretty Woman (1990),Comedy|Romance
+480,597,3.0,1179177776,Pretty Woman (1990),Comedy|Romance
+483,597,3.0,1178293142,Pretty Woman (1990),Comedy|Romance
+489,597,4.0,1332772419,Pretty Woman (1990),Comedy|Romance
+590,597,3.0,1258420561,Pretty Woman (1990),Comedy|Romance
+599,597,3.0,1498523500,Pretty Woman (1990),Comedy|Romance
+608,597,2.5,1117490737,Pretty Woman (1990),Comedy|Romance
+64,736,3.5,1161520113,Twister (1996),Action|Adventure|Romance|Thriller
+68,736,4.0,1158532066,Twister (1996),Action|Adventure|Romance|Thriller
+91,736,2.5,1112711143,Twister (1996),Action|Adventure|Romance|Thriller
+140,736,3.0,967049071,Twister (1996),Action|Adventure|Romance|Thriller
+177,736,4.0,1435890491,Twister (1996),Action|Adventure|Romance|Thriller
+219,736,3.0,1194827051,Twister (1996),Action|Adventure|Romance|Thriller
+249,736,3.0,1355786888,Twister (1996),Action|Adventure|Romance|Thriller
+274,736,2.5,1172031275,Twister (1996),Action|Adventure|Romance|Thriller
+288,736,2.0,978468441,Twister (1996),Action|Adventure|Romance|Thriller
+307,736,1.0,1186160977,Twister (1996),Action|Adventure|Romance|Thriller
+330,736,2.0,1285905032,Twister (1996),Action|Adventure|Romance|Thriller
+380,736,3.0,1493667400,Twister (1996),Action|Adventure|Romance|Thriller
+414,736,3.0,961437647,Twister (1996),Action|Adventure|Romance|Thriller
+425,736,2.5,1085477359,Twister (1996),Action|Adventure|Romance|Thriller
+434,736,2.5,1270604821,Twister (1996),Action|Adventure|Romance|Thriller
+448,736,3.0,1019124675,Twister (1996),Action|Adventure|Romance|Thriller
+474,736,2.0,974667817,Twister (1996),Action|Adventure|Romance|Thriller
+480,736,2.5,1179177622,Twister (1996),Action|Adventure|Romance|Thriller
+489,736,2.5,1333101354,Twister (1996),Action|Adventure|Romance|Thriller
+573,736,4.5,1186722420,Twister (1996),Action|Adventure|Romance|Thriller
+580,736,3.5,1167792613,Twister (1996),Action|Adventure|Romance|Thriller
+590,736,2.5,1258420533,Twister (1996),Action|Adventure|Romance|Thriller
+599,736,2.5,1498518451,Twister (1996),Action|Adventure|Romance|Thriller
+600,736,2.5,1237715103,Twister (1996),Action|Adventure|Romance|Thriller
+608,736,3.0,1117408403,Twister (1996),Action|Adventure|Romance|Thriller
+64,1197,4.5,1161520498,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+68,1197,5.0,1158531521,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+91,1197,5.0,1112712901,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+177,1197,5.0,1435720615,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+182,1197,3.5,1054781212,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+219,1197,3.5,1217436302,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+239,1197,4.5,1221158369,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+274,1197,4.0,1171934686,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+288,1197,4.0,975692427,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+307,1197,3.5,1186161029,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+330,1197,4.5,1285904466,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+380,1197,3.5,1502325733,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+414,1197,5.0,961513654,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+434,1197,4.0,1270604677,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+474,1197,4.5,1087832016,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+480,1197,4.5,1179160217,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+483,1197,5.0,1178213522,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+573,1197,3.0,1186721805,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+590,1197,4.5,1258416624,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+599,1197,3.5,1498501425,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+600,1197,5.0,1237763240,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+68,2628,3.0,1158531291,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+91,2628,4.0,1112713335,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+140,2628,4.0,942844235,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+177,2628,2.0,1435533608,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+182,2628,1.5,1054780075,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+219,2628,1.0,1214043519,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+239,2628,3.5,1221158698,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+249,2628,3.5,1347318740,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+274,2628,2.5,1171491491,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+288,2628,4.0,975692084,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+307,2628,4.0,1227538389,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+330,2628,3.0,1285905138,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+380,2628,4.0,1494803425,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+414,2628,4.0,1258247798,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+425,2628,3.0,1085477571,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+434,2628,0.5,1270604685,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+448,2628,2.0,1119469513,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+474,2628,4.0,974667509,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+480,2628,2.0,1179177670,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+483,2628,3.0,1327276826,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+489,2628,1.0,1333101402,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+573,2628,3.5,1248840104,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+580,2628,4.0,1167792623,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+590,2628,2.5,1258429919,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+599,2628,3.0,1498524385,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+600,2628,1.0,1237712907,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+608,2628,4.0,1117408301,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+91,733,3.0,1112713262,"Rock, The (1996)",Action|Adventure|Thriller
+140,733,3.0,942844165,"Rock, The (1996)",Action|Adventure|Thriller
+182,733,3.0,1054780903,"Rock, The (1996)",Action|Adventure|Thriller
+219,733,3.5,1194681074,"Rock, The (1996)",Action|Adventure|Thriller
+239,733,4.0,1221158257,"Rock, The (1996)",Action|Adventure|Thriller
+249,733,4.0,1347317539,"Rock, The (1996)",Action|Adventure|Thriller
+274,733,3.0,1202278201,"Rock, The (1996)",Action|Adventure|Thriller
+288,733,3.0,978465766,"Rock, The (1996)",Action|Adventure|Thriller
+307,733,3.0,1189456315,"Rock, The (1996)",Action|Adventure|Thriller
+380,733,3.0,1493667403,"Rock, The (1996)",Action|Adventure|Thriller
+414,733,3.0,961515808,"Rock, The (1996)",Action|Adventure|Thriller
+425,733,4.0,1085477399,"Rock, The (1996)",Action|Adventure|Thriller
+434,733,3.0,1270604818,"Rock, The (1996)",Action|Adventure|Thriller
+448,733,3.0,1019124354,"Rock, The (1996)",Action|Adventure|Thriller
+474,733,4.0,1100291781,"Rock, The (1996)",Action|Adventure|Thriller
+480,733,3.5,1179177642,"Rock, The (1996)",Action|Adventure|Thriller
+483,733,3.5,1204277189,"Rock, The (1996)",Action|Adventure|Thriller
+489,733,3.5,1332772840,"Rock, The (1996)",Action|Adventure|Thriller
+573,733,4.5,1248842423,"Rock, The (1996)",Action|Adventure|Thriller
+590,733,3.0,1258420571,"Rock, The (1996)",Action|Adventure|Thriller
+599,733,3.5,1498797515,"Rock, The (1996)",Action|Adventure|Thriller
+608,733,4.0,1117408408,"Rock, The (1996)",Action|Adventure|Thriller

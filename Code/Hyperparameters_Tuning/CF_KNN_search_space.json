@@ -1,0 +1,6 @@
+{
+  "S": { "_type": "quniform", "_value": [0.4, 0.8, 0.05] },
+  "M1": { "_type": "choice", "_value": ["pearson", "consine"] },
+  "M2": { "_type": "choice", "_value": ["user_based", "item_based"] },
+  "mci": { "_type": "quniform", "_value": [3, 8, 1] }
+}

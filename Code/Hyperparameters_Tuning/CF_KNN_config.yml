@@ -1,0 +1,11 @@
+searchSpaceFile: CF_KNN_search_space.json
+trialCommand: python3 CF_KNN.py
+trialGpuNumber: 0
+trialConcurrency: 8
+maxTrialNumber: 400
+tuner:
+  name: TPE
+  classArgs:
+    optimize_mode: maximize
+trainingService:
+  platform: local
